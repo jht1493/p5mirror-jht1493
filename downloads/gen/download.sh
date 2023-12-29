@@ -1,1385 +1,2770 @@
-curl https://editor.p5js.org/editor/projects/1ZajWH3S8/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 graph.zip"
-curl https://editor.p5js.org/editor/projects/evFtS3PGD/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series brooklyn shape.zip"
-curl https://editor.p5js.org/editor/projects/FxbTpVyyL/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 sorted.zip"
-curl https://editor.p5js.org/editor/projects/vOZRgmbC4/zip -o "../p5mirror-jht1493/downloads/zips/pattern-animation copy.zip"
-curl https://editor.p5js.org/editor/projects/_NHt9cUfi/zip -o "../p5mirror-jht1493/downloads/zips/South airplane.zip"
-curl https://editor.p5js.org/editor/projects/MjtAJsadM/zip -o "../p5mirror-jht1493/downloads/zips/geolocation 1.zip"
-curl https://editor.p5js.org/editor/projects/S99w4Whth/zip -o "../p5mirror-jht1493/downloads/zips/geolocation.zip"
-curl https://editor.p5js.org/editor/projects/5LgILr8RF/zip -o "../p5mirror-jht1493/downloads/zips/Firebase-createImg-board.zip"
-curl https://editor.p5js.org/editor/projects/xq4zwDd2x/zip -o "../p5mirror-jht1493/downloads/zips/7.3 Arrays of objects 1.zip"
-curl https://editor.p5js.org/editor/projects/0S9HLok88/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT big.zip"
-curl https://editor.p5js.org/editor/projects/juGqHulQl/zip -o "../p5mirror-jht1493/downloads/zips/video radial perlin pix copy.zip"
-curl https://editor.p5js.org/editor/projects/7uTmgYj2hB/zip -o "../p5mirror-jht1493/downloads/zips/scale-graph-3 copy.zip"
-curl https://editor.p5js.org/editor/projects/sM0Hl8r8N/zip -o "../p5mirror-jht1493/downloads/zips/Firebase-createImg-slide-show.zip"
-curl https://editor.p5js.org/editor/projects/m7HULxhHV/zip -o "../p5mirror-jht1493/downloads/zips/ccp x y span.zip"
-curl https://editor.p5js.org/editor/projects/XFKWbV01m/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness getpixel copy.zip"
-curl https://editor.p5js.org/editor/projects/oP_wBebdW/zip -o "../p5mirror-jht1493/downloads/zips/IMS - Truchet func 11.zip"
-curl https://editor.p5js.org/editor/projects/TtXLXAiJv/zip -o "../p5mirror-jht1493/downloads/zips/IMS - Truchet Vamoss.zip"
-curl https://editor.p5js.org/editor/projects/raR7KFAWH/zip -o "../p5mirror-jht1493/downloads/zips/LOADING and PLAYING VIDEO v6 VVV BB.zip"
-curl https://editor.p5js.org/editor/projects/8bR0_MgLU/zip -o "../p5mirror-jht1493/downloads/zips/ccp hello div.zip"
-curl https://editor.p5js.org/editor/projects/B-_Nh-YX0/zip -o "../p5mirror-jht1493/downloads/zips/Simple Draw.zip"
-curl https://editor.p5js.org/editor/projects/QYlq2DxmM/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2 mobile.zip"
-curl https://editor.p5js.org/editor/projects/73TkiEqVD/zip -o "../p5mirror-jht1493/downloads/zips/Insidious violet.zip"
-curl https://editor.p5js.org/editor/projects/Zx8JnxZfw/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2.zip"
-curl https://editor.p5js.org/editor/projects/yyKhJWpyi/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series manhattan.zip"
-curl https://editor.p5js.org/editor/projects/bxiT7lMbt/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series brooklyn.zip"
-curl https://editor.p5js.org/editor/projects/96FIUb5Vs/zip -o "../p5mirror-jht1493/downloads/zips/blur halo copy.zip"
-curl https://editor.p5js.org/editor/projects/Z4SL-Yxt4/zip -o "../p5mirror-jht1493/downloads/zips/Horse Number 1: Scratched nylon 1.zip"
-curl https://editor.p5js.org/editor/projects/OOqwT3Smj/zip -o "../p5mirror-jht1493/downloads/zips/[P.COMP] Positional LED Sampler Manual Change copy.zip"
-curl https://editor.p5js.org/editor/projects/E8VTO0IaL/zip -o "../p5mirror-jht1493/downloads/zips/meteorites array.zip"
-curl https://editor.p5js.org/editor/projects/8-Kxu6iCR/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy copy.zip"
-curl https://editor.p5js.org/editor/projects/RHp65QcZF/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy.zip"
-curl https://editor.p5js.org/editor/projects/BTYdMC2yK/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy.zip"
-curl https://editor.p5js.org/editor/projects/_w0P3YNQP/zip -o "../p5mirror-jht1493/downloads/zips/final project-Pong game copy.zip"
-curl https://editor.p5js.org/editor/projects/NkPP_NhSR/zip -o "../p5mirror-jht1493/downloads/zips/perlin noise copy.zip"
-curl https://editor.p5js.org/editor/projects/R4inRVKg6/zip -o "../p5mirror-jht1493/downloads/zips/final project-Pong game copy.zip"
-curl https://editor.p5js.org/editor/projects/z5kRIV5ZMl/zip -o "../p5mirror-jht1493/downloads/zips/Hammerhead idea copy copy.zip"
-curl https://editor.p5js.org/editor/projects/yBPE3ltQK/zip -o "../p5mirror-jht1493/downloads/zips/Hammerhead idea copy.zip"
-curl https://editor.p5js.org/editor/projects/m5ljp9e1K/zip -o "../p5mirror-jht1493/downloads/zips/Sliders copy.zip"
-curl https://editor.p5js.org/editor/projects/aKfEKliRc/zip -o "../p5mirror-jht1493/downloads/zips/image-slideshow-carousel copy.zip"
-curl https://editor.p5js.org/editor/projects/P8hMPxupZ/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi with secodn step copy.zip"
-curl https://editor.p5js.org/editor/projects/faMgqqnz_/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi detect setup.zip"
-curl https://editor.p5js.org/editor/projects/HgpOKD5Pr/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi detect.zip"
-curl https://editor.p5js.org/editor/projects/9ZpuNvjju/zip -o "../p5mirror-jht1493/downloads/zips/Mario Meets Pokemon 4 copy.zip"
-curl https://editor.p5js.org/editor/projects/cUEF7D90I/zip -o "../p5mirror-jht1493/downloads/zips/Week11-Synthetic music copy.zip"
-curl https://editor.p5js.org/editor/projects/rWPClKjOB/zip -o "../p5mirror-jht1493/downloads/zips/FluteSoundSynthesis copy.zip"
-curl https://editor.p5js.org/editor/projects/bJt-NPhOo/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed 1QAZ FFT copy.zip"
-curl https://editor.p5js.org/editor/projects/FoN8-xraX/zip -o "../p5mirror-jht1493/downloads/zips/text points perlin noise.zip"
-curl https://editor.p5js.org/editor/projects/JG-Wh7SQz/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON covid-19.zip"
-curl https://editor.p5js.org/editor/projects/A0o3Otz_g/zip -o "../p5mirror-jht1493/downloads/zips/Sound Sine Color Sketch copy.zip"
-curl https://editor.p5js.org/editor/projects/CAJz58Up0/zip -o "../p5mirror-jht1493/downloads/zips/CC 58 - Earthquake Visualization 3D copy.zip"
-curl https://editor.p5js.org/editor/projects/cJhHllx0c/zip -o "../p5mirror-jht1493/downloads/zips/WK11 Reverb by Cassie Tarakajian copy.zip"
-curl https://editor.p5js.org/editor/projects/LuFjTgW4K/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 11 - Note ratio columns copy.zip"
-curl https://editor.p5js.org/editor/projects/hYuuOwGqA/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 11 - Oscillator with Different Wave Types copy.zip"
-curl https://editor.p5js.org/editor/projects/s2GSSdex7/zip -o "../p5mirror-jht1493/downloads/zips/Perlin Noise GIF Loops copy.zip"
-curl https://editor.p5js.org/editor/projects/gU1tzzExN/zip -o "../p5mirror-jht1493/downloads/zips/music copy.zip"
-curl https://editor.p5js.org/editor/projects/DCYEO0YOk/zip -o "../p5mirror-jht1493/downloads/zips/sequencer v3.2 alternative copy.zip"
-curl https://editor.p5js.org/editor/projects/XQYLmn2RA/zip -o "../p5mirror-jht1493/downloads/zips/Sequencer v3.2 copy.zip"
-curl https://editor.p5js.org/editor/projects/S47diDJcd/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed 1QAZ FFT.zip"
-curl https://editor.p5js.org/editor/projects/IFght-gvV/zip -o "../p5mirror-jht1493/downloads/zips/8 Note Envelope FFT ui.zip"
-curl https://editor.p5js.org/editor/projects/QWKytZi9v/zip -o "../p5mirror-jht1493/downloads/zips/scale-graph-3.zip"
-curl https://editor.p5js.org/editor/projects/S6fXsaBIi/zip -o "../p5mirror-jht1493/downloads/zips/circleX follow.zip"
-curl https://editor.p5js.org/editor/projects/sKCQu1O5g/zip -o "../p5mirror-jht1493/downloads/zips/Cabana! - Worley Noise Port copy.zip"
-curl https://editor.p5js.org/editor/projects/JzUpCtscr/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong.zip"
-curl https://editor.p5js.org/editor/projects/XPFEvFaF8/zip -o "../p5mirror-jht1493/downloads/zips/17.5_snake_game_sound.zip"
-curl https://editor.p5js.org/editor/projects/ispvjO_hR/zip -o "../p5mirror-jht1493/downloads/zips/Photoshoot? copy.zip"
-curl https://editor.p5js.org/editor/projects/xjAXcxLSW/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet multi.zip"
-curl https://editor.p5js.org/editor/projects/TKHz6fbAa/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet 1.zip"
-curl https://editor.p5js.org/editor/projects/UK0USdQwC/zip -o "../p5mirror-jht1493/downloads/zips/Facemesh_Webcam copy.zip"
-curl https://editor.p5js.org/editor/projects/VFsftJocG/zip -o "../p5mirror-jht1493/downloads/zips/CC 130.3: Drawing with Fourier Transform and Epicycles copy.zip"
-curl https://editor.p5js.org/editor/projects/F6inBLXvc/zip -o "../p5mirror-jht1493/downloads/zips/CC 130.3: User Drawing with Fourier Transform and Epicycle copy.zip"
-curl https://editor.p5js.org/editor/projects/0SuvHQbKk/zip -o "../p5mirror-jht1493/downloads/zips/17.9_graphingAmplitude.zip"
-curl https://editor.p5js.org/editor/projects/CkgOMJuSs/zip -o "../p5mirror-jht1493/downloads/zips/W8.1 resize images almost copy.zip"
-curl https://editor.p5js.org/editor/projects/zgS0Ss11z/zip -o "../p5mirror-jht1493/downloads/zips/Perlin Noise - Adding Y Axis copy.zip"
-curl https://editor.p5js.org/editor/projects/mEXETIijv/zip -o "../p5mirror-jht1493/downloads/zips/video scan gap center.zip"
-curl https://editor.p5js.org/editor/projects/oHVI5tU4BP/zip -o "../p5mirror-jht1493/downloads/zips/video scan gap.zip"
-curl https://editor.p5js.org/editor/projects/o-fulefGW/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness Mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/pTG_ysiGf/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth.zip"
-curl https://editor.p5js.org/editor/projects/pJUsVrl08/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels - faster.zip"
-curl https://editor.p5js.org/editor/projects/8NMtstCRQ/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video 2x2 tint.zip"
-curl https://editor.p5js.org/editor/projects/3t3Dpf5wH/zip -o "../p5mirror-jht1493/downloads/zips/ICM Wk 8: Underwater Filter copy.zip"
-curl https://editor.p5js.org/editor/projects/ZAlMxuCUv/zip -o "../p5mirror-jht1493/downloads/zips/week8_customfilter copy.zip"
-curl https://editor.p5js.org/editor/projects/meuC-yuLM/zip -o "../p5mirror-jht1493/downloads/zips/week8_customfilter copy.zip"
-curl https://editor.p5js.org/editor/projects/tl9q_BNmq/zip -o "../p5mirror-jht1493/downloads/zips/Week8_assgm3_icm copy.zip"
-curl https://editor.p5js.org/editor/projects/U-3Y17evL/zip -o "../p5mirror-jht1493/downloads/zips/Pointillist Filter - Painting Technique copy.zip"
-curl https://editor.p5js.org/editor/projects/wFQMm8TFJ/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
-curl https://editor.p5js.org/editor/projects/bL3Qnjtwx/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
-curl https://editor.p5js.org/editor/projects/VOiODVFVu/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
-curl https://editor.p5js.org/editor/projects/Q9jdcICpW/zip -o "../p5mirror-jht1493/downloads/zips/video scan mouseY.zip"
-curl https://editor.p5js.org/editor/projects/gnx2IQn1N/zip -o "../p5mirror-jht1493/downloads/zips/video scan.zip"
-curl https://editor.p5js.org/editor/projects/QpBNxr3n-/zip -o "../p5mirror-jht1493/downloads/zips/Sorting video.zip"
-curl https://editor.p5js.org/editor/projects/B1yNi1afN/zip -o "../p5mirror-jht1493/downloads/zips/Sorting by colors.zip"
-curl https://editor.p5js.org/editor/projects/BryZ91oyE/zip -o "../p5mirror-jht1493/downloads/zips/color wheel copy.zip"
-curl https://editor.p5js.org/editor/projects/T09pRUbaQ/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels - faster copy.zip"
-curl https://editor.p5js.org/editor/projects/GiSAQWxq4/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
-curl https://editor.p5js.org/editor/projects/UQSjHZYJL/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array Slider.zip"
-curl https://editor.p5js.org/editor/projects/FyW8yCSdN/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/CagQoSSHB/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 canvas lita copy.zip"
-curl https://editor.p5js.org/editor/projects/XdGRKT-Mf/zip -o "../p5mirror-jht1493/downloads/zips/2:2 Rothko's Cat copy.zip"
-curl https://editor.p5js.org/editor/projects/r_IsZEvfO/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array copy.zip"
-curl https://editor.p5js.org/editor/projects/QxnG0Kjs3/zip -o "../p5mirror-jht1493/downloads/zips/Kaleidoscope-Stella copy.zip"
-curl https://editor.p5js.org/editor/projects/w2J_teSHy/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images Grid.zip"
-curl https://editor.p5js.org/editor/projects/4mTNtiQnZ/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images.zip"
-curl https://editor.p5js.org/editor/projects/S67xZi8qW/zip -o "../p5mirror-jht1493/downloads/zips/Week8 copy.zip"
-curl https://editor.p5js.org/editor/projects/_D-QJiDBx/zip -o "../p5mirror-jht1493/downloads/zips/midterm final updated w JH copy.zip"
-curl https://editor.p5js.org/editor/projects/lhlkCZCBC/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 - ICM 21 Week 8 • Working with many images.zip"
-curl https://editor.p5js.org/editor/projects/crkDnBUIE/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array rect.zip"
-curl https://editor.p5js.org/editor/projects/B10k1ZTVC/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array set.zip"
-curl https://editor.p5js.org/editor/projects/O1AJea465/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Week 8 • Image File Basics.zip"
-curl https://editor.p5js.org/editor/projects/nrrJkCazV/zip -o "../p5mirror-jht1493/downloads/zips/2:2 HSB swatches ui.zip"
-curl https://editor.p5js.org/editor/projects/1cz7yYcFM/zip -o "../p5mirror-jht1493/downloads/zips/2:2 Tri-Color Background-Foreground ui.zip"
-curl https://editor.p5js.org/editor/projects/xKSDq-w4H/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet Example 1.zip"
-curl https://editor.p5js.org/editor/projects/M5z0cUqPl/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels.zip"
-curl https://editor.p5js.org/editor/projects/0FpCjWV1T/zip -o "../p5mirror-jht1493/downloads/zips/Pixelated mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/tIxWUpnVz/zip -o "../p5mirror-jht1493/downloads/zips/Pixelated mirror with pixels[] copy.zip"
-curl https://editor.p5js.org/editor/projects/osHd-1XKA/zip -o "../p5mirror-jht1493/downloads/zips/Week6-Arrays and Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/se1-Lc-6l/zip -o "../p5mirror-jht1493/downloads/zips/Farming-arrayofObjects copy.zip"
-curl https://editor.p5js.org/editor/projects/ImhindjDv/zip -o "../p5mirror-jht1493/downloads/zips/tennis game copy.zip"
-curl https://editor.p5js.org/editor/projects/nkJ3a6n00/zip -o "../p5mirror-jht1493/downloads/zips/Week6 HW sun /moon copy.zip"
-curl https://editor.p5js.org/editor/projects/lADRkvP-t/zip -o "../p5mirror-jht1493/downloads/zips/w6- practiceQ4 part2 copy.zip"
-curl https://editor.p5js.org/editor/projects/R5ldDAxfN/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK6 Exercise 4.3 | Long L copy.zip"
-curl https://editor.p5js.org/editor/projects/aRIuTnBre/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q4_Yizhi_Part2 copy.zip"
-curl https://editor.p5js.org/editor/projects/cvIeYSZ1f/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q3_Yizhi copy.zip"
-curl https://editor.p5js.org/editor/projects/43ogmRnJ6/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p2p3 bounce is not work copy.zip"
-curl https://editor.p5js.org/editor/projects/Bl-UtaMPE/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p1 copy.zip"
-curl https://editor.p5js.org/editor/projects/H8ww5teIs/zip -o "../p5mirror-jht1493/downloads/zips/W6 001: Ball() - icm.zip"
-curl https://editor.p5js.org/editor/projects/27q4Q7hp6/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q2_Yizhi copy.zip"
-curl https://editor.p5js.org/editor/projects/bNR7KEVaq/zip -o "../p5mirror-jht1493/downloads/zips/midterm copy.zip"
-curl https://editor.p5js.org/editor/projects/MH2S6Ot3P/zip -o "../p5mirror-jht1493/downloads/zips/Kindhearted yak.zip"
-curl https://editor.p5js.org/editor/projects/ojR6cSj_T/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p2p3 bounce is not work copy.zip"
-curl https://editor.p5js.org/editor/projects/eUv0-JIeC/zip -o "../p5mirror-jht1493/downloads/zips/W6 001: Ball() - icm copy.zip"
-curl https://editor.p5js.org/editor/projects/zwLJe42ju/zip -o "../p5mirror-jht1493/downloads/zips/ICM - WK6 - WS #2 copy.zip"
-curl https://editor.p5js.org/editor/projects/jzkOYSyUq/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Object Communication 2 copy.zip"
-curl https://editor.p5js.org/editor/projects/dwkkY77hM/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK6 Exercise 4.3 | Long L copy.zip"
-curl https://editor.p5js.org/editor/projects/9Y3VflxSD/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video 2x2 tint copy.zip"
-curl https://editor.p5js.org/editor/projects/pi7Xef_NQ/zip -o "../p5mirror-jht1493/downloads/zips/11.5_checkbox_mirror.zip"
-curl https://editor.p5js.org/editor/projects/KXR-4ISdB/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
-curl https://editor.p5js.org/editor/projects/X-s9xTI9b/zip -o "../p5mirror-jht1493/downloads/zips/11.7_p5.js_slitscan.zip"
-curl https://editor.p5js.org/editor/projects/xtFJbWbCR/zip -o "../p5mirror-jht1493/downloads/zips/11.6_p5.js_painting.zip"
-curl https://editor.p5js.org/editor/projects/hrpVXSthK/zip -o "../p5mirror-jht1493/downloads/zips/11.4_p5.js_brightness_mirror.zip"
-curl https://editor.p5js.org/editor/projects/gHTpdUy3q/zip -o "../p5mirror-jht1493/downloads/zips/11.2_p5.js_photoBooth.zip"
-curl https://editor.p5js.org/editor/projects/MtdR3vBcj/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video and createCapture.zip"
-curl https://editor.p5js.org/editor/projects/M1bZ0niZQ/zip -o "../p5mirror-jht1493/downloads/zips/W6.3v3 ZAPPING ball with SPLICE copy.zip"
-curl https://editor.p5js.org/editor/projects/K3rXuUT6_/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-3 Bouncing squares with color vs gray QUESTION2 copy.zip"
-curl https://editor.p5js.org/editor/projects/4daMsRtE1/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-3 Bouncing squares with color vs gray QUESTION2 copy.zip"
-curl https://editor.p5js.org/editor/projects/lvXbYzn3I/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-1v6 Bouncing ball class with width error QUESTION1 copy.zip"
-curl https://editor.p5js.org/editor/projects/Ynfs4BKKW/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array - p5.js Tutorial.zip"
-curl https://editor.p5js.org/editor/projects/YOgdXn5H6/zip -o "../p5mirror-jht1493/downloads/zips/221017_EditedPattern_Sackona Fitts_JHT copy copy.zip"
-curl https://editor.p5js.org/editor/projects/g6LkZLCNH/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Mouse Interaction with Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/Om24hbBYH/zip -o "../p5mirror-jht1493/downloads/zips/Mahogany hare.zip"
-curl https://editor.p5js.org/editor/projects/x8cU3hHrI/zip -o "../p5mirror-jht1493/downloads/zips/Shine asparagus.zip"
-curl https://editor.p5js.org/editor/projects/NV2JGwq2Y/zip -o "../p5mirror-jht1493/downloads/zips/Branch steed copy.zip"
-curl https://editor.p5js.org/editor/projects/mdhUP_wTu/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui.zip"
-curl https://editor.p5js.org/editor/projects/keiKvBcIl/zip -o "../p5mirror-jht1493/downloads/zips/8.05 slider changeColor.zip"
-curl https://editor.p5js.org/editor/projects/Db9RLtnpU/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/bI08VwK4F/zip -o "../p5mirror-jht1493/downloads/zips/DRAFT VINYL YEAY copy.zip"
-curl https://editor.p5js.org/editor/projects/ZG7D0A7CC/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array shape func.zip"
-curl https://editor.p5js.org/editor/projects/2mzYK-rpa/zip -o "../p5mirror-jht1493/downloads/zips/func parameter objects.zip"
-curl https://editor.p5js.org/editor/projects/grLMRm7Yo/zip -o "../p5mirror-jht1493/downloads/zips/Husky skunk copy.zip"
-curl https://editor.p5js.org/editor/projects/7qt974G-y/zip -o "../p5mirror-jht1493/downloads/zips/Week5_ Q4 copy.zip"
-curl https://editor.p5js.org/editor/projects/2gAJBioOK/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/ykjcNZX3a/zip -o "../p5mirror-jht1493/downloads/zips/Week 5  Worksheets #1 copy.zip"
-curl https://editor.p5js.org/editor/projects/4Cs157MLM/zip -o "../p5mirror-jht1493/downloads/zips/WEEK 5_ Q3_Yizhi copy.zip"
-curl https://editor.p5js.org/editor/projects/aQXrqyc_o/zip -o "../p5mirror-jht1493/downloads/zips/Week5 Worksheet-3 copy.zip"
-curl https://editor.p5js.org/editor/projects/ydOOP3dbA/zip -o "../p5mirror-jht1493/downloads/zips/Brick Game - V2 with functions copy.zip"
-curl https://editor.p5js.org/editor/projects/v8N8pF3Yy/zip -o "../p5mirror-jht1493/downloads/zips/intro to class.zip"
-curl https://editor.p5js.org/editor/projects/qs6G3T5ju/zip -o "../p5mirror-jht1493/downloads/zips/array of objects.zip"
-curl https://editor.p5js.org/editor/projects/TCx3dZ1qF/zip -o "../p5mirror-jht1493/downloads/zips/delete from array.zip"
-curl https://editor.p5js.org/editor/projects/EpSAkOH-S/zip -o "../p5mirror-jht1493/downloads/zips/EditedPattern_Sackona Fitts_JHT copy copy.zip"
-curl https://editor.p5js.org/editor/projects/TXi-Ma7bH/zip -o "../p5mirror-jht1493/downloads/zips/Radial catcher.zip"
-curl https://editor.p5js.org/editor/projects/u1zPdS73I/zip -o "../p5mirror-jht1493/downloads/zips/Simple attraction.zip"
-curl https://editor.p5js.org/editor/projects/5dI8K85U3/zip -o "../p5mirror-jht1493/downloads/zips/Verbose money.zip"
-curl https://editor.p5js.org/editor/projects/jk30DKUWS/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-1 Bouncing ball class done copy.zip"
-curl https://editor.p5js.org/editor/projects/CCd2Eq8zb/zip -o "../p5mirror-jht1493/downloads/zips/W6.1 filling in sketch done copy.zip"
-curl https://editor.p5js.org/editor/projects/sa0q9VtMa/zip -o "../p5mirror-jht1493/downloads/zips/Polished octave copy.zip"
-curl https://editor.p5js.org/editor/projects/FfEuk4FvA/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Mouse Interaction with Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/BW4-3_jVf/zip -o "../p5mirror-jht1493/downloads/zips/Wk 4_Create_Test_2 copy.zip"
-curl https://editor.p5js.org/editor/projects/rZFwuzjQy/zip -o "../p5mirror-jht1493/downloads/zips/Assignment Week 5: Functions copy.zip"
-curl https://editor.p5js.org/editor/projects/nFcHqntS0/zip -o "../p5mirror-jht1493/downloads/zips/Wk5 #2 copy.zip"
-curl https://editor.p5js.org/editor/projects/55129CtVc/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Removing Objects from Arrays copy.zip"
-curl https://editor.p5js.org/editor/projects/jMsiDbVI9/zip -o "../p5mirror-jht1493/downloads/zips/left to right sin.zip"
-curl https://editor.p5js.org/editor/projects/dzMw-jQet/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
-curl https://editor.p5js.org/editor/projects/WFYj8t8NU/zip -o "../p5mirror-jht1493/downloads/zips/Week3 Worksheet-3 copy.zip"
-curl https://editor.p5js.org/editor/projects/lNaN-D8fV/zip -o "../p5mirror-jht1493/downloads/zips/W5.3a Zoog talks like a bad cartoon copy.zip"
-curl https://editor.p5js.org/editor/projects/RpAgmXmoB/zip -o "../p5mirror-jht1493/downloads/zips/W5.3b Zoog talks with motor mouth  slider v2 copy.zip"
-curl https://editor.p5js.org/editor/projects/1-pBQvK5N/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
-curl https://editor.p5js.org/editor/projects/Py1dpGwjB/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy copy.zip"
-curl https://editor.p5js.org/editor/projects/0Ndu35i2C/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy.zip"
-curl https://editor.p5js.org/editor/projects/O2WykW28A/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array operations.zip"
-curl https://editor.p5js.org/editor/projects/Tmgc65snE/zip -o "../p5mirror-jht1493/downloads/zips/scaly ripples copy.zip"
-curl https://editor.p5js.org/editor/projects/BOalJurB8/zip -o "../p5mirror-jht1493/downloads/zips/Wk 4 Repetition with Loops copy.zip"
-curl https://editor.p5js.org/editor/projects/4z1S6P6du/zip -o "../p5mirror-jht1493/downloads/zips/Random Grid copy.zip"
-curl https://editor.p5js.org/editor/projects/h5HM1EAbP/zip -o "../p5mirror-jht1493/downloads/zips/week4_3 copy.zip"
-curl https://editor.p5js.org/editor/projects/hWfxfq4BR/zip -o "../p5mirror-jht1493/downloads/zips/Week 4 Worksheet - Q3 copy.zip"
-curl https://editor.p5js.org/editor/projects/3ZF2M0Jiu/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Removing Objects from Arrays - Trail copy.zip"
-curl https://editor.p5js.org/editor/projects/IeTcF4V1W/zip -o "../p5mirror-jht1493/downloads/zips/Week 4 Worksheet - Q3 copy.zip"
-curl https://editor.p5js.org/editor/projects/Vi31qd_Rl/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
-curl https://editor.p5js.org/editor/projects/CrWz1PalX/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.2 bouncing ball two.zip"
-curl https://editor.p5js.org/editor/projects/w5Crcu-U9/zip -o "../p5mirror-jht1493/downloads/zips/5.0 recusion circles.zip"
-curl https://editor.p5js.org/editor/projects/D9oMUvxe1/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang func.zip"
-curl https://editor.p5js.org/editor/projects/Qm20nAEJD/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang duo.zip"
-curl https://editor.p5js.org/editor/projects/0B8HIn-Dp/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors func.zip"
-curl https://editor.p5js.org/editor/projects/oBhfUAf_c/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang array.zip"
-curl https://editor.p5js.org/editor/projects/Dlu-w9dla/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang parameters.zip"
-curl https://editor.p5js.org/editor/projects/CdbxsluTD/zip -o "../p5mirror-jht1493/downloads/zips/Ying Yang Project copy.zip"
-curl https://editor.p5js.org/editor/projects/VAXbwF4ag/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors rect.zip"
-curl https://editor.p5js.org/editor/projects/V3Oxjt6Tk/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors rect copy.zip"
-curl https://editor.p5js.org/editor/projects/KMOJYgosO/zip -o "../p5mirror-jht1493/downloads/zips/Assignment Week 4! by andriana copy.zip"
-curl https://editor.p5js.org/editor/projects/Vt-6p8pnv/zip -o "../p5mirror-jht1493/downloads/zips/5.0 Recursive Tree.zip"
-curl https://editor.p5js.org/editor/projects/akS3a9N6d/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array of colors names.zip"
-curl https://editor.p5js.org/editor/projects/K1vPENYde/zip -o "../p5mirror-jht1493/downloads/zips/Upbeat english.zip"
-curl https://editor.p5js.org/editor/projects/vhPVm8WCWX/zip -o "../p5mirror-jht1493/downloads/zips/HTML color codes and names copy.zip"
-curl https://editor.p5js.org/editor/projects/T6eYkB1I0/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 HW project copy.zip"
-curl https://editor.p5js.org/editor/projects/1jGoelLby/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.7 ABSTRACT KISS 1 copy.zip"
-curl https://editor.p5js.org/editor/projects/syBVenxNb/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.5 GRAY LAVA LAMP copy copy.zip"
-curl https://editor.p5js.org/editor/projects/iryrGNQ4q/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.5 GRAY LAVA LAMP copy.zip"
-curl https://editor.p5js.org/editor/projects/_-M305erc/zip -o "../p5mirror-jht1493/downloads/zips/W4-4.1 checkerboard copy.zip"
-curl https://editor.p5js.org/editor/projects/C8D-8RJNM/zip -o "../p5mirror-jht1493/downloads/zips/Zoog.zip"
-curl https://editor.p5js.org/editor/projects/Q_SrD4JOX/zip -o "../p5mirror-jht1493/downloads/zips/ICM - WK5 - Refactor portrait with functions.zip"
-curl https://editor.p5js.org/editor/projects/gjAK4v51E/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example.zip"
-curl https://editor.p5js.org/editor/projects/NXjH6g_MM/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 Homework Sketch - Slider copy.zip"
-curl https://editor.p5js.org/editor/projects/H-IXB_Xf0/zip -o "../p5mirror-jht1493/downloads/zips/Woolly hummingbird.zip"
-curl https://editor.p5js.org/editor/projects/eE_S9wlNA/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 Worksheet Q3 copy.zip"
-curl https://editor.p5js.org/editor/projects/-BJk4FpbU/zip -o "../p5mirror-jht1493/downloads/zips/3.2 mouse column red.zip"
-curl https://editor.p5js.org/editor/projects/jaPZ8e1RW/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing createSpan.zip"
-curl https://editor.p5js.org/editor/projects/cGY4FRT0t/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount copy copy.zip"
-curl https://editor.p5js.org/editor/projects/ZgXbyec0p/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount copy.zip"
-curl https://editor.p5js.org/editor/projects/sYtrxfPGy/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example copy.zip"
-curl https://editor.p5js.org/editor/projects/ZwUDZXioq/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example.zip"
-curl https://editor.p5js.org/editor/projects/IHUNM4THk/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 _ Animation_ Yizhi Liu copy.zip"
-curl https://editor.p5js.org/editor/projects/9_Xe1n9TC/zip -o "../p5mirror-jht1493/downloads/zips/Week3 Make a rule-based animation copy.zip"
-curl https://editor.p5js.org/editor/projects/V7uUIUG_r/zip -o "../p5mirror-jht1493/downloads/zips/Week 03 Assignment v3 | Long L copy.zip"
-curl https://editor.p5js.org/editor/projects/KWXB93mga/zip -o "../p5mirror-jht1493/downloads/zips/Week 03 Assignment v3 | Long L copy.zip"
-curl https://editor.p5js.org/editor/projects/uWqMpSb09/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 4.zip"
-curl https://editor.p5js.org/editor/projects/S5QXtzIaC/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount.zip"
-curl https://editor.p5js.org/editor/projects/0UUhVfoi2/zip -o "../p5mirror-jht1493/downloads/zips/Week2 Annan corrected.zip"
-curl https://editor.p5js.org/editor/projects/zWCstlqh6/zip -o "../p5mirror-jht1493/downloads/zips/week 3 p 1 copy.zip"
-curl https://editor.p5js.org/editor/projects/gobuvz-LX/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing Ball sin.zip"
-curl https://editor.p5js.org/editor/projects/MmO5_YUKR/zip -o "../p5mirror-jht1493/downloads/zips/Bouncing Ball by Herui copy.zip"
-curl https://editor.p5js.org/editor/projects/DbmzeU7i5/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing Ball by Herui - suggestions.zip"
-curl https://editor.p5js.org/editor/projects/raLIJyQHL/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing time createSpan Math.zip"
-curl https://editor.p5js.org/editor/projects/LZwntA2dD/zip -o "../p5mirror-jht1493/downloads/zips/3.2 mouseOver reference.zip"
-curl https://editor.p5js.org/editor/projects/e3KJv7fxt/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with millis.zip"
-curl https://editor.p5js.org/editor/projects/DW02dgsn6/zip -o "../p5mirror-jht1493/downloads/zips/3.3  counter for time.zip"
-curl https://editor.p5js.org/editor/projects/uB9r-rpmp/zip -o "../p5mirror-jht1493/downloads/zips/3.3 else if less than.zip"
-curl https://editor.p5js.org/editor/projects/AIslzEjVd/zip -o "../p5mirror-jht1493/downloads/zips/vvv paint3 jht.zip"
-curl https://editor.p5js.org/editor/projects/R5TWeAMyI/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - while and for Loops copy.zip"
-curl https://editor.p5js.org/editor/projects/_-KIX6W4i/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
-curl https://editor.p5js.org/editor/projects/qIVaQ6ssaR/zip -o "../p5mirror-jht1493/downloads/zips/bouncing glittery ball copy.zip"
-curl https://editor.p5js.org/editor/projects/ExTKDesTy/zip -o "../p5mirror-jht1493/downloads/zips/timed motion text.zip"
-curl https://editor.p5js.org/editor/projects/IevrDU7OW/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX ui more copy.zip"
-curl https://editor.p5js.org/editor/projects/h0ZJWwOzb/zip -o "../p5mirror-jht1493/downloads/zips/3.3 bounce ball x OR ui.zip"
-curl https://editor.p5js.org/editor/projects/RRJcCKbGw/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed buttons copy.zip"
-curl https://editor.p5js.org/editor/projects/SvxAd4V3z/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed buttons.zip"
-curl https://editor.p5js.org/editor/projects/CwYDz_4N2/zip -o "../p5mirror-jht1493/downloads/zips/2.2.2 variable circleX width.zip"
-curl https://editor.p5js.org/editor/projects/1IcyZZamQ/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Boolean Variables.zip"
-curl https://editor.p5js.org/editor/projects/DGQoBYV9x/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui.zip"
-curl https://editor.p5js.org/editor/projects/lsahl0gCh/zip -o "../p5mirror-jht1493/downloads/zips/portrait-Jchen_123 rotated.zip"
-curl https://editor.p5js.org/editor/projects/o6D3U4yPp/zip -o "../p5mirror-jht1493/downloads/zips/slider checkbox ui text.zip"
-curl https://editor.p5js.org/editor/projects/obEXK-fpg/zip -o "../p5mirror-jht1493/downloads/zips/arc-demo slider.zip"
-curl https://editor.p5js.org/editor/projects/xTAKoMV-r/zip -o "../p5mirror-jht1493/downloads/zips/golan-arc-demo slider.zip"
-curl https://editor.p5js.org/editor/projects/SxagGyCjD/zip -o "../p5mirror-jht1493/downloads/zips/self portrait copy.zip"
-curl https://editor.p5js.org/editor/projects/kEX_hk4mU/zip -o "../p5mirror-jht1493/downloads/zips/circleX object literal.zip"
-curl https://editor.p5js.org/editor/projects/sPa32siCE/zip -o "../p5mirror-jht1493/downloads/zips/circle func.zip"
-curl https://editor.p5js.org/editor/projects/P7gKLu2k6/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY copy.zip"
-curl https://editor.p5js.org/editor/projects/bw36dcaXU/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY.zip"
-curl https://editor.p5js.org/editor/projects/LpHeTo9Hl/zip -o "../p5mirror-jht1493/downloads/zips/circleX circleY.zip"
-curl https://editor.p5js.org/editor/projects/L55nCCMds/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons.zip"
-curl https://editor.p5js.org/editor/projects/zciALH5y7/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons copy.zip"
-curl https://editor.p5js.org/editor/projects/fyP4ju0xO/zip -o "../p5mirror-jht1493/downloads/zips/circleX functions.zip"
-curl https://editor.p5js.org/editor/projects/P_VmXVkzG/zip -o "../p5mirror-jht1493/downloads/zips/Self Portrait | Long L copy.zip"
-curl https://editor.p5js.org/editor/projects/JVoQAP3aM/zip -o "../p5mirror-jht1493/downloads/zips/circleX modulo.zip"
-curl https://editor.p5js.org/editor/projects/iNGrQuX3H/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY circle Button.zip"
-curl https://editor.p5js.org/editor/projects/cdZIz42Tg/zip -o "../p5mirror-jht1493/downloads/zips/circleX RGY sin.zip"
-curl https://editor.p5js.org/editor/projects/BgVkHJ2MC/zip -o "../p5mirror-jht1493/downloads/zips/explaining sin and cos.zip"
-curl https://editor.p5js.org/editor/projects/mD0oLyHAv/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - 2.2 - make your own variable copy.zip"
-curl https://editor.p5js.org/editor/projects/fBRX-mrpK/zip -o "../p5mirror-jht1493/downloads/zips/circleX color RGY.zip"
-curl https://editor.p5js.org/editor/projects/fMPYX-fAP/zip -o "../p5mirror-jht1493/downloads/zips/circleX function color.zip"
-curl https://editor.p5js.org/editor/projects/7VFns9ZeO/zip -o "../p5mirror-jht1493/downloads/zips/circleX function gray.zip"
-curl https://editor.p5js.org/editor/projects/4JqUtGUGr/zip -o "../p5mirror-jht1493/downloads/zips/circleX literal functions.zip"
-curl https://editor.p5js.org/editor/projects/0qBB2QGDI/zip -o "../p5mirror-jht1493/downloads/zips/circleX object literal.zip"
-curl https://editor.p5js.org/editor/projects/a60pgYiUH/zip -o "../p5mirror-jht1493/downloads/zips/circleX random colors.zip"
-curl https://editor.p5js.org/editor/projects/AJxU3gRhX/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons random.zip"
-curl https://editor.p5js.org/editor/projects/5TIb80DMw/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui copy.zip"
-curl https://editor.p5js.org/editor/projects/n2leuEs1C/zip -o "../p5mirror-jht1493/downloads/zips/Adhesive swift.zip"
-curl https://editor.p5js.org/editor/projects/1pSIc4pv-/zip -o "../p5mirror-jht1493/downloads/zips/Scrawny web.zip"
-curl https://editor.p5js.org/editor/projects/lrueYOywL/zip -o "../p5mirror-jht1493/downloads/zips/Cloud llama.zip"
-curl https://editor.p5js.org/editor/projects/TPptfRqA_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects copy.zip"
-curl https://editor.p5js.org/editor/projects/jK_d9a5uK/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Therapeutic - first rev.zip"
-curl https://editor.p5js.org/editor/projects/6E9_gw8Tw/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK1 Exercise - Fix me 😃.zip"
-curl https://editor.p5js.org/editor/projects/EuwnL3gxd/zip -o "../p5mirror-jht1493/downloads/zips/3d-shader-webcam-shade.zip"
-curl https://editor.p5js.org/editor/projects/xQ1qbzSxv/zip -o "../p5mirror-jht1493/downloads/zips/3d-shader-using-webcam.zip"
-curl https://editor.p5js.org/editor/projects/JMzjqwJQb/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy.zip"
-curl https://editor.p5js.org/editor/projects/AnPN6baGO/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video -buts.zip"
-curl https://editor.p5js.org/editor/projects/ib0mxB9v_/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss rect circle - width bug.zip"
-curl https://editor.p5js.org/editor/projects/QQS5-FzAf/zip -o "../p5mirror-jht1493/downloads/zips/Hyperspace Sim 2.0.zip"
-curl https://editor.p5js.org/editor/projects/0NEqTnjBg/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video Key Press mp4.zip"
-curl https://editor.p5js.org/editor/projects/Zks2EoELT/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video Key Press.zip"
-curl https://editor.p5js.org/editor/projects/tdJpSSR8U/zip -o "../p5mirror-jht1493/downloads/zips/Abstracted date.zip"
-curl https://editor.p5js.org/editor/projects/E6C9HlaIJ/zip -o "../p5mirror-jht1493/downloads/zips/handsfree.js-demo-2022 copy.zip"
-curl https://editor.p5js.org/editor/projects/-DBNkfCTv/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss checker.zip"
-curl https://editor.p5js.org/editor/projects/6fG6Dm_La/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss a_width noseed.zip"
-curl https://editor.p5js.org/editor/projects/EkUoNfJ_x/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss a_width.zip"
-curl https://editor.p5js.org/editor/projects/4G63C6hW7/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss rect circle.zip"
-curl https://editor.p5js.org/editor/projects/u9MuGLpsj/zip -o "../p5mirror-jht1493/downloads/zips/Student Picker.zip"
-curl https://editor.p5js.org/editor/projects/6wi3Qiz6o/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 9.zip"
-curl https://editor.p5js.org/editor/projects/SQrWvF9zQ/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 10.zip"
-curl https://editor.p5js.org/editor/projects/lhI9E2O7P/zip -o "../p5mirror-jht1493/downloads/zips/Truchet in p5js by Vamoss.zip"
-curl https://editor.p5js.org/editor/projects/eEkY6Puq2/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 8.zip"
-curl https://editor.p5js.org/editor/projects/3T3NmXA9n/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 7.zip"
-curl https://editor.p5js.org/editor/projects/XoCFY-7Yi/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 6.zip"
-curl https://editor.p5js.org/editor/projects/FwfyGjYos/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 5.zip"
-curl https://editor.p5js.org/editor/projects/zOy0N1rYt/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 4.zip"
-curl https://editor.p5js.org/editor/projects/f5vzsNvfR/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 3.zip"
-curl https://editor.p5js.org/editor/projects/u13JQBCSD/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 2.zip"
-curl https://editor.p5js.org/editor/projects/V2ifPvqiw/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func.zip"
-curl https://editor.p5js.org/editor/projects/oN4feOu7h/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis still.zip"
-curl https://editor.p5js.org/editor/projects/Lf-Nu_e9Y/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis copy.zip"
-curl https://editor.p5js.org/editor/projects/dMqGz_SOs/zip -o "../p5mirror-jht1493/downloads/zips/p5LiveMedia  Mutliple.zip"
-curl https://editor.p5js.org/editor/projects/G6ImGnQnC/zip -o "../p5mirror-jht1493/downloads/zips/Multiple Users Overlayed-bug copy.zip"
-curl https://editor.p5js.org/editor/projects/oeTPGKyD_/zip -o "../p5mirror-jht1493/downloads/zips/Multiple Users Overlayed-bug.zip"
-curl https://editor.p5js.org/editor/projects/9GKVK4dkw/zip -o "../p5mirror-jht1493/downloads/zips/Shared Space copy.zip"
-curl https://editor.p5js.org/editor/projects/9_X5I1IbI/zip -o "../p5mirror-jht1493/downloads/zips/Band bestseller.zip"
-curl https://editor.p5js.org/editor/projects/8NgeQUnlb/zip -o "../p5mirror-jht1493/downloads/zips/circles grid center.zip"
-curl https://editor.p5js.org/editor/projects/uQPlEmzD4/zip -o "../p5mirror-jht1493/downloads/zips/Circle Packing Data Visualization.zip"
-curl https://editor.p5js.org/editor/projects/hqgMiQ6HZ/zip -o "../p5mirror-jht1493/downloads/zips/CC  50 Circle Packing Basic.zip"
-curl https://editor.p5js.org/editor/projects/nvxYpsYW9/zip -o "../p5mirror-jht1493/downloads/zips/circles grid.zip"
-curl https://editor.p5js.org/editor/projects/QvWMvdsPN/zip -o "../p5mirror-jht1493/downloads/zips/circles waves jiggle2.zip"
-curl https://editor.p5js.org/editor/projects/6m4rTU_M1/zip -o "../p5mirror-jht1493/downloads/zips/circles waves jiggle.zip"
-curl https://editor.p5js.org/editor/projects/XnsQ-CAuV/zip -o "../p5mirror-jht1493/downloads/zips/circles black waves.zip"
-curl https://editor.p5js.org/editor/projects/xZGAWtzf_/zip -o "../p5mirror-jht1493/downloads/zips/circles black pie.zip"
-curl https://editor.p5js.org/editor/projects/jAvVW37Mm/zip -o "../p5mirror-jht1493/downloads/zips/circles in the mix.zip"
-curl https://editor.p5js.org/editor/projects/3AjpPOYZR/zip -o "../p5mirror-jht1493/downloads/zips/circles in the mix copy.zip"
-curl https://editor.p5js.org/editor/projects/4K_gG13Rc/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis copy.zip"
-curl https://editor.p5js.org/editor/projects/OsM89lKH3/zip -o "../p5mirror-jht1493/downloads/zips/Metaballs gray.zip"
-curl https://editor.p5js.org/editor/projects/7umDkn7zd/zip -o "../p5mirror-jht1493/downloads/zips/many spirals.zip"
-curl https://editor.p5js.org/editor/projects/076mMnP-F/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_15 Spirals copy.zip"
-curl https://editor.p5js.org/editor/projects/Rk5lKftYh/zip -o "../p5mirror-jht1493/downloads/zips/The Box Spiral.zip"
-curl https://editor.p5js.org/editor/projects/IY3XrOjnX/zip -o "../p5mirror-jht1493/downloads/zips/CC 167: Prime (Ulam) Spiral copy.zip"
-curl https://editor.p5js.org/editor/projects/U4oE_TsVi/zip -o "../p5mirror-jht1493/downloads/zips/Radial bramble.zip"
-curl https://editor.p5js.org/editor/projects/dA78VBdNm/zip -o "../p5mirror-jht1493/downloads/zips/Cabana 3: Hilbert Curve copy.zip"
-curl https://editor.p5js.org/editor/projects/s_lXGkKBH/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy inst.zip"
-curl https://editor.p5js.org/editor/projects/Nh7trPsS8/zip -o "../p5mirror-jht1493/downloads/zips/BLM.zip"
-curl https://editor.p5js.org/editor/projects/P_J51He7l/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy.zip"
-curl https://editor.p5js.org/editor/projects/NzSIzJX0f/zip -o "../p5mirror-jht1493/downloads/zips/sayo Curl Voronoi.zip"
-curl https://editor.p5js.org/editor/projects/smjuGOc5Z/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha grid.zip"
-curl https://editor.p5js.org/editor/projects/FjiLnBs_u/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan full.zip"
-curl https://editor.p5js.org/editor/projects/uxonb9J3M/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness invert.zip"
-curl https://editor.p5js.org/editor/projects/8uEKBChH_/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness color.zip"
-curl https://editor.p5js.org/editor/projects/aUF-_C0xL/zip -o "../p5mirror-jht1493/downloads/zips/bubble image.zip"
-curl https://editor.p5js.org/editor/projects/u5jptPqVU/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam eyes.zip"
-curl https://editor.p5js.org/editor/projects/10qVaP4HX/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Image copy.zip"
-curl https://editor.p5js.org/editor/projects/MXIp1cNJv/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Image copy.zip"
-curl https://editor.p5js.org/editor/projects/6qILI_M_g/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Webcam copy.zip"
-curl https://editor.p5js.org/editor/projects/bfb598HDq/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Webcam_Parts copy.zip"
-curl https://editor.p5js.org/editor/projects/zidzjZKk1/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam colors.zip"
-curl https://editor.p5js.org/editor/projects/gepkqrpS7/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam.zip"
-curl https://editor.p5js.org/editor/projects/p9K711ovr/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_part_selection.zip"
-curl https://editor.p5js.org/editor/projects/i89ZaeyAS/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_image_single.zip"
-curl https://editor.p5js.org/editor/projects/60piQ23_B/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 12 - Scattered Characters by Ellen.zip"
-curl https://editor.p5js.org/editor/projects/dqN3bFRx3/zip -o "../p5mirror-jht1493/downloads/zips/scale-amp copy.zip"
-curl https://editor.p5js.org/editor/projects/e1WTKXUaI/zip -o "../p5mirror-jht1493/downloads/zips/thecity_nyc-fade.zip"
-curl https://editor.p5js.org/editor/projects/by-F0y03c/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual copy.zip"
-curl https://editor.p5js.org/editor/projects/4cFcflomH/zip -o "../p5mirror-jht1493/downloads/zips/WK8Ex by June.zip"
-curl https://editor.p5js.org/editor/projects/7SnLfatsr/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 9 Creative Exercise PoseNet by Teresa.zip"
-curl https://editor.p5js.org/editor/projects/gsfnI1XqA/zip -o "../p5mirror-jht1493/downloads/zips/camera by yvonne.zip"
-curl https://editor.p5js.org/editor/projects/pDExbc0kd/zip -o "../p5mirror-jht1493/downloads/zips/slit-scan yvonne.zip"
-curl https://editor.p5js.org/editor/projects/BsiIm2Iz3/zip -o "../p5mirror-jht1493/downloads/zips/week_9_hw by Kelin.zip"
-curl https://editor.p5js.org/editor/projects/9wMU2F1q8/zip -o "../p5mirror-jht1493/downloads/zips/Part1Week8 by  June.zip"
-curl https://editor.p5js.org/editor/projects/TWR2lI6yE/zip -o "../p5mirror-jht1493/downloads/zips/W8 by Lorena.zip"
-curl https://editor.p5js.org/editor/projects/3unl-jWfp/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 8 Creative Exercise -optional slider.zip"
-curl https://editor.p5js.org/editor/projects/vYmDfOD4J/zip -o "../p5mirror-jht1493/downloads/zips/Week #8 Creative Exercise copy.zip"
-curl https://editor.p5js.org/editor/projects/CSzRh8uNu/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual copy.zip"
-curl https://editor.p5js.org/editor/projects/B3ZFF-M2q/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit.zip"
-curl https://editor.p5js.org/editor/projects/qc-h1wL27/zip -o "../p5mirror-jht1493/downloads/zips/17.11_FFT ui.zip"
-curl https://editor.p5js.org/editor/projects/BnkIJwE5R/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual.zip"
-curl https://editor.p5js.org/editor/projects/iihgsmwRS/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug.zip"
-curl https://editor.p5js.org/editor/projects/_LdMqTjgu/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui.zip"
-curl https://editor.p5js.org/editor/projects/FHXX45k9z/zip -o "../p5mirror-jht1493/downloads/zips/17.3_cueSong play pause.zip"
-curl https://editor.p5js.org/editor/projects/W-_IGbU35/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong async.zip"
-curl https://editor.p5js.org/editor/projects/hbUBiLwwD/zip -o "../p5mirror-jht1493/downloads/zips/17.11_FFT.zip"
-curl https://editor.p5js.org/editor/projects/Q1gCKuVib/zip -o "../p5mirror-jht1493/downloads/zips/17.10_radialGraph.zip"
-curl https://editor.p5js.org/editor/projects/7Y0_IaFhH/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug loop.zip"
-curl https://editor.p5js.org/editor/projects/y4KbZRuQe/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug min.zip"
-curl https://editor.p5js.org/editor/projects/AjlzQD2gj/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input.zip"
-curl https://editor.p5js.org/editor/projects/l7RhDJrNx/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input copy.zip"
-curl https://editor.p5js.org/editor/projects/1hNfw3M31/zip -o "../p5mirror-jht1493/downloads/zips/17.7_soundEnvelope.zip"
-curl https://editor.p5js.org/editor/projects/PNuNz9dfX/zip -o "../p5mirror-jht1493/downloads/zips/17.6_soundSynthesis.zip"
-curl https://editor.p5js.org/editor/projects/gODjef3N4/zip -o "../p5mirror-jht1493/downloads/zips/17.4_amplitudeSong.zip"
-curl https://editor.p5js.org/editor/projects/0qI4p76tZ/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong copy.zip"
-curl https://editor.p5js.org/editor/projects/ImSljxbEn/zip -o "../p5mirror-jht1493/downloads/zips/17.3_cueSong.zip"
-curl https://editor.p5js.org/editor/projects/g0Y0DrH1a/zip -o "../p5mirror-jht1493/downloads/zips/17.2_pauseSong.zip"
-curl https://editor.p5js.org/editor/projects/DKrjqeZ9W/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam copy.zip"
-curl https://editor.p5js.org/editor/projects/gA4F96LOA/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode.zip"
-curl https://editor.p5js.org/editor/projects/ogprTVQYX/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha grid 2021.zip"
-curl https://editor.p5js.org/editor/projects/PqIlRqqK-/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht.zip"
-curl https://editor.p5js.org/editor/projects/VUtYxjP7S/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited_pop Martha closeTo.zip"
-curl https://editor.p5js.org/editor/projects/OOSsl1Sn_/zip -o "../p5mirror-jht1493/downloads/zips/wk8_ex4 copy.zip"
-curl https://editor.p5js.org/editor/projects/I9DYfqQUx/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht reload.zip"
-curl https://editor.p5js.org/editor/projects/1bfbJLbyM/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht reverse.zip"
-curl https://editor.p5js.org/editor/projects/kXn2yqVWg/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Wk 08 • many images -remix jht createImg.zip"
-curl https://editor.p5js.org/editor/projects/GtOvwRABh/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 - ICM 21 Week 8 • Working with many images -remix jht.zip"
-curl https://editor.p5js.org/editor/projects/6Oneew7P0/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited_pop Martha.zip"
-curl https://editor.p5js.org/editor/projects/FsL2OKHvp/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited.zip"
-curl https://editor.p5js.org/editor/projects/6JG_C7kkK/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Wk 08 • many images -remix jht ndisplay.zip"
-curl https://editor.p5js.org/editor/projects/5bG8mUq7s/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht get.zip"
-curl https://editor.p5js.org/editor/projects/nbH241LQB/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images copy.zip"
-curl https://editor.p5js.org/editor/projects/csEtgTYBU/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror error.zip"
-curl https://editor.p5js.org/editor/projects/RSmDa7VfK/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
-curl https://editor.p5js.org/editor/projects/EbF-1_gSY/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 7 - Best Website Ever v2 - ellen copy.zip"
-curl https://editor.p5js.org/editor/projects/k3VrN1DbP/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 7 - Best Website Ever v2 - ellen.zip"
-curl https://editor.p5js.org/editor/projects/ZybF8My3a/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 3 Teresa.zip"
-curl https://editor.p5js.org/editor/projects/CxrbYKjwA/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #1 La’Kay.zip"
-curl https://editor.p5js.org/editor/projects/aWZ3Rr7dW/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 1 Teresa copy.zip"
-curl https://editor.p5js.org/editor/projects/KtggC_F16/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 1 Teresa.zip"
-curl https://editor.p5js.org/editor/projects/UlVOmPiV9/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang.zip"
-curl https://editor.p5js.org/editor/projects/iJs8Ab2Wo/zip -o "../p5mirror-jht1493/downloads/zips/martha_balloons copy.zip"
-curl https://editor.p5js.org/editor/projects/kqD3pRItz/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #3 P2 copy.zip"
-curl https://editor.p5js.org/editor/projects/qvVnmZ-w6/zip -o "../p5mirror-jht1493/downloads/zips/wk5_ex2 copy copy.zip"
-curl https://editor.p5js.org/editor/projects/hKgvTGCsI/zip -o "../p5mirror-jht1493/downloads/zips/wk5_ex2 copy.zip"
-curl https://editor.p5js.org/editor/projects/wYka9ilXw/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug line.zip"
-curl https://editor.p5js.org/editor/projects/IGRuyPrrn/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 6 - Bouncing bars.zip"
-curl https://editor.p5js.org/editor/projects/lSPbMTHA4/zip -o "../p5mirror-jht1493/downloads/zips/week5-ex4-part1 Lorena.zip"
-curl https://editor.p5js.org/editor/projects/UUX72yLxf/zip -o "../p5mirror-jht1493/downloads/zips/week5-creative excercise Lorena copy.zip"
-curl https://editor.p5js.org/editor/projects/PL8GiL-Vt/zip -o "../p5mirror-jht1493/downloads/zips/week5-creative excercise Lorena.zip"
-curl https://editor.p5js.org/editor/projects/EvoIssQ9Zg/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang jitter.zip"
-curl https://editor.p5js.org/editor/projects/cU0vP5qWq/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #3 P3 La'Kay Hodge.zip"
-curl https://editor.p5js.org/editor/projects/8_xLggd8q/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang copy2.zip"
-curl https://editor.p5js.org/editor/projects/G7NYOv1Av/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang copy.zip"
-curl https://editor.p5js.org/editor/projects/d7H12qXAD/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
-curl https://editor.p5js.org/editor/projects/Y-bMJyGd_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy.zip"
-curl https://editor.p5js.org/editor/projects/Ec5eN7Sn3/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Arrays and Loops copy.zip"
-curl https://editor.p5js.org/editor/projects/9JR8Me2z_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy copy.zip"
-curl https://editor.p5js.org/editor/projects/5_RvxRlBN/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Parameters and Arguments copy.zip"
-curl https://editor.p5js.org/editor/projects/oTlmmneUb/zip -o "../p5mirror-jht1493/downloads/zips/wk4_creativeFinal copy copy copy.zip"
-curl https://editor.p5js.org/editor/projects/o_oU0SNyB/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 in-class exercise copy.zip"
-curl https://editor.p5js.org/editor/projects/E4r0CForx/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Creative Exercise copy.zip"
-curl https://editor.p5js.org/editor/projects/ectQOZZ8t/zip -o "../p5mirror-jht1493/downloads/zips/wk4_creativeFinal copy.zip"
-curl https://editor.p5js.org/editor/projects/sXjultT-v/zip -o "../p5mirror-jht1493/downloads/zips/w4 assignment copy copy.zip"
-curl https://editor.p5js.org/editor/projects/1_dj90kRg/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 7 copy.zip"
-curl https://editor.p5js.org/editor/projects/qO6FNJHnX/zip -o "../p5mirror-jht1493/downloads/zips/w4-6 copy.zip"
-curl https://editor.p5js.org/editor/projects/Evk-Oeecb/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 copy.zip"
-curl https://editor.p5js.org/editor/projects/LfHPuv0r9/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Creative Exercise copy.zip"
-curl https://editor.p5js.org/editor/projects/pYCcAOf7Q/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 5 - Refactor portrait with functions.zip"
-curl https://editor.p5js.org/editor/projects/14AjKXQwh/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals.zip"
-curl https://editor.p5js.org/editor/projects/GwSvgjIjD/zip -o "../p5mirror-jht1493/downloads/zips/Checker protoceratops copy Martha.zip"
-curl https://editor.p5js.org/editor/projects/vY5Dcg69W/zip -o "../p5mirror-jht1493/downloads/zips/algorithmic design yuyan（yvonne）zhang.zip"
-curl https://editor.p5js.org/editor/projects/iX-5AhHns/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 7 Teresa.zip"
-curl https://editor.p5js.org/editor/projects/SuiRHhAvJ/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 6 Teresa.zip"
-curl https://editor.p5js.org/editor/projects/I4ELnN9Lv/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 Martha copy.zip"
-curl https://editor.p5js.org/editor/projects/eMLBzvHaB/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 Martha.zip"
-curl https://editor.p5js.org/editor/projects/dh0jRVEcw/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 copy.zip"
-curl https://editor.p5js.org/editor/projects/eqSDTSv3C/zip -o "../p5mirror-jht1493/downloads/zips/week4-3 Lorena.zip"
-curl https://editor.p5js.org/editor/projects/31s-QDUkx/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 1 Teresa.zip"
-curl https://editor.p5js.org/editor/projects/dWabxukzd/zip -o "../p5mirror-jht1493/downloads/zips/Week #4 Exercise #2 La’Kay.zip"
-curl https://editor.p5js.org/editor/projects/09Cwd7mnE/zip -o "../p5mirror-jht1493/downloads/zips/Spectrum glitter.zip"
-curl https://editor.p5js.org/editor/projects/nlrTRwfL2/zip -o "../p5mirror-jht1493/downloads/zips/for loop to draw animation.zip"
-curl https://editor.p5js.org/editor/projects/aETsr3i2y/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops setup only.zip"
-curl https://editor.p5js.org/editor/projects/bYVrbeTnD/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops copy.zip"
-curl https://editor.p5js.org/editor/projects/oxBpShhLB/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy.zip"
-curl https://editor.p5js.org/editor/projects/BXTxkWJCX/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix copy.zip"
-curl https://editor.p5js.org/editor/projects/r768lvXGo/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slider on canvas.zip"
-curl https://editor.p5js.org/editor/projects/8FUO0en9R/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise La-Kay -remix.zip"
-curl https://editor.p5js.org/editor/projects/5C_Y1rcqR/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise La-Kay -remix copy.zip"
-curl https://editor.p5js.org/editor/projects/bugsK2pgi/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slide.zip"
-curl https://editor.p5js.org/editor/projects/N4J3DGxUO/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slide2.zip"
-curl https://editor.p5js.org/editor/projects/5bl_flKUx/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix.zip"
-curl https://editor.p5js.org/editor/projects/MCzn9umhB/zip -o "../p5mirror-jht1493/downloads/zips/self-portrait Divya copy.zip"
-curl https://editor.p5js.org/editor/projects/izm7rSZe4/zip -o "../p5mirror-jht1493/downloads/zips/self-portrait Divya.zip"
-curl https://editor.p5js.org/editor/projects/N6Pygq57R/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 3 Creative Exercise copy.zip"
-curl https://editor.p5js.org/editor/projects/OYPmndjq5/zip -o "../p5mirror-jht1493/downloads/zips/Week #3 Creative Exercise ver 2 by La'Kay.zip"
-curl https://editor.p5js.org/editor/projects/-fOimHNMc/zip -o "../p5mirror-jht1493/downloads/zips/wk3_creative checkbox.zip"
-curl https://editor.p5js.org/editor/projects/qBt6Ty_7b/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX a_len ui.zip"
-curl https://editor.p5js.org/editor/projects/dE24sc0tc/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - while and for Loops.zip"
-curl https://editor.p5js.org/editor/projects/9JZmSpMBf/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops.zip"
-curl https://editor.p5js.org/editor/projects/3gJJh9xO4/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop.zip"
-curl https://editor.p5js.org/editor/projects/9MvUG6HAQ/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy.zip"
-curl https://editor.p5js.org/editor/projects/y1mn0AgIm2/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop.zip"
-curl https://editor.p5js.org/editor/projects/kJLu-ss-8/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop copy.zip"
-curl https://editor.p5js.org/editor/projects/yDi03zkbH/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Timing with seconds from computer clock.zip"
-curl https://editor.p5js.org/editor/projects/TMCxRAqBN/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Timing with frameCount + %.zip"
-curl https://editor.p5js.org/editor/projects/l5K0FsH4b/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Intro %.zip"
-curl https://editor.p5js.org/editor/projects/RIa86rQiC/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Introducing conditionals copy.zip"
-curl https://editor.p5js.org/editor/projects/zFsxV4RFs/zip -o "../p5mirror-jht1493/downloads/zips/Waiting neon copy.zip"
-curl https://editor.p5js.org/editor/projects/CwLg2A19p/zip -o "../p5mirror-jht1493/downloads/zips/Waiting neon.zip"
-curl https://editor.p5js.org/editor/projects/tWDnSltVf/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Bouncing ball object.zip"
-curl https://editor.p5js.org/editor/projects/zaxJBulD_/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 3 - Switch.zip"
-curl https://editor.p5js.org/editor/projects/w1CB_J991/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Boolean variables.zip"
-curl https://editor.p5js.org/editor/projects/4Jkd44bOa/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Hover over 3 columns.zip"
-curl https://editor.p5js.org/editor/projects/4MtOW9bSn/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Introducing conditionals.zip"
-curl https://editor.p5js.org/editor/projects/CvO3B5mxJ/zip -o "../p5mirror-jht1493/downloads/zips/week22 yvonne - mousePressed.zip"
-curl https://editor.p5js.org/editor/projects/_x8H_F8LH/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 2 Setting Sun - loc.zip"
-curl https://editor.p5js.org/editor/projects/gFwXNhpF2/zip -o "../p5mirror-jht1493/downloads/zips/Wk2_creativeProject -- layers.zip"
-curl https://editor.p5js.org/editor/projects/IJ6oPqxUL/zip -o "../p5mirror-jht1493/downloads/zips/Wk2_creativeProject by marthajanicki.zip"
-curl https://editor.p5js.org/editor/projects/2XLYFOlCS/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise - Many cats.zip"
-curl https://editor.p5js.org/editor/projects/kymR4CtYK/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise by La'Kay Hodge.zip"
-curl https://editor.p5js.org/editor/projects/f0iBJ0u4M/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 3 - Add another moving circle object that resets.zip"
-curl https://editor.p5js.org/editor/projects/P2CRwWPlj/zip -o "../p5mirror-jht1493/downloads/zips/Rock-Paper-Scissor copy.zip"
-curl https://editor.p5js.org/editor/projects/rippEV0ozt/zip -o "../p5mirror-jht1493/downloads/zips/ellen draw_ellen.zip"
-curl https://editor.p5js.org/editor/projects/RVIinGe-a/zip -o "../p5mirror-jht1493/downloads/zips/ellen portait.zip"
-curl https://editor.p5js.org/editor/projects/dSbNTgyFe/zip -o "../p5mirror-jht1493/downloads/zips/local vs. global.zip"
-curl https://editor.p5js.org/editor/projects/sMmLjkBNr/zip -o "../p5mirror-jht1493/downloads/zips/draw_circle parameters.zip"
-curl https://editor.p5js.org/editor/projects/2XBYYYuR0/zip -o "../p5mirror-jht1493/downloads/zips/draw_circle.zip"
-curl https://editor.p5js.org/editor/projects/-9oX67SWX/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 WEEK 2 - Scope: global and local variables copy.zip"
-curl https://editor.p5js.org/editor/projects/5aux9j_mt/zip -o "../p5mirror-jht1493/downloads/zips/arc testing.zip"
-curl https://editor.p5js.org/editor/projects/Psn4Oy2Rp/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui copy.zip"
-curl https://editor.p5js.org/editor/projects/xmZE17sQ9/zip -o "../p5mirror-jht1493/downloads/zips/Week 1 Portrait copy.zip"
-curl https://editor.p5js.org/editor/projects/caDtJRji7/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal wrap UI.zip"
-curl https://editor.p5js.org/editor/projects/laTHAOolo/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Responsive rect.zip"
-curl https://editor.p5js.org/editor/projects/4_VOFzrq8/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal.zip"
-curl https://editor.p5js.org/editor/projects/e190hgdMU/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal wrap.zip"
-curl https://editor.p5js.org/editor/projects/IvCuHb0EW/zip -o "../p5mirror-jht1493/downloads/zips/many circles wrap func.zip"
-curl https://editor.p5js.org/editor/projects/S7B_bxawC/zip -o "../p5mirror-jht1493/downloads/zips/many circles wrap.zip"
-curl https://editor.p5js.org/editor/projects/9YeBcurXF/zip -o "../p5mirror-jht1493/downloads/zips/ellen funcs xy.zip"
-curl https://editor.p5js.org/editor/projects/gov67__9a/zip -o "../p5mirror-jht1493/downloads/zips/ellen funcs.zip"
-curl https://editor.p5js.org/editor/projects/Nnez1LMAE/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 WEEK 2 - Scope: global and local variables.zip"
-curl https://editor.p5js.org/editor/projects/HYF86ea7R/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Ellen self portrait animated.zip"
-curl https://editor.p5js.org/editor/projects/hdTctdqTA/zip -o "../p5mirror-jht1493/downloads/zips/Example - CC 21 WEEK 1 - Moving circle objects with speed and direction variables.zip"
-curl https://editor.p5js.org/editor/projects/3iasCjLp-/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals wrap.zip"
-curl https://editor.p5js.org/editor/projects/TKpg6L-HX/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 2 - Variable Scope.zip"
-curl https://editor.p5js.org/editor/projects/d3aP71Rou/zip -o "../p5mirror-jht1493/downloads/zips/Fibonacci sequence (visualisation) copy.zip"
-curl https://editor.p5js.org/editor/projects/SOF3GGGVn/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle copy.zip"
-curl https://editor.p5js.org/editor/projects/BFR4S_Ej0/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals wrap.zip"
-curl https://editor.p5js.org/editor/projects/Ez3s7skF8/zip -o "../p5mirror-jht1493/downloads/zips/Innovative flag copy.zip"
-curl https://editor.p5js.org/editor/projects/9Ff0SOP6x/zip -o "../p5mirror-jht1493/downloads/zips/mouseXY print.zip"
-curl https://editor.p5js.org/editor/projects/FJRHfNv6a/zip -o "../p5mirror-jht1493/downloads/zips/CC 143: QuickSort Visualization copy.zip"
-curl https://editor.p5js.org/editor/projects/UfXdsZAHU/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug.zip"
-curl https://editor.p5js.org/editor/projects/d9t-YSfY3/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug pen.zip"
-curl https://editor.p5js.org/editor/projects/fcsUMY4C6/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug limit.zip"
-curl https://editor.p5js.org/editor/projects/AKpx2vF1U/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug drag.zip"
-curl https://editor.p5js.org/editor/projects/OLgbWg-a0/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug clamped.zip"
-curl https://editor.p5js.org/editor/projects/iYtC2NDy7/zip -o "../p5mirror-jht1493/downloads/zips/2.6.3 rotate ui.zip"
-curl https://editor.p5js.org/editor/projects/HSp7qS5n4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_09 Managing Many Objects-remix.zip"
-curl https://editor.p5js.org/editor/projects/-XbD5Gw0a/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_10 Sequences of Images.zip"
-curl https://editor.p5js.org/editor/projects/XDfmnW1JD/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_09 Managing Many Objects.zip"
-curl https://editor.p5js.org/editor/projects/45Cv8Gi4i/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_07 Owls of Different Sizes.zip"
-curl https://editor.p5js.org/editor/projects/AVYN7MUVc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_06 Increasing the Surplus Population.zip"
-curl https://editor.p5js.org/editor/projects/HsQDi5mPF/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball speed.zip"
-curl https://editor.p5js.org/editor/projects/4XHAe1BM5/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball color.zip"
-curl https://editor.p5js.org/editor/projects/MDR4y_0ey/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball.zip"
-curl https://editor.p5js.org/editor/projects/rwosDvy8s/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball function.zip"
-curl https://editor.p5js.org/editor/projects/W9-irZBQj/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.2 bouncing ball array.zip"
-curl https://editor.p5js.org/editor/projects/yDHzF0TDZ/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan copy-image.zip"
-curl https://editor.p5js.org/editor/projects/3twOKVv-j/zip -o "../p5mirror-jht1493/downloads/zips/Webcam: Pixelated Mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/NsutMSYAC/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain 256 copy.zip"
-curl https://editor.p5js.org/editor/projects/dw276NO7f/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain 256.zip"
-curl https://editor.p5js.org/editor/projects/7l92OzPjl/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls remove.zip"
-curl https://editor.p5js.org/editor/projects/ss-mUo0A2/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls.zip"
-curl https://editor.p5js.org/editor/projects/wl7Kc2bCW/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array add.zip"
-curl https://editor.p5js.org/editor/projects/gVFoxRUsw/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls 3.zip"
-curl https://editor.p5js.org/editor/projects/CYdufPe8D/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls 2.zip"
-curl https://editor.p5js.org/editor/projects/MN_30o-l-/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array colors.zip"
-curl https://editor.p5js.org/editor/projects/T8dyF-XVE/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
-curl https://editor.p5js.org/editor/projects/EVn1i4bCz/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball.zip"
-curl https://editor.p5js.org/editor/projects/tNqn2o0M3/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 2.zip"
-curl https://editor.p5js.org/editor/projects/a81qFOT7_/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array colors alpha.zip"
-curl https://editor.p5js.org/editor/projects/r4HyeG6R8/zip -o "../p5mirror-jht1493/downloads/zips/3.4 bouncing ball pattern.zip"
-curl https://editor.p5js.org/editor/projects/uGy4cEzbs/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX ui more.zip"
-curl https://editor.p5js.org/editor/projects/cA_XRhYnI/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern drawShape1.zip"
-curl https://editor.p5js.org/editor/projects/JM1F5XmJuJ/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 1.zip"
-curl https://editor.p5js.org/editor/projects/44dcLkWoC/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 2.zip"
-curl https://editor.p5js.org/editor/projects/S9YsVD9gV/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern y.zip"
-curl https://editor.p5js.org/editor/projects/QlAHBLxi8e/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern while.zip"
-curl https://editor.p5js.org/editor/projects/PkHBdgZak/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array d.zip"
-curl https://editor.p5js.org/editor/projects/C83N_DY9w/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_createSpan.zip"
-curl https://editor.p5js.org/editor/projects/Gom4JIsDb/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop.zip"
-curl https://editor.p5js.org/editor/projects/NZSWjB70Y/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 3.zip"
-curl https://editor.p5js.org/editor/projects/d1C72NC0Q/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 4.zip"
-curl https://editor.p5js.org/editor/projects/Bz-e4Japh/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 2.zip"
-curl https://editor.p5js.org/editor/projects/YJojuZV9V/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 3.zip"
-curl https://editor.p5js.org/editor/projects/cV8HNKv_D/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random.zip"
-curl https://editor.p5js.org/editor/projects/ZRMgh5oWA/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop drawShape1.zip"
-curl https://editor.p5js.org/editor/projects/jeyjYdjbP/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop draw 1 2.zip"
-curl https://editor.p5js.org/editor/projects/kEyYmVtg-/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_13 Halftone Dots -topleft.zip"
-curl https://editor.p5js.org/editor/projects/bFe6Hk45R/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_10 Embed for Loop.zip"
-curl https://editor.p5js.org/editor/projects/o_7ocEFZ8/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_09 Kinking the Lines.zip"
-curl https://editor.p5js.org/editor/projects/xlkU2_AlE/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop.zip"
-curl https://editor.p5js.org/editor/projects/LN97Vgci1/zip -o "../p5mirror-jht1493/downloads/zips/4.2 arrays.zip"
-curl https://editor.p5js.org/editor/projects/vqy_zDixd/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 3.zip"
-curl https://editor.p5js.org/editor/projects/_TkkjoNrW/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 4.zip"
-curl https://editor.p5js.org/editor/projects/MYU4NFxi_/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 6 copy.zip"
-curl https://editor.p5js.org/editor/projects/8s8si6CU9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_99 Robot Object.zip"
-curl https://editor.p5js.org/editor/projects/UA_D1rM5A/zip -o "../p5mirror-jht1493/downloads/zips/3.3. pattern draw_shape1 save.zip"
-curl https://editor.p5js.org/editor/projects/qcPdvN6nR/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed scan.zip"
-curl https://editor.p5js.org/editor/projects/CcyPaL7GQ/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed OR --.zip"
-curl https://editor.p5js.org/editor/projects/PLfo2BKRm/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed OR.zip"
-curl https://editor.p5js.org/editor/projects/LkbB9aIku/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed.zip"
-curl https://editor.p5js.org/editor/projects/ttk0Uyn9x/zip -o "../p5mirror-jht1493/downloads/zips/3.1 variable circleX width.zip"
-curl https://editor.p5js.org/editor/projects/TAV5p1sMW/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed.zip"
-curl https://editor.p5js.org/editor/projects/mq4r5u0v3/zip -o "../p5mirror-jht1493/downloads/zips/2.6.2 rotate a_angle.zip"
-curl https://editor.p5js.org/editor/projects/b-pzyyNSU/zip -o "../p5mirror-jht1493/downloads/zips/3.3 variable circle1X tight.zip"
-curl https://editor.p5js.org/editor/projects/UJjCwAFF0/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circle1X circle2X.zip"
-curl https://editor.p5js.org/editor/projects/4pysTdayc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_04 Track the Mouse.zip"
-curl https://editor.p5js.org/editor/projects/NO5mWO62W/zip -o "../p5mirror-jht1493/downloads/zips/3.1 variable circleX width if.zip"
-curl https://editor.p5js.org/editor/projects/OGwu_nlNh/zip -o "../p5mirror-jht1493/downloads/zips/2.5 map function ui.zip"
-curl https://editor.p5js.org/editor/projects/D34BIqcoE/zip -o "../p5mirror-jht1493/downloads/zips/2.5 setup pattern draw_shape1 save.zip"
-curl https://editor.p5js.org/editor/projects/utpzYq_O8/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects - for-of.zip"
-curl https://editor.p5js.org/editor/projects/lgzws5PmP/zip -o "../p5mirror-jht1493/downloads/zips/two circle 2.zip"
-curl https://editor.p5js.org/editor/projects/Z3_BqOmus/zip -o "../p5mirror-jht1493/downloads/zips/capture invert mediaDevices.enumerateDevices.zip"
-curl https://editor.p5js.org/editor/projects/RVKfyKjQL/zip -o "../p5mirror-jht1493/downloads/zips/two circle.zip"
-curl https://editor.p5js.org/editor/projects/dO-IXUHhr/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_99 Robot Array.zip"
-curl https://editor.p5js.org/editor/projects/7QXYp9M8Z/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_99 Robot Function.zip"
-curl https://editor.p5js.org/editor/projects/FghpP9uDR/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_04 Declare and Assign an Array.zip"
-curl https://editor.p5js.org/editor/projects/n3apYawMJ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_05 Assigning to an Array in One Go.zip"
-curl https://editor.p5js.org/editor/projects/pVd3PT6U3/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_08 Track Mouse Movements.zip"
-curl https://editor.p5js.org/editor/projects/BjH5BkIjj/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_07 Filling an Array in a for Loop.zip"
-curl https://editor.p5js.org/editor/projects/WSHfHkoyV/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_06 Revisiting the First Example.zip"
-curl https://editor.p5js.org/editor/projects/mJyTluseZ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_03 Arrays, Not Variables.zip"
-curl https://editor.p5js.org/editor/projects/WNdXMzR_Q/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_02 Too Many Variables.zip"
-curl https://editor.p5js.org/editor/projects/W26Y1uuiu/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_01 Many Variables.zip"
-curl https://editor.p5js.org/editor/projects/K7PhkMWVi/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_02 Make Multiple Objects.zip"
-curl https://editor.p5js.org/editor/projects/ls9cxovWM/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_01 Make an Object.zip"
-curl https://editor.p5js.org/editor/projects/un2SAKRVm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_02 Make Circles mouseIsPressed.zip"
-curl https://editor.p5js.org/editor/projects/Y2Qra2W_N/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_02 Change Values.zip"
-curl https://editor.p5js.org/editor/projects/pRo9UmATV/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_05 Do the Same ui.zip"
-curl https://editor.p5js.org/editor/projects/nUqcuwlY9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_05 Do the Same.zip"
-curl https://editor.p5js.org/editor/projects/8ui42o3PL/zip -o "../p5mirror-jht1493/downloads/zips/2.6.5 rotate mouseDragged ui map.zip"
-curl https://editor.p5js.org/editor/projects/5ZIAjsbyB/zip -o "../p5mirror-jht1493/downloads/zips/2.6.4 rotate mouseDragged ui.zip"
-curl https://editor.p5js.org/editor/projects/5f-4Wm_1H/zip -o "../p5mirror-jht1493/downloads/zips/2.6.1 rotate mouseX.zip"
-curl https://editor.p5js.org/editor/projects/OtE1lw_X2/zip -o "../p5mirror-jht1493/downloads/zips/2 .5 setup pattern draw_shape1.zip"
-curl https://editor.p5js.org/editor/projects/bsnMRzdZM/zip -o "../p5mirror-jht1493/downloads/zips/2.5 setup pattern draw_shape1 push.zip"
-curl https://editor.p5js.org/editor/projects/xrRh-agtb/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj  4.zip"
-curl https://editor.p5js.org/editor/projects/Gn_EvYwrP/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 2.zip"
-curl https://editor.p5js.org/editor/projects/671V38UbT/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 1.zip"
-curl https://editor.p5js.org/editor/projects/ooX7GXRAY/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3.zip"
-curl https://editor.p5js.org/editor/projects/nDGl7usRr/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj.zip"
-curl https://editor.p5js.org/editor/projects/5wbpgNva4/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 5.zip"
-curl https://editor.p5js.org/editor/projects/vA7I6jRfY/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1 POJO.zip"
-curl https://editor.p5js.org/editor/projects/I8zejgYIX/zip -o "../p5mirror-jht1493/downloads/zips/2.1.4 mouseX mirror ui.zip"
-curl https://editor.p5js.org/editor/projects/qEgdTdx0K/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_func.zip"
-curl https://editor.p5js.org/editor/projects/X5iRxm8HK/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_body.zip"
-curl https://editor.p5js.org/editor/projects/6mrwOv4RD/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_alpha.zip"
-curl https://editor.p5js.org/editor/projects/NlCr2UD2P/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_log.zip"
-curl https://editor.p5js.org/editor/projects/iNY8JDhzH/zip -o "../p5mirror-jht1493/downloads/zips/2.4.3 shape1 alpha slow.zip"
-curl https://editor.p5js.org/editor/projects/-nqwIxze_/zip -o "../p5mirror-jht1493/downloads/zips/2.4.2 shape1 alpha slow.zip"
-curl https://editor.p5js.org/editor/projects/huhUWN6Uc/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 draw_shape1 pattern2.zip"
-curl https://editor.p5js.org/editor/projects/hgFw3__cZ/zip -o "../p5mirror-jht1493/downloads/zips/2.5 .1 draw_shape1.zip"
-curl https://editor.p5js.org/editor/projects/5JqwobAgJ/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 draw_shape1 pattern.zip"
-curl https://editor.p5js.org/editor/projects/G1WHVQsRV/zip -o "../p5mirror-jht1493/downloads/zips/3.3 bounce ball x OR.zip"
-curl https://editor.p5js.org/editor/projects/oCyOEcy6o/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 canvas.zip"
-curl https://editor.p5js.org/editor/projects/c-zClJX0f/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 canvas.zip"
-curl https://editor.p5js.org/editor/projects/WL3YIp05x/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 speed.zip"
-curl https://editor.p5js.org/editor/projects/MX-qeqFTi/zip -o "../p5mirror-jht1493/downloads/zips/2.5 .1 setup draw_shape.zip"
-curl https://editor.p5js.org/editor/projects/oVldEBAP5/zip -o "../p5mirror-jht1493/downloads/zips/Spiral by hyershin.zip"
-curl https://editor.p5js.org/editor/projects/hV0JF0uwo/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_11 Detect When Not Clicked.zip"
-curl https://editor.p5js.org/editor/projects/Hlki31qgs/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_07 Owls of Different Sizes copy.zip"
-curl https://editor.p5js.org/editor/projects/R_ipMLAVM/zip -o "../p5mirror-jht1493/downloads/zips/3.1 circleX width ui lib copy.zip"
-curl https://editor.p5js.org/editor/projects/ctwjs9TcL/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle obj.zip"
-curl https://editor.p5js.org/editor/projects/xAc-jbG9y/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_08 Return a Value.zip"
-curl https://editor.p5js.org/editor/projects/NAl5YSdTI_/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_05 An Owl Function.zip"
-curl https://editor.p5js.org/editor/projects/sa96pUoKH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_04 Two’s Company.zip"
-curl https://editor.p5js.org/editor/projects/DdDo_LBJa/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_03 Draw the Owl.zip"
-curl https://editor.p5js.org/editor/projects/oK-w6sUbz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_02 Another Way.zip"
-curl https://editor.p5js.org/editor/projects/uetaqd2FH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_01 Roll the Dice.zip"
-curl https://editor.p5js.org/editor/projects/MLzEHAnCh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures ui.zip"
-curl https://editor.p5js.org/editor/projects/atxvTB184/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 circleX width ui copy.zip"
-curl https://editor.p5js.org/editor/projects/GO50HlzHN/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_13 Halftone Dots.zip"
-curl https://editor.p5js.org/editor/projects/u15OM3OHP/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_12 Pins and Lines.zip"
-curl https://editor.p5js.org/editor/projects/SemvF_Fht/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_11 Rows and Columns.zip"
-curl https://editor.p5js.org/editor/projects/Zxxj1cjH9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_08 Fanning Out the Lines.zip"
-curl https://editor.p5js.org/editor/projects/h0eBcXsIC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_06 Use a for Loop.zip"
-curl https://editor.p5js.org/editor/projects/oVh1WhBVI/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_07 Flex Your for Loop’s.zip"
-curl https://editor.p5js.org/editor/projects/T4ufWkYjs/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_03 Adjust the Canvas.zip"
-curl https://editor.p5js.org/editor/projects/cyyCJGXOz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: Variable func.zip"
-curl https://editor.p5js.org/editor/projects/D3QUVpQhx/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: func jiggle.zip"
-curl https://editor.p5js.org/editor/projects/mJ_X4q47O/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: Variables.zip"
-curl https://editor.p5js.org/editor/projects/jcN0Maxum/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_01 Reuse the Same Values.zip"
-curl https://editor.p5js.org/editor/projects/d8Tghqq3X/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1 copy.zip"
-curl https://editor.p5js.org/editor/projects/t0APMYmVw/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_07 Set Thickness on the Fly color.zip"
-curl https://editor.p5js.org/editor/projects/Eg01Z5WpY/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_04 Basic Arithmetic.zip"
-curl https://editor.p5js.org/editor/projects/jiS58glnK/zip -o "../p5mirror-jht1493/downloads/zips/2.5.4 draw_shape1 patter2 ui.zip"
-curl https://editor.p5js.org/editor/projects/h4r-AU_Wc/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 draw_shape1 pattern xx.zip"
-curl https://editor.p5js.org/editor/projects/CgEGxR-EK/zip -o "../p5mirror-jht1493/downloads/zips/2.5 shape1 alpha func xxx.zip"
-curl https://editor.p5js.org/editor/projects/sWEVGT4bm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_99 Robot03_Response.zip"
-curl https://editor.p5js.org/editor/projects/COpuZeeYq/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_01 frameCount one line.zip"
-curl https://editor.p5js.org/editor/projects/QrE5pO6E9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_01 frameCount.zip"
-curl https://editor.p5js.org/editor/projects/AtqCFY7CC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_23 Map with the map Function.zip"
-curl https://editor.p5js.org/editor/projects/BglFnxl3U/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_22 Map Values to a Range.zip"
-curl https://editor.p5js.org/editor/projects/yh4waikxd/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_21 Track the Finger.zip"
-curl https://editor.p5js.org/editor/projects/ZnKfzbW_c/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_20 Touch the Screen.zip"
-curl https://editor.p5js.org/editor/projects/lXNH5Z-tA/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_20 Touch the Screen XXX.zip"
-curl https://editor.p5js.org/editor/projects/kbaJEPxF5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_19 Move with Arrow Keys.zip"
-curl https://editor.p5js.org/editor/projects/HQ4rz3iDt/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_18 Check for Specific Keys.zip"
-curl https://editor.p5js.org/editor/projects/vdHJ835F4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_17 Draw Some Letters.zip"
-curl https://editor.p5js.org/editor/projects/UNsRwHJVQ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_16 Tap a Key.zip"
-curl https://editor.p5js.org/editor/projects/MV2Ifxtaz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_15 The Bounds of a Rectangle.zip"
-curl https://editor.p5js.org/editor/projects/nPTnXZD3c/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle pulse.zip"
-curl https://editor.p5js.org/editor/projects/tPX6MmuEk/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle.zip"
-curl https://editor.p5js.org/editor/projects/Im7tJDFJM/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_13 Find the Cursor.zip"
-curl https://editor.p5js.org/editor/projects/PQdxi8L_T/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_12 Multiple Mouse Buttons.zip"
-curl https://editor.p5js.org/editor/projects/ptw9C5yOQ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_10 Click the Mouse.zip"
-curl https://editor.p5js.org/editor/projects/TZ5FwWXoW/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_09 Smooth Lines with Easing.zip"
-curl https://editor.p5js.org/editor/projects/kdszl3wkF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_08 Easing Does It.zip"
-curl https://editor.p5js.org/editor/projects/Lr-KEd_IT/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_08 Easing Does It XXX.zip"
-curl https://editor.p5js.org/editor/projects/H9EaSl2Sh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_07 Set Thickness on the Fly.zip"
-curl https://editor.p5js.org/editor/projects/d2VusUGT4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_06 Draw Continuously.zip"
-curl https://editor.p5js.org/editor/projects/rc_stJwOF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_05  The Dot Follows You.zip"
-curl https://editor.p5js.org/editor/projects/T04uHthwa/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_03 setup, Meet draw.zip"
-curl https://editor.p5js.org/editor/projects/rts0Rja8o/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_02 setup draw.zip"
-curl https://editor.p5js.org/editor/projects/pK7xE8hN3/zip -o "../p5mirror-jht1493/downloads/zips/3.3 if mouseX AND.zip"
-curl https://editor.p5js.org/editor/projects/VmJD4ZUMJ/zip -o "../p5mirror-jht1493/downloads/zips/3.3 else if.zip"
-curl https://editor.p5js.org/editor/projects/G9KdsJgVl/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
-curl https://editor.p5js.org/editor/projects/r3Zc11p9E/zip -o "../p5mirror-jht1493/downloads/zips/tint-red copy.zip"
-curl https://editor.p5js.org/editor/projects/sHh0hUhNt/zip -o "../p5mirror-jht1493/downloads/zips/tint-red.zip"
-curl https://editor.p5js.org/editor/projects/frwcmLDTi/zip -o "../p5mirror-jht1493/downloads/zips/print fail.zip"
-curl https://editor.p5js.org/editor/projects/Skyzq_Ddm/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures param copy.zip"
-curl https://editor.p5js.org/editor/projects/Tkimyte0W/zip -o "../p5mirror-jht1493/downloads/zips/vconstraints  360.zip"
-curl https://editor.p5js.org/editor/projects/QOfdBEg_C/zip -o "../p5mirror-jht1493/downloads/zips/vconstraints  1080.zip"
-curl https://editor.p5js.org/editor/projects/vP21lJkf6/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox inline two.zip"
-curl https://editor.p5js.org/editor/projects/0_CfvAqRa/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox inline.zip"
-curl https://editor.p5js.org/editor/projects/Tv4_-7Qiq/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox.zip"
-curl https://editor.p5js.org/editor/projects/hk2yZ1GrL/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror.zip"
-curl https://editor.p5js.org/editor/projects/bXmM8izjD/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures jitter.zip"
-curl https://editor.p5js.org/editor/projects/ziOkogWgP/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures param.zip"
-curl https://editor.p5js.org/editor/projects/fRJikQjei/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures func.zip"
-curl https://editor.p5js.org/editor/projects/ZI69-U4Rq/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures copy.zip"
-curl https://editor.p5js.org/editor/projects/mBLvc2Xiz/zip -o "../p5mirror-jht1493/downloads/zips/2.5 map function ui.zip"
-curl https://editor.p5js.org/editor/projects/0EzMYSpky/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_99 Robot 1: Draw.zip"
-curl https://editor.p5js.org/editor/projects/N2VJYjIWg/zip -o "../p5mirror-jht1493/downloads/zips/2.4.1 random shape1.zip"
-curl https://editor.p5js.org/editor/projects/UDMyivHEQ/zip -o "../p5mirror-jht1493/downloads/zips/2.4.2 shape1 alpha.zip"
-curl https://editor.p5js.org/editor/projects/IuKS1TIjB/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 shape2 speed.zip"
-curl https://editor.p5js.org/editor/projects/mDleb9mKk/zip -o "../p5mirror-jht1493/downloads/zips/2.2.4 circleX rgb ui.zip"
-curl https://editor.p5js.org/editor/projects/cuaGTyRYU/zip -o "../p5mirror-jht1493/downloads/zips/2.2.1 shape1 shape2.zip"
-curl https://editor.p5js.org/editor/projects/Hc2w8A4XM/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object duo ui.zip"
-curl https://editor.p5js.org/editor/projects/2ZGRl9x1p/zip -o "../p5mirror-jht1493/downloads/zips/2.2 circleR growing.zip"
-curl https://editor.p5js.org/editor/projects/UhNMB6GQO/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 circleX width ui.zip"
-curl https://editor.p5js.org/editor/projects/7TS45L2cA/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_99 Robot 4: Translate func.zip"
-curl https://editor.p5js.org/editor/projects/W11fu5LhG/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_06 Tween mouse.zip"
-curl https://editor.p5js.org/editor/projects/vJUCok9aU/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_06 Tween.zip"
-curl https://editor.p5js.org/editor/projects/KaijsTyVc/zip -o "../p5mirror-jht1493/downloads/zips/2.1.1 mouseX,mouseY.zip"
-curl https://editor.p5js.org/editor/projects/C2bgbELqa/zip -o "../p5mirror-jht1493/downloads/zips/2.1.2 mouseX mirror.zip"
-curl https://editor.p5js.org/editor/projects/n146VMQSo/zip -o "../p5mirror-jht1493/downloads/zips/lower mask.zip"
-curl https://editor.p5js.org/editor/projects/1WLCUZfR4/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object duo.zip"
-curl https://editor.p5js.org/editor/projects/Eba5AyFPo/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object literal.zip"
-curl https://editor.p5js.org/editor/projects/7aMDBPyKu/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth 4x3.zip"
-curl https://editor.p5js.org/editor/projects/7w1c8NGo9/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth 5x3.zip"
-curl https://editor.p5js.org/editor/projects/YzI6wqRGE/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 variable circleX random color.zip"
-curl https://editor.p5js.org/editor/projects/UTMOVgcsv/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 object scan.zip"
-curl https://editor.p5js.org/editor/projects/TAnGTwIJ1/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush a_step.zip"
-curl https://editor.p5js.org/editor/projects/gv8PmJE2u/zip -o "../p5mirror-jht1493/downloads/zips/2.3_0_p5 without_objects.zip"
-curl https://editor.p5js.org/editor/projects/h-rLRPdqn/zip -o "../p5mirror-jht1493/downloads/zips/2.2_p5.js user_defined.zip"
-curl https://editor.p5js.org/editor/projects/qsfTfkb_5/zip -o "../p5mirror-jht1493/downloads/zips/2.3_1_p5 with_objects.zip"
-curl https://editor.p5js.org/editor/projects/OLzJZWjV5/zip -o "../p5mirror-jht1493/downloads/zips/2.4 random - Painting Exercise 2.zip"
-curl https://editor.p5js.org/editor/projects/Iy6KGB3Wf/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_09 Strokes Consistent.zip"
-curl https://editor.p5js.org/editor/projects/6vFu9X3jD/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_10 Isolating Transformations.zip"
-curl https://editor.p5js.org/editor/projects/TSDh4otF5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_08 Scaling.zip"
-curl https://editor.p5js.org/editor/projects/NqUbfaE2H/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_07 Articulating Arm.zip"
-curl https://editor.p5js.org/editor/projects/f61txC7KZ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_06 Rotation Translation.zip"
-curl https://editor.p5js.org/editor/projects/dIUreb8Fc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_05 Translation Rotation.zip"
-curl https://editor.p5js.org/editor/projects/-K5nIPw-O/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_04 Center Rotation.zip"
-curl https://editor.p5js.org/editor/projects/7tw-3XmNx/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_03 Corner Rotation.zip"
-curl https://editor.p5js.org/editor/projects/aNTyhkTAp/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_02 Multiple Translations.zip"
-curl https://editor.p5js.org/editor/projects/P2GfFz2Jv/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_01 Translating Location.zip"
-curl https://editor.p5js.org/editor/projects/yGDQyWCf7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_99 Robot 4: Translate.zip"
-curl https://editor.p5js.org/editor/projects/GD_kzWHeR/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_99 Robot06_Motion.zip"
-curl https://editor.p5js.org/editor/projects/nAiwy2Qte/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_15 Spirals.zip"
-curl https://editor.p5js.org/editor/projects/0IZtaK_fH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_14 Circular Motion.zip"
-curl https://editor.p5js.org/editor/projects/U80HMnJYf/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_13 Sine Wave.zip"
-curl https://editor.p5js.org/editor/projects/B4P8dpKW5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_12 Sine Wave Values.zip"
-curl https://editor.p5js.org/editor/projects/xADLvN6tz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_11 Triggering Timed.zip"
-curl https://editor.p5js.org/editor/projects/BoVBnl443/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_10 Time Passes.zip"
-curl https://editor.p5js.org/editor/projects/YjFnLREL7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_09 Move Shapes Randomly.zip"
-curl https://editor.p5js.org/editor/projects/SmFX6Ioj_/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_08 Draw Randomly.zip"
-curl https://editor.p5js.org/editor/projects/wJCzyVzBm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_05 Bounce Off the Wall.zip"
-curl https://editor.p5js.org/editor/projects/W_nCg2LI2/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_04 Wrap Around.zip"
-curl https://editor.p5js.org/editor/projects/xFElx4UBj/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_19 beginShape.zip"
-curl https://editor.p5js.org/editor/projects/4ru5A30iE/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_04 quad tri.zip"
-curl https://editor.p5js.org/editor/projects/R0o3EvVOC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_06 circles touch.zip"
-curl https://editor.p5js.org/editor/projects/lj5UimD1G/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_09 arcs.zip"
-curl https://editor.p5js.org/editor/projects/mPX1b9278/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures.zip"
-curl https://editor.p5js.org/editor/projects/DJ99paBR7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_03 Move a Shape.zip"
-curl https://editor.p5js.org/editor/projects/sxI2SjRrh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_17 alpha circles.zip"
-curl https://editor.p5js.org/editor/projects/1jYHAXZRF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_01 Draw an Ellipse.zip"
-curl https://editor.p5js.org/editor/projects/Cc8MICNun/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_02 Make Circles.zip"
-curl https://editor.p5js.org/editor/projects/pmA0d9Uqt/zip -o "../p5mirror-jht1493/downloads/zips/2.1.2 mouseX,mouseY arith.zip"
-curl https://editor.p5js.org/editor/projects/tNEJXRA1V/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY funcs.zip"
-curl https://editor.p5js.org/editor/projects/0jB0SdGZW/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle random set %.zip"
-curl https://editor.p5js.org/editor/projects/QfgP2VgJt/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle random set.zip"
-curl https://editor.p5js.org/editor/projects/IiHPr9gcV/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle.zip"
-curl https://editor.p5js.org/editor/projects/9ss5dnb9t/zip -o "../p5mirror-jht1493/downloads/zips/2.5.9 random function spot.x spot.y.zip"
-curl https://editor.p5js.org/editor/projects/ny4aSEPTp/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 random function scan x ran y.zip"
-curl https://editor.p5js.org/editor/projects/XzrXlqxMN/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 random function scan x.zip"
-curl https://editor.p5js.org/editor/projects/jZtF7e5E5/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui col set.zip"
-curl https://editor.p5js.org/editor/projects/XOGQcrpoT/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui col array.zip"
-curl https://editor.p5js.org/editor/projects/lZD21fbFG/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui jiggle.zip"
-curl https://editor.p5js.org/editor/projects/46pdvjYd_/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui rgb.zip"
-curl https://editor.p5js.org/editor/projects/Dv5o83_c3/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui.zip"
-curl https://editor.p5js.org/editor/projects/A1NHTo3cg/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui bottom.zip"
-curl https://editor.p5js.org/editor/projects/mZ9UpUz9X/zip -o "../p5mirror-jht1493/downloads/zips/moving circle copy.zip"
-curl https://editor.p5js.org/editor/projects/vpcHXx_E1/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count.zip"
-curl https://editor.p5js.org/editor/projects/9aYZcF6DM/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush.zip"
-curl https://editor.p5js.org/editor/projects/dojCKsdwQ/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush ui.zip"
-curl https://editor.p5js.org/editor/projects/pMj2K_RnH/zip -o "../p5mirror-jht1493/downloads/zips/2.2.8 variable circleX % width ui copy.zip"
-curl https://editor.p5js.org/editor/projects/Sp6LGqMlu/zip -o "../p5mirror-jht1493/downloads/zips/2.2.8 variable circleX % width ui btns.zip"
-curl https://editor.p5js.org/editor/projects/v9zsQFPqN/zip -o "../p5mirror-jht1493/downloads/zips/2.2.1 variable circleX.zip"
-curl https://editor.p5js.org/editor/projects/ViF9bv86J/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder scan.zip"
-curl https://editor.p5js.org/editor/projects/vig9Wkf9V/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder erase.zip"
-curl https://editor.p5js.org/editor/projects/JcUsrhgFt/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX ui.zip"
-curl https://editor.p5js.org/editor/projects/rO0jSdg9Y/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX slider.zip"
-curl https://editor.p5js.org/editor/projects/5ZN5rRsem/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX alpha.zip"
-curl https://editor.p5js.org/editor/projects/e33y9FbcE/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX.zip"
-curl https://editor.p5js.org/editor/projects/HtESWWNTa/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable circleX remainder.zip"
-curl https://editor.p5js.org/editor/projects/T8BbkINop/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 button slider ui remainder.zip"
-curl https://editor.p5js.org/editor/projects/Kik0LOIug/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge obj.zip"
-curl https://editor.p5js.org/editor/projects/I69gHq4bl/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge full.zip"
-curl https://editor.p5js.org/editor/projects/dzRc5bh1h/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4 height.zip"
-curl https://editor.p5js.org/editor/projects/bBebADSjC/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4 alpha 1.zip"
-curl https://editor.p5js.org/editor/projects/IDzmRpEKu/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4.zip"
-curl https://editor.p5js.org/editor/projects/G2sHkNwFo/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y.zip"
-curl https://editor.p5js.org/editor/projects/NldIA7hqT/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 5 gray 0.zip"
-curl https://editor.p5js.org/editor/projects/58CvXXSE8/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 5.zip"
-curl https://editor.p5js.org/editor/projects/nFRMBGVaU/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 1.zip"
-curl https://editor.p5js.org/editor/projects/GJWDvxs6d/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha.zip"
-curl https://editor.p5js.org/editor/projects/g_NFzcbcq/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3.zip"
-curl https://editor.p5js.org/editor/projects/PEuN_WPty/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge.zip"
-curl https://editor.p5js.org/editor/projects/P9xSA4D7d/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - make your own variable - growing circle remainder.zip"
-curl https://editor.p5js.org/editor/projects/y98Qq3YM9/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9  variable edge obj 2.zip"
-curl https://editor.p5js.org/editor/projects/YzRTsgrze/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY arith ui.zip"
-curl https://editor.p5js.org/editor/projects/v56Rd_pWx/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY mirror.zip"
-curl https://editor.p5js.org/editor/projects/5Q_M3rwpt/zip -o "../p5mirror-jht1493/downloads/zips/2.1.3 mouseX,mouseY left.zip"
-curl https://editor.p5js.org/editor/projects/tuC5MB4nm/zip -o "../p5mirror-jht1493/downloads/zips/3.1 button slider checkbox ui if.zip"
-curl https://editor.p5js.org/editor/projects/_nMddbW82/zip -o "../p5mirror-jht1493/downloads/zips/Fractal Tree slider.zip"
-curl https://editor.p5js.org/editor/projects/sUEajcpKC/zip -o "../p5mirror-jht1493/downloads/zips/2. Random Painting noStroke.zip"
-curl https://editor.p5js.org/editor/projects/I-ESQeB1F/zip -o "../p5mirror-jht1493/downloads/zips/2. Random Painting noStroke.zip"
-curl https://editor.p5js.org/editor/projects/WJFtFBmnK/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect.zip"
-curl https://editor.p5js.org/editor/projects/1YDCvhA1Y/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars_trans.zip"
-curl https://editor.p5js.org/editor/projects/Tiu0zz1NE/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars_ui.zip"
-curl https://editor.p5js.org/editor/projects/k2Fsi7Mf8/zip -o "../p5mirror-jht1493/downloads/zips/draw_rect_circle alpha ui yellow.zip"
-curl https://editor.p5js.org/editor/projects/a3VD0HYqD/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars color.zip"
-curl https://editor.p5js.org/editor/projects/OBn_OLAQR/zip -o "../p5mirror-jht1493/downloads/zips/draw_rect_circle alpha ui.zip"
-curl https://editor.p5js.org/editor/projects/RA0p_u3Kj/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v splat.zip"
-curl https://editor.p5js.org/editor/projects/0KfIEvd6M/zip -o "../p5mirror-jht1493/downloads/zips/draw fem mon matrix a_sin midba.zip"
-curl https://editor.p5js.org/editor/projects/PCXJkfLz5/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix spin.zip"
-curl https://editor.p5js.org/editor/projects/9tCw0wz7K/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix a_sin.zip"
-curl https://editor.p5js.org/editor/projects/BPBunRg2H/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix.zip"
-curl https://editor.p5js.org/editor/projects/3aQA0hvkt/zip -o "../p5mirror-jht1493/downloads/zips/draw_mon alpha.zip"
-curl https://editor.p5js.org/editor/projects/9Cy8EX8iO/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon row.zip"
-curl https://editor.p5js.org/editor/projects/I7OFtFR8K/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon.zip"
-curl https://editor.p5js.org/editor/projects/R2Rdoodqo/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem rotate.zip"
-curl https://editor.p5js.org/editor/projects/YK19XLn5I/zip -o "../p5mirror-jht1493/downloads/zips/bouncing draw _ball.zip"
-curl https://editor.p5js.org/editor/projects/1HRbbpwEK/zip -o "../p5mirror-jht1493/downloads/zips/createButton draw _shapes.zip"
-curl https://editor.p5js.org/editor/projects/cJPelGG4z/zip -o "../p5mirror-jht1493/downloads/zips/createButton draw _shapes inline.zip"
-curl https://editor.p5js.org/editor/projects/arU3RYuxP/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head.zip"
-curl https://editor.p5js.org/editor/projects/HzX937qCR/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head alpha.zip"
-curl https://editor.p5js.org/editor/projects/mA3PRsEys/zip -o "../p5mirror-jht1493/downloads/zips/function draw _mon alpha slider.zip"
-curl https://editor.p5js.org/editor/projects/XDIBLZKi2/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head alpha slider copy.zip"
-curl https://editor.p5js.org/editor/projects/oilmQWN_F/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head rects.zip"
-curl https://editor.p5js.org/editor/projects/TcdfIxOyu/zip -o "../p5mirror-jht1493/downloads/zips/head function rect.zip"
-curl https://editor.p5js.org/editor/projects/2fdgTKGef/zip -o "../p5mirror-jht1493/downloads/zips/head color growth [rgba] doub eyes.zip"
-curl https://editor.p5js.org/editor/projects/NiRBZ_zLN/zip -o "../p5mirror-jht1493/downloads/zips/head color growth [rgb].zip"
-curl https://editor.p5js.org/editor/projects/0AH9IgNje/zip -o "../p5mirror-jht1493/downloads/zips/head color growth trans.zip"
-curl https://editor.p5js.org/editor/projects/fwCY74_uF/zip -o "../p5mirror-jht1493/downloads/zips/head color growth plus.zip"
-curl https://editor.p5js.org/editor/projects/fyCGaLgow/zip -o "../p5mirror-jht1493/downloads/zips/head color growth start times 2.zip"
-curl https://editor.p5js.org/editor/projects/K_1xNuX78/zip -o "../p5mirror-jht1493/downloads/zips/1.2 p5.js_Color.zip"
-curl https://editor.p5js.org/editor/projects/p4WOzDrgQ/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js basics_of_drawing.zip"
-curl https://editor.p5js.org/editor/projects/BULtMLB5j/zip -o "../p5mirror-jht1493/downloads/zips/head param create_ui get.zip"
-curl https://editor.p5js.org/editor/projects/jW-mgXSiU/zip -o "../p5mirror-jht1493/downloads/zips/head param create_ui.zip"
-curl https://editor.p5js.org/editor/projects/Ezmd5TtY2/zip -o "../p5mirror-jht1493/downloads/zips/head color growth rotate.zip"
-curl https://editor.p5js.org/editor/projects/Fcm57wyxJ/zip -o "../p5mirror-jht1493/downloads/zips/head color growth frameCount.zip"
-curl https://editor.p5js.org/editor/projects/q8E4h7Piu/zip -o "../p5mirror-jht1493/downloads/zips/head color growth.zip"
-curl https://editor.p5js.org/editor/projects/RUuB2e-19/zip -o "../p5mirror-jht1493/downloads/zips/head param color.zip"
-curl https://editor.p5js.org/editor/projects/xfnCrqjkK/zip -o "../p5mirror-jht1493/downloads/zips/head param scale.zip"
-curl https://editor.p5js.org/editor/projects/uQuR5K5ul/zip -o "../p5mirror-jht1493/downloads/zips/createSpan select mouse.zip"
-curl https://editor.p5js.org/editor/projects/0Llz7CFZV/zip -o "../p5mirror-jht1493/downloads/zips/rect trans inline.zip"
-curl https://editor.p5js.org/editor/projects/s4K2s3FRg/zip -o "../p5mirror-jht1493/downloads/zips/head circle scale back.zip"
-curl https://editor.p5js.org/editor/projects/7ysqaUmat/zip -o "../p5mirror-jht1493/downloads/zips/double createCanvas.zip"
-curl https://editor.p5js.org/editor/projects/F_uu2OQ8m/zip -o "../p5mirror-jht1493/downloads/zips/createCapture.zip"
-curl https://editor.p5js.org/editor/projects/HC9y3joDz/zip -o "../p5mirror-jht1493/downloads/zips/head circle.zip"
-curl https://editor.p5js.org/editor/projects/sNH4P8QEp/zip -o "../p5mirror-jht1493/downloads/zips/head circle 100.zip"
-curl https://editor.p5js.org/editor/projects/VAg5-djYX/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha video.zip"
-curl https://editor.p5js.org/editor/projects/5P70SGsPZ/zip -o "../p5mirror-jht1493/downloads/zips/WK2 move a circle with random size.zip"
-curl https://editor.p5js.org/editor/projects/D0S0gQEHU/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line fill stroke.zip"
-curl https://editor.p5js.org/editor/projects/WfJ_BSW3U/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line fill.zip"
-curl https://editor.p5js.org/editor/projects/cpYLfXYNz/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line.zip"
-curl https://editor.p5js.org/editor/projects/xX_6p3wI2/zip -o "../p5mirror-jht1493/downloads/zips/head circle 20*5.zip"
-curl https://editor.p5js.org/editor/projects/67wXuGA53/zip -o "../p5mirror-jht1493/downloads/zips/head circle trans.zip"
-curl https://editor.p5js.org/editor/projects/hi0VnviuM/zip -o "../p5mirror-jht1493/downloads/zips/drawingContext.zip"
-curl https://editor.p5js.org/editor/projects/X4N5KkxFh/zip -o "../p5mirror-jht1493/downloads/zips/func rect_8.zip"
-curl https://editor.p5js.org/editor/projects/xuTYIJ-nF/zip -o "../p5mirror-jht1493/downloads/zips/func rect_4.zip"
-curl https://editor.p5js.org/editor/projects/PtM-Ds8C7/zip -o "../p5mirror-jht1493/downloads/zips/func rect_8 trans.zip"
-curl https://editor.p5js.org/editor/projects/EpUG7RGnC/zip -o "../p5mirror-jht1493/downloads/zips/func rect_4x8.zip"
-curl https://editor.p5js.org/editor/projects/Wip_OpC2-/zip -o "../p5mirror-jht1493/downloads/zips/func rect_trans vert.zip"
-curl https://editor.p5js.org/editor/projects/fC8BddMu5/zip -o "../p5mirror-jht1493/downloads/zips/func rect_trans.zip"
-curl https://editor.p5js.org/editor/projects/bt1hw69uh/zip -o "../p5mirror-jht1493/downloads/zips/int vs. Math.trunc.zip"
-curl https://editor.p5js.org/editor/projects/3_u4pPt6H/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount remainder.zip"
-curl https://editor.p5js.org/editor/projects/zvjJtdtYP/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount remainder xy.zip"
-curl https://editor.p5js.org/editor/projects/_SeVXH-Tl/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount.zip"
-curl https://editor.p5js.org/editor/projects/Xu5vvG-yC/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
-curl https://editor.p5js.org/editor/projects/-rQHj1CuO/zip -o "../p5mirror-jht1493/downloads/zips/Clock Example create HTML.zip"
-curl https://editor.p5js.org/editor/projects/TX_Xf_1KV/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight step.zip"
-curl https://editor.p5js.org/editor/projects/9XxXNiYsd/zip -o "../p5mirror-jht1493/downloads/zips/pixel bestill Float64Array.zip"
-curl https://editor.p5js.org/editor/projects/2yNuL_kIb/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight random.zip"
-curl https://editor.p5js.org/editor/projects/BPatGL4Pw/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight.zip"
-curl https://editor.p5js.org/editor/projects/wLXADLtvI/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT _step.zip"
-curl https://editor.p5js.org/editor/projects/kncfw6qTC/zip -o "../p5mirror-jht1493/downloads/zips/Text To Points Examples copy.zip"
-curl https://editor.p5js.org/editor/projects/9e8IcjYo9/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths nyc img.zip"
-curl https://editor.p5js.org/editor/projects/w83LHBCUr/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths a_refs.zip"
-curl https://editor.p5js.org/editor/projects/eIKzFZ1rv/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series.zip"
-curl https://editor.p5js.org/editor/projects/zmGd5h7Hf/zip -o "../p5mirror-jht1493/downloads/zips/Admitted plot 2.zip"
-curl https://editor.p5js.org/editor/projects/fGU4wVifo/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 format + c_regions.zip"
-curl https://editor.p5js.org/editor/projects/YNQ6UgGUL/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 selection.zip"
-curl https://editor.p5js.org/editor/projects/z_nwk75pm/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths tint imgs.zip"
-curl https://editor.p5js.org/editor/projects/21uSV9oI5/zip -o "../p5mirror-jht1493/downloads/zips/Hallowed aura.zip"
-curl https://editor.p5js.org/editor/projects/Ehm3wAw9a/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths tint img.zip"
-curl https://editor.p5js.org/editor/projects/lRLDKTQeb/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths filter gallery.zip"
-curl https://editor.p5js.org/editor/projects/ODMtGGhoy/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths filter.zip"
-curl https://editor.p5js.org/editor/projects/fZiL4m1fM/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload pixel.zip"
-curl https://editor.p5js.org/editor/projects/TVzpchW3j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload 2x.zip"
-curl https://editor.p5js.org/editor/projects/rsz4qh0RZ/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload 2.zip"
-curl https://editor.p5js.org/editor/projects/cEeJ_nWDp/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload.zip"
-curl https://editor.p5js.org/editor/projects/jXNNPay9j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths pixels.zip"
-curl https://editor.p5js.org/editor/projects/twRpJN1-1/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery image.zip"
-curl https://editor.p5js.org/editor/projects/I1eSgBG_5/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery createGraphics.zip"
-curl https://editor.p5js.org/editor/projects/dbSuzokZn/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery delay.zip"
-curl https://editor.p5js.org/editor/projects/Ve1OPks2j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery.zip"
-curl https://editor.p5js.org/editor/projects/r6GGAXtz2/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 4.zip"
-curl https://editor.p5js.org/editor/projects/zi7nDCHC1/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 covid19.zip"
-curl https://editor.p5js.org/editor/projects/ATnBKpj1f/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 3.zip"
-curl https://editor.p5js.org/editor/projects/Cp28CtK6h/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 4.zip"
-curl https://editor.p5js.org/editor/projects/MM822BcFe/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 2.zip"
-curl https://editor.p5js.org/editor/projects/jhTJtIGix/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 1.zip"
-curl https://editor.p5js.org/editor/projects/WtpIE74Ph/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow.zip"
-curl https://editor.p5js.org/editor/projects/XjH38EgqI/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 raw nyc.zip"
-curl https://editor.p5js.org/editor/projects/7TQS9SrUT/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 raw.githubusercontent.zip"
-curl https://editor.p5js.org/editor/projects/Yi6VAAcN1/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 ui.zip"
-curl https://editor.p5js.org/editor/projects/wN_8WL6kr/zip -o "../p5mirror-jht1493/downloads/zips/Final Project - Coral Reefs copy.zip"
-curl https://editor.p5js.org/editor/projects/Hud7Nq_KN/zip -o "../p5mirror-jht1493/downloads/zips/Horse Number 1: Scratched nylon 2.zip"
-curl https://editor.p5js.org/editor/projects/eP18pZoUW/zip -o "../p5mirror-jht1493/downloads/zips/Final Project - Coral Reefs copy.zip"
-curl https://editor.p5js.org/editor/projects/F7CnDd1It/zip -o "../p5mirror-jht1493/downloads/zips/Face Tracking copy.zip"
-curl https://editor.p5js.org/editor/projects/_2pI9C6Mx/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string hsb draw xoff.zip"
-curl https://editor.p5js.org/editor/projects/x62-qWUE4/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string hsb draw.zip"
-curl https://editor.p5js.org/editor/projects/RPYFGx-TC/zip -o "../p5mirror-jht1493/downloads/zips/Final Pick.zip"
-curl https://editor.p5js.org/editor/projects/hUS5v84A8/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation break.zip"
-curl https://editor.p5js.org/editor/projects/vGB95cQEC/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Simple Markov ui.zip"
-curl https://editor.p5js.org/editor/projects/8H-GRPuKj/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Word Counting ui.zip"
-curl https://editor.p5js.org/editor/projects/HSQjawjhI/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation diff.zip"
-curl https://editor.p5js.org/editor/projects/UN-Io8vFR/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation serial.zip"
-curl https://editor.p5js.org/editor/projects/r5q2y8jz4/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation hide.zip"
-curl https://editor.p5js.org/editor/projects/4pyNtljNx/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string split.zip"
-curl https://editor.p5js.org/editor/projects/dQ0d0O67r/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string color.zip"
-curl https://editor.p5js.org/editor/projects/2Zs6SOBuU/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string color hsb.zip"
-curl https://editor.p5js.org/editor/projects/vfez2DZlp/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string random.zip"
-curl https://editor.p5js.org/editor/projects/S_TF0P8Lw/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation jamaica.zip"
-curl https://editor.p5js.org/editor/projects/nbw5HSR-r/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me cue hsb.zip"
-curl https://editor.p5js.org/editor/projects/B6ls6ibda/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Word Counting copy.zip"
-curl https://editor.p5js.org/editor/projects/m1N1SE7k5/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string random loc.zip"
-curl https://editor.p5js.org/editor/projects/5m7vmQ19Y/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation copy.zip"
-curl https://editor.p5js.org/editor/projects/BttlnIews/zip -o "../p5mirror-jht1493/downloads/zips/2:4 remainder Drum ui.zip"
-curl https://editor.p5js.org/editor/projects/ehiLZ6Dx8/zip -o "../p5mirror-jht1493/downloads/zips/2:4 millis Drum chk.zip"
-curl https://editor.p5js.org/editor/projects/BcPohQw6S/zip -o "../p5mirror-jht1493/downloads/zips/2:4 remainder Drum ui copy.zip"
-curl https://editor.p5js.org/editor/projects/tNaIcnYYt/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON.zip"
-curl https://editor.p5js.org/editor/projects/_xpl8mIlt/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation line br.zip"
-curl https://editor.p5js.org/editor/projects/KKc0bBfr-/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Simple Markov.zip"
-curl https://editor.p5js.org/editor/projects/BX1hj-IOH/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me cue.zip"
-curl https://editor.p5js.org/editor/projects/S0Vzkc26f/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me a_index.zip"
-curl https://editor.p5js.org/editor/projects/rVpCxRbBt/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin r both.zip"
-curl https://editor.p5js.org/editor/projects/ApfFrz3J8/zip -o "../p5mirror-jht1493/downloads/zips/2:4 % Drum ui.zip"
-curl https://editor.p5js.org/editor/projects/VU2ptd42g/zip -o "../p5mirror-jht1493/downloads/zips/2:4 milis Drum btn.zip"
-curl https://editor.p5js.org/editor/projects/6me13jnns/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT.zip"
-curl https://editor.p5js.org/editor/projects/S0ru5wsz1/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me video time.zip"
-curl https://editor.p5js.org/editor/projects/7QR8AZteU/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me video button.zip"
-curl https://editor.p5js.org/editor/projects/IgdWIIGYk/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me image video.zip"
-curl https://editor.p5js.org/editor/projects/P8hThYYZU/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me image.zip"
-curl https://editor.p5js.org/editor/projects/b_lj_27Cl/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me key.zip"
-curl https://editor.p5js.org/editor/projects/0sWWNHDSA/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me 1.zip"
-curl https://editor.p5js.org/editor/projects/gzgR2c2mz/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ midi.zip"
-curl https://editor.p5js.org/editor/projects/k4vWzBgN9/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ.zip"
-curl https://editor.p5js.org/editor/projects/yJte0nh5w/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ a_fading.zip"
-curl https://editor.p5js.org/editor/projects/HFtdh9exQ/zip -o "../p5mirror-jht1493/downloads/zips/2:4 % Drum copy.zip"
-curl https://editor.p5js.org/editor/projects/i7x3A6lC7/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes.zip"
-curl https://editor.p5js.org/editor/projects/EVwWL2fIR/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed keyReleased.zip"
-curl https://editor.p5js.org/editor/projects/_9e7S9L0a/zip -o "../p5mirror-jht1493/downloads/zips/keyDown bounds.zip"
-curl https://editor.p5js.org/editor/projects/XvtlRAbOd/zip -o "../p5mirror-jht1493/downloads/zips/keyDown.zip"
-curl https://editor.p5js.org/editor/projects/uqfu-VirY/zip -o "../p5mirror-jht1493/downloads/zips/2:4 Chords copy.zip"
-curl https://editor.p5js.org/editor/projects/g9yuGTgrn/zip -o "../p5mirror-jht1493/downloads/zips/2:4 Sound sample and pitch copy.zip"
-curl https://editor.p5js.org/editor/projects/rCY2fUiZB/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
-curl https://editor.p5js.org/editor/projects/df4ot6-2T/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
-curl https://editor.p5js.org/editor/projects/2YjUP5cer/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
-curl https://editor.p5js.org/editor/projects/rzkZZkbH9/zip -o "../p5mirror-jht1493/downloads/zips/Flicker skirt copy.zip"
-curl https://editor.p5js.org/editor/projects/78NHl2QM0/zip -o "../p5mirror-jht1493/downloads/zips/17.11: Sound Visualization line.zip"
-curl https://editor.p5js.org/editor/projects/oPtA9wxPL/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input FFT.zip"
-curl https://editor.p5js.org/editor/projects/c-E6SRXxW/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + mic.zip"
-curl https://editor.p5js.org/editor/projects/7CR1KbTlV/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + this dot.zip"
-curl https://editor.p5js.org/editor/projects/ek2h1KnPF/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + this dot copy.zip"
-curl https://editor.p5js.org/editor/projects/A65em8fED/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode + this dot debug.zip"
-curl https://editor.p5js.org/editor/projects/i0zHJF1nA/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode + this dot debug2.zip"
-curl https://editor.p5js.org/editor/projects/myCtvi2gc/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT copy.zip"
-curl https://editor.p5js.org/editor/projects/VOQlLw9GB/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth asdf copy.zip"
-curl https://editor.p5js.org/editor/projects/hGlsq1Lh4/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth asdf.zip"
-curl https://editor.p5js.org/editor/projects/-Q8SmPfMk/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth a-z.zip"
-curl https://editor.p5js.org/editor/projects/azyk5_nkI/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth.zip"
-curl https://editor.p5js.org/editor/projects/rOJquzbJ5/zip -o "../p5mirror-jht1493/downloads/zips/sound playMode.zip"
-curl https://editor.p5js.org/editor/projects/mUuBkCAnP/zip -o "../p5mirror-jht1493/downloads/zips/sound currentTime.zip"
-curl https://editor.p5js.org/editor/projects/Qwkt_b843/zip -o "../p5mirror-jht1493/downloads/zips/sound currentTime freeze.zip"
-curl https://editor.p5js.org/editor/projects/_FTDhwNBb/zip -o "../p5mirror-jht1493/downloads/zips/Warm berry.zip"
-curl https://editor.p5js.org/editor/projects/LbV9gPpVn/zip -o "../p5mirror-jht1493/downloads/zips/hearts hearts hearts copy.zip"
-curl https://editor.p5js.org/editor/projects/Od9wfIK4T/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v grid.zip"
-curl https://editor.p5js.org/editor/projects/oFIxEy3W8/zip -o "../p5mirror-jht1493/downloads/zips/2:2  Linear v. Exp Brightness copy.zip"
-curl https://editor.p5js.org/editor/projects/C8-6BjUJ-/zip -o "../p5mirror-jht1493/downloads/zips/WK9 PosetNet Keypoints Demo.zip"
-curl https://editor.p5js.org/editor/projects/iK-Cj68vp/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v.zip"
-curl https://editor.p5js.org/editor/projects/bjqky4Tn4/zip -o "../p5mirror-jht1493/downloads/zips/2:2 HSB swatches toolbox.zip"
-curl https://editor.p5js.org/editor/projects/NHraBfCqi/zip -o "../p5mirror-jht1493/downloads/zips/video scan r both.zip"
-curl https://editor.p5js.org/editor/projects/1E2TH--Jz/zip -o "../p5mirror-jht1493/downloads/zips/video scan bar.zip"
-curl https://editor.p5js.org/editor/projects/7Ps7oN4If/zip -o "../p5mirror-jht1493/downloads/zips/video scan rand.zip"
-curl https://editor.p5js.org/editor/projects/pwph3Z2LY/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v random.zip"
-curl https://editor.p5js.org/editor/projects/xMeu8V5F0/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v.zip"
-curl https://editor.p5js.org/editor/projects/R0GpSYDZo/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin random.zip"
-curl https://editor.p5js.org/editor/projects/wa-bYgC1p/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin.zip"
-curl https://editor.p5js.org/editor/projects/mZeL7retS/zip -o "../p5mirror-jht1493/downloads/zips/video scan mousePressed.zip"
-curl https://editor.p5js.org/editor/projects/5ArHb1TOR/zip -o "../p5mirror-jht1493/downloads/zips/video scan z-index.zip"
-curl https://editor.p5js.org/editor/projects/O_Hnohi8c/zip -o "../p5mirror-jht1493/downloads/zips/video scan 2.zip"
-curl https://editor.p5js.org/editor/projects/rZsqLSVhz/zip -o "../p5mirror-jht1493/downloads/zips/video scan.zip"
-curl https://editor.p5js.org/editor/projects/khINZL5ob/zip -o "../p5mirror-jht1493/downloads/zips/video spot.zip"
-curl https://editor.p5js.org/editor/projects/Auj6snOFP/zip -o "../p5mirror-jht1493/downloads/zips/video spot.zip"
-curl https://editor.p5js.org/editor/projects/OvSrgG3JD/zip -o "../p5mirror-jht1493/downloads/zips/Spotlight video.zip"
-curl https://editor.p5js.org/editor/projects/32gJswO2L/zip -o "../p5mirror-jht1493/downloads/zips/Spotlight with Capture xy-cross-hair.zip"
-curl https://editor.p5js.org/editor/projects/mwPNPy0DV/zip -o "../p5mirror-jht1493/downloads/zips/Chrome path.zip"
-curl https://editor.p5js.org/editor/projects/2KVsmKo67/zip -o "../p5mirror-jht1493/downloads/zips/WK9 PosetNet Keypoints Demo copy.zip"
-curl https://editor.p5js.org/editor/projects/B7qv-A4fm/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan copy-image copy.zip"
-curl https://editor.p5js.org/editor/projects/hT5cPJ9Oc/zip -o "../p5mirror-jht1493/downloads/zips/erase circle.zip"
-curl https://editor.p5js.org/editor/projects/jtEcYfbbP/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain full.zip"
-curl https://editor.p5js.org/editor/projects/pSdYQ_GF3/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain.zip"
-curl https://editor.p5js.org/editor/projects/fcL_aT0y8/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan yend.zip"
-curl https://editor.p5js.org/editor/projects/p_UiwQ5wK/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan lower.zip"
-curl https://editor.p5js.org/editor/projects/4-nCBcbO4/zip -o "../p5mirror-jht1493/downloads/zips/erase webgl torus.zip"
-curl https://editor.p5js.org/editor/projects/toIt2Qmkj/zip -o "../p5mirror-jht1493/downloads/zips/pixel bestill Float64Array copy.zip"
-curl https://editor.p5js.org/editor/projects/At3k-UALX/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze erase.zip"
-curl https://editor.p5js.org/editor/projects/24Gzsybqg/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze bw.zip"
-curl https://editor.p5js.org/editor/projects/9pIKA6_T0/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze rect line.zip"
-curl https://editor.p5js.org/editor/projects/5Z8PupEcj/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil window.zip"
-curl https://editor.p5js.org/editor/projects/wa5kuto6z/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 6.zip"
-curl https://editor.p5js.org/editor/projects/CW-0ISdPh/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness getpixel.zip"
-curl https://editor.p5js.org/editor/projects/5whqWxXVh/zip -o "../p5mirror-jht1493/downloads/zips/Webcam: Pixelated Mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/lClzrJPSR/zip -o "../p5mirror-jht1493/downloads/zips/Humble waste.zip"
-curl https://editor.p5js.org/editor/projects/eYRHQvaQV/zip -o "../p5mirror-jht1493/downloads/zips/Cat color picker copy.zip"
-curl https://editor.p5js.org/editor/projects/YcaRKxWR9/zip -o "../p5mirror-jht1493/downloads/zips/video mirror trans scale.zip"
-curl https://editor.p5js.org/editor/projects/p6g61faSW/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha.zip"
-curl https://editor.p5js.org/editor/projects/H1O3DTPlU/zip -o "../p5mirror-jht1493/downloads/zips/pixel array gray.zip"
-curl https://editor.p5js.org/editor/projects/6bQIVzNuq/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1.zip"
-curl https://editor.p5js.org/editor/projects/C18P0IIfV/zip -o "../p5mirror-jht1493/downloads/zips/loadImage tile.zip"
-curl https://editor.p5js.org/editor/projects/0RkzmM63T/zip -o "../p5mirror-jht1493/downloads/zips/pixel array select.zip"
-curl https://editor.p5js.org/editor/projects/W2mdNSeu6/zip -o "../p5mirror-jht1493/downloads/zips/pixel array select copy.zip"
-curl https://editor.p5js.org/editor/projects/S5VolfiXD/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/3EyXABUnX/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror copy.zip"
-curl https://editor.p5js.org/editor/projects/9ovi-hIiP/zip -o "../p5mirror-jht1493/downloads/zips/image mirror trans scale copy.zip"
-curl https://editor.p5js.org/editor/projects/4geC-l8p3/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2 copy.zip"
-curl https://editor.p5js.org/editor/projects/pdRYz8j-Z/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy.zip"
-curl https://editor.p5js.org/editor/projects/4ywVn2-7b/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui copy.zip"
-curl https://editor.p5js.org/editor/projects/0OfZ7dWv8/zip -o "../p5mirror-jht1493/downloads/zips/loadImage tile copy.zip"
-curl https://editor.p5js.org/editor/projects/xJKkrcK6D/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui crawl.zip"
-curl https://editor.p5js.org/editor/projects/JJYodcgBj/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui bounce.zip"
-curl https://editor.p5js.org/editor/projects/_pwaycFAk/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array basics copy.zip"
-curl https://editor.p5js.org/editor/projects/I1_qBk0qr/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy copy.zip"
-curl https://editor.p5js.org/editor/projects/8ZdK6eHLU/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy.zip"
-curl https://editor.p5js.org/editor/projects/O3XHspgGO/zip -o "../p5mirror-jht1493/downloads/zips/Get and Set copy.zip"
-curl https://editor.p5js.org/editor/projects/KgYzn9JDM/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array graphics copy.zip"
-curl https://editor.p5js.org/editor/projects/v2B5u4UmQ/zip -o "../p5mirror-jht1493/downloads/zips/Webcam background removal copy.zip"
-curl https://editor.p5js.org/editor/projects/iX-zysAyn/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array graphics copy.zip"
-curl https://editor.p5js.org/editor/projects/oyPmMC3IJ/zip -o "../p5mirror-jht1493/downloads/zips/bubble video.zip"
-curl https://editor.p5js.org/editor/projects/zBH7ThRpP/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan.zip"
-curl https://editor.p5js.org/editor/projects/uYk7qAQM2/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror ok.zip"
-curl https://editor.p5js.org/editor/projects/lUoSWn7KC/zip -o "../p5mirror-jht1493/downloads/zips/11.8: Video Effects with Seriously.js - chroma.zip"
-curl https://editor.p5js.org/editor/projects/khSNfD2jM/zip -o "../p5mirror-jht1493/downloads/zips/11.8: Video Effects with Seriously.js - blur.zip"
-curl https://editor.p5js.org/editor/projects/z7tzc3Ks9/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness Mirror.zip"
-curl https://editor.p5js.org/editor/projects/Of9qAUcAM/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels copy.zip"
-curl https://editor.p5js.org/editor/projects/gJFKLzI9w/zip -o "../p5mirror-jht1493/downloads/zips/p5.Image pixels writeColor.zip"
-curl https://editor.p5js.org/editor/projects/xEXvpYqnl/zip -o "../p5mirror-jht1493/downloads/zips/bubble image rect copy.zip"
-curl https://editor.p5js.org/editor/projects/G3oPJsRBD/zip -o "../p5mirror-jht1493/downloads/zips/bubble image rect.zip"
-curl https://editor.p5js.org/editor/projects/LrhcIzvr2/zip -o "../p5mirror-jht1493/downloads/zips/7.4 Mouse interaction with objects.zip"
-curl https://editor.p5js.org/editor/projects/yxDWkjIqf/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 6.zip"
-curl https://editor.p5js.org/editor/projects/xSG4oMvEJ/zip -o "../p5mirror-jht1493/downloads/zips/11.4-Brightness vScale 4.zip"
-curl https://editor.p5js.org/editor/projects/9QYJpYm1I/zip -o "../p5mirror-jht1493/downloads/zips/bubble drop select.zip"
-curl https://editor.p5js.org/editor/projects/nb5oy7oei/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha.zip"
-curl https://editor.p5js.org/editor/projects/nhzF9YrQ_/zip -o "../p5mirror-jht1493/downloads/zips/11.4-Brightness inverse center.zip"
-curl https://editor.p5js.org/editor/projects/UxmXmYJXG/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness no mirror.zip"
-curl https://editor.p5js.org/editor/projects/gnmoqmzbH/zip -o "../p5mirror-jht1493/downloads/zips/scan 1.zip"
-curl https://editor.p5js.org/editor/projects/G8XhYhPK7/zip -o "../p5mirror-jht1493/downloads/zips/scan.zip"
-curl https://editor.p5js.org/editor/projects/pBfGnmnLe/zip -o "../p5mirror-jht1493/downloads/zips/bestill.zip"
-curl https://editor.p5js.org/editor/projects/IqKA6_3fm/zip -o "../p5mirror-jht1493/downloads/zips/p5.Image pixels video.zip"
-curl https://editor.p5js.org/editor/projects/4XDiPH-Mt/zip -o "../p5mirror-jht1493/downloads/zips/3d box.zip"
-curl https://editor.p5js.org/editor/projects/EwVeHUYAg/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj mouse.zip"
-curl https://editor.p5js.org/editor/projects/GKJ_DbXKN/zip -o "../p5mirror-jht1493/downloads/zips/show_span opt.zip"
-curl https://editor.p5js.org/editor/projects/DRVwWXe99/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball show.zip"
-curl https://editor.p5js.org/editor/projects/ZO4EO0YGv/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy copy.zip"
-curl https://editor.p5js.org/editor/projects/lngaszMGr/zip -o "../p5mirror-jht1493/downloads/zips/loadImage 1.zip"
-curl https://editor.p5js.org/editor/projects/l0ELAKVpW/zip -o "../p5mirror-jht1493/downloads/zips/swarm copy.zip"
-curl https://editor.p5js.org/editor/projects/IL8Id9v_-/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth copy.zip"
-curl https://editor.p5js.org/editor/projects/GPnL5D3PA/zip -o "../p5mirror-jht1493/downloads/zips/bubble drop.zip"
-curl https://editor.p5js.org/editor/projects/72p-8O7XL/zip -o "../p5mirror-jht1493/downloads/zips/bubble more 4.zip"
-curl https://editor.p5js.org/editor/projects/gAkEJymjw/zip -o "../p5mirror-jht1493/downloads/zips/bubble more 3.zip"
-curl https://editor.p5js.org/editor/projects/4uA4sRrChV/zip -o "../p5mirror-jht1493/downloads/zips/bubble more  2.zip"
-curl https://editor.p5js.org/editor/projects/HXigwa2k-/zip -o "../p5mirror-jht1493/downloads/zips/bubble more.zip"
-curl https://editor.p5js.org/editor/projects/Z646Pkcmf/zip -o "../p5mirror-jht1493/downloads/zips/checkbox ui text.zip"
-curl https://editor.p5js.org/editor/projects/0biWSEZBr/zip -o "../p5mirror-jht1493/downloads/zips/checkbox ui.zip"
-curl https://editor.p5js.org/editor/projects/-qYPcFBYj/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy.zip"
-curl https://editor.p5js.org/editor/projects/tr7x_8g0Z/zip -o "../p5mirror-jht1493/downloads/zips/Orchid ambert copy copy.zip"
-curl https://editor.p5js.org/editor/projects/D3AJlrg_m/zip -o "../p5mirror-jht1493/downloads/zips/Exciting hickory copy.zip"
-curl https://editor.p5js.org/editor/projects/x541RHmdf/zip -o "../p5mirror-jht1493/downloads/zips/w6 assignment copy.zip"
-curl https://editor.p5js.org/editor/projects/lxRH7zGy0/zip -o "../p5mirror-jht1493/downloads/zips/Wk6Final.1 copy copy.zip"
-curl https://editor.p5js.org/editor/projects/WKUhIqGaK/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy.zip"
-curl https://editor.p5js.org/editor/projects/wMJ5yWMfJ/zip -o "../p5mirror-jht1493/downloads/zips/Orchid ambert copy copy.zip"
-curl https://editor.p5js.org/editor/projects/YDSW5I8U2/zip -o "../p5mirror-jht1493/downloads/zips/8.01 What_is_HTML copy.zip"
-curl https://editor.p5js.org/editor/projects/H1O1bcqwU/zip -o "../p5mirror-jht1493/downloads/zips/8.14_0 parent child.zip"
-curl https://editor.p5js.org/editor/projects/cSeIphwNx/zip -o "../p5mirror-jht1493/downloads/zips/8.01 What_is_HTML.zip"
-curl https://editor.p5js.org/editor/projects/B-b2lLfbF/zip -o "../p5mirror-jht1493/downloads/zips/Opposite dibble.zip"
-curl https://editor.p5js.org/editor/projects/ZaOM6tgPZ/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child clear_images.zip"
-curl https://editor.p5js.org/editor/projects/qPC4pLHHf/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child.zip"
-curl https://editor.p5js.org/editor/projects/IhQeQ2Pip/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child fail.zip"
-curl https://editor.p5js.org/editor/projects/Nc3wwm_RG/zip -o "../p5mirror-jht1493/downloads/zips/8.14_0 parent child fail.zip"
-curl https://editor.p5js.org/editor/projects/LTpHvvjQO/zip -o "../p5mirror-jht1493/downloads/zips/8.13 Assign_a_CSS_class.zip"
-curl https://editor.p5js.org/editor/projects/nSMEGQeZn/zip -o "../p5mirror-jht1493/downloads/zips/8.12 parent_child.zip"
-curl https://editor.p5js.org/editor/projects/SQMAfAsXX/zip -o "../p5mirror-jht1493/downloads/zips/8.11 callbacks on multiple DOM elements.zip"
-curl https://editor.p5js.org/editor/projects/4fabUgZp0/zip -o "../p5mirror-jht1493/downloads/zips/8.03 Manipulating_DOM_elements removeElements.zip"
-curl https://editor.p5js.org/editor/projects/1Sxb49U3p/zip -o "../p5mirror-jht1493/downloads/zips/8.03 Manipulating_DOM_elements.zip"
-curl https://editor.p5js.org/editor/projects/EZn_Bfrjk/zip -o "../p5mirror-jht1493/downloads/zips/8.02 Creating HTML elements.zip"
-curl https://editor.p5js.org/editor/projects/QoeXaY22s/zip -o "../p5mirror-jht1493/downloads/zips/8.04 Handling_DOM_events.zip"
-curl https://editor.p5js.org/editor/projects/aN3sBqXoW/zip -o "../p5mirror-jht1493/downloads/zips/8.05 input.zip"
-curl https://editor.p5js.org/editor/projects/aHS_944ll/zip -o "../p5mirror-jht1493/downloads/zips/8.05 input crawl.zip"
-curl https://editor.p5js.org/editor/projects/AQ6mnFiZt/zip -o "../p5mirror-jht1493/downloads/zips/8.05 select callback.zip"
-curl https://editor.p5js.org/editor/projects/f-Or4yb6-/zip -o "../p5mirror-jht1493/downloads/zips/8.05 Interacting with the DOM.zip"
-curl https://editor.p5js.org/editor/projects/Omkuy5ff8/zip -o "../p5mirror-jht1493/downloads/zips/8.06 Other_Events_and_Inputs.zip"
-curl https://editor.p5js.org/editor/projects/R-l2kFq-J/zip -o "../p5mirror-jht1493/downloads/zips/8.08 events_input.zip"
-curl https://editor.p5js.org/editor/projects/UwzyefBNc/zip -o "../p5mirror-jht1493/downloads/zips/8.07 Basics of CSS.zip"
-curl https://editor.p5js.org/editor/projects/OfzrlCCpL/zip -o "../p5mirror-jht1493/downloads/zips/8.08 events_changed.zip"
-curl https://editor.p5js.org/editor/projects/NZ9ZgwkTX/zip -o "../p5mirror-jht1493/downloads/zips/8.09 js_CSS_Selectors.zip"
-curl https://editor.p5js.org/editor/projects/RXoJujbVp/zip -o "../p5mirror-jht1493/downloads/zips/8.10 select.zip"
-curl https://editor.p5js.org/editor/projects/YZ4AN5XCn/zip -o "../p5mirror-jht1493/downloads/zips/8.10 selectAll.zip"
-curl https://editor.p5js.org/editor/projects/1pdVW21gO/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror ok 2.zip"
-curl https://editor.p5js.org/editor/projects/jNZu4uKNN/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels 1.zip"
-curl https://editor.p5js.org/editor/projects/1sDFqZNZR2/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
-curl https://editor.p5js.org/editor/projects/WPiOXstPO/zip -o "../p5mirror-jht1493/downloads/zips/11.1_p5.js_createCapture.zip"
-curl https://editor.p5js.org/editor/projects/Xd70w_ACg/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 9 800px.zip"
-curl https://editor.p5js.org/editor/projects/jtLf7ySJI/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 8 20x15.zip"
-curl https://editor.p5js.org/editor/projects/UTXPsV-sO/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 7 width.zip"
-curl https://editor.p5js.org/editor/projects/QqfK8d6k3/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 7.zip"
-curl https://editor.p5js.org/editor/projects/3mPwtv6w4/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 6.zip"
-curl https://editor.p5js.org/editor/projects/Z7Jz-FB9h/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 4.zip"
-curl https://editor.p5js.org/editor/projects/VJbMsNJi3/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 3.zip"
-curl https://editor.p5js.org/editor/projects/I9jLQbbLC/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 2.zip"
-curl https://editor.p5js.org/editor/projects/oPBFsro4z/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 1.zip"
-curl https://editor.p5js.org/editor/projects/Zu09siynw/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror cb.zip"
-curl https://editor.p5js.org/editor/projects/VPDJhCkq9/zip -o "../p5mirror-jht1493/downloads/zips/Winter structure copy.zip"
-curl https://editor.p5js.org/editor/projects/lI_EUFKmR/zip -o "../p5mirror-jht1493/downloads/zips/Showy hedge.zip"
-curl https://editor.p5js.org/editor/projects/dDRdu1Qca/zip -o "../p5mirror-jht1493/downloads/zips/every other blue.zip"
-curl https://editor.p5js.org/editor/projects/NynpNNENn/zip -o "../p5mirror-jht1493/downloads/zips/W4 checkerboard challenge.zip"
-curl https://editor.p5js.org/editor/projects/zUe71INx3/zip -o "../p5mirror-jht1493/downloads/zips/Water chef 0.zip"
-curl https://editor.p5js.org/editor/projects/9SGxBTjX8/zip -o "../p5mirror-jht1493/downloads/zips/Spiritual surf copy.zip"
-curl https://editor.p5js.org/editor/projects/DnKlGQ-sf/zip -o "../p5mirror-jht1493/downloads/zips/bubbles array.zip"
-curl https://editor.p5js.org/editor/projects/3bEKL0h_S/zip -o "../p5mirror-jht1493/downloads/zips/multi scripts.zip"
-curl https://editor.p5js.org/editor/projects/cB7UxUCfw/zip -o "../p5mirror-jht1493/downloads/zips/single bubble.zip"
-curl https://editor.p5js.org/editor/projects/wyQE99-qx/zip -o "../p5mirror-jht1493/downloads/zips/w5 hw copy.zip"
-curl https://editor.p5js.org/editor/projects/D-T0NopEg/zip -o "../p5mirror-jht1493/downloads/zips/7.1 What is an Array? random.zip"
-curl https://editor.p5js.org/editor/projects/vagPkRuRz/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball func 2.zip"
-curl https://editor.p5js.org/editor/projects/FUeeb-1YvU/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 2.zip"
-curl https://editor.p5js.org/editor/projects/4c3ja646V/zip -o "../p5mirror-jht1493/downloads/zips/7.5 Removing objects from arrays trials.zip"
-curl https://editor.p5js.org/editor/projects/ukRrexynz/zip -o "../p5mirror-jht1493/downloads/zips/7.5 Removing objects from arrays.zip"
-curl https://editor.p5js.org/editor/projects/KUhNQWtDL/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
-curl https://editor.p5js.org/editor/projects/zSMXnWpXI/zip -o "../p5mirror-jht1493/downloads/zips/7.1 What is an Array? 1.zip"
-curl https://editor.p5js.org/editor/projects/pT0_mdXrm/zip -o "../p5mirror-jht1493/downloads/zips/7.2 Arrays and loops.zip"
-curl https://editor.p5js.org/editor/projects/dzyfD8lw_/zip -o "../p5mirror-jht1493/downloads/zips/W4_1.3 copy_1_modulo 0.zip"
-curl https://editor.p5js.org/editor/projects/s2NkI6atG/zip -o "../p5mirror-jht1493/downloads/zips/pentagon 4.zip"
-curl https://editor.p5js.org/editor/projects/OPBB8d8Oq/zip -o "../p5mirror-jht1493/downloads/zips/pentagon 3.zip"
-curl https://editor.p5js.org/editor/projects/-RM03VEib/zip -o "../p5mirror-jht1493/downloads/zips/pentagon copy copy.zip"
-curl https://editor.p5js.org/editor/projects/OX_aIEWb1/zip -o "../p5mirror-jht1493/downloads/zips/pentagon copy.zip"
-curl https://editor.p5js.org/editor/projects/MZpwlyssX/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects copy.zip"
-curl https://editor.p5js.org/editor/projects/ZO6_aIePx/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions 0.zip"
-curl https://editor.p5js.org/editor/projects/FkSOtQfB5/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two func r.zip"
-curl https://editor.p5js.org/editor/projects/nIkOcRI6e/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
-curl https://editor.p5js.org/editor/projects/ZWeShtcM2/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
-curl https://editor.p5js.org/editor/projects/jM0IeGean/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two func  w.zip"
-curl https://editor.p5js.org/editor/projects/ExoAGUZRm/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1.zip"
-curl https://editor.p5js.org/editor/projects/D0d4-gIJE/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 0.zip"
-curl https://editor.p5js.org/editor/projects/LQRenV_hX/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle shape 1.zip"
-curl https://editor.p5js.org/editor/projects/cD9r2BqJH/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle shape.zip"
-curl https://editor.p5js.org/editor/projects/o9h-uYNEl/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle line.zip"
-curl https://editor.p5js.org/editor/projects/9Hd63CfHU/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 4.zip"
-curl https://editor.p5js.org/editor/projects/mGHzRtrAY/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 5.zip"
-curl https://editor.p5js.org/editor/projects/cGHTTVLrE/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 3.zip"
-curl https://editor.p5js.org/editor/projects/F67uk8ECO/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 2.zip"
-curl https://editor.p5js.org/editor/projects/dQCZcdZeF/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 1.zip"
-curl https://editor.p5js.org/editor/projects/-vbhzbmTK/zip -o "../p5mirror-jht1493/downloads/zips/moving circle 0.zip"
-curl https://editor.p5js.org/editor/projects/j2QFmwSPf/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects 1.zip"
-curl https://editor.p5js.org/editor/projects/fLBPDOAfS/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects 0.zip"
-curl https://editor.p5js.org/editor/projects/hY5DDSiCC/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2  justin 2.zip"
-curl https://editor.p5js.org/editor/projects/WH-rQFwwa/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2 1 justin.zip"
-curl https://editor.p5js.org/editor/projects/zagmQaq8J/zip -o "../p5mirror-jht1493/downloads/zips/rect ribbon.zip"
-curl https://editor.p5js.org/editor/projects/8bxTAM84n/zip -o "../p5mirror-jht1493/downloads/zips/sum.zip"
-curl https://editor.p5js.org/editor/projects/27PKO6TAUc/zip -o "../p5mirror-jht1493/downloads/zips/preload loadImage copy.zip"
-curl https://editor.p5js.org/editor/projects/n_zvA2EKy/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil.zip"
-curl https://editor.p5js.org/editor/projects/tWpsFy9Ln/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2 copy.zip"
-curl https://editor.p5js.org/editor/projects/9jQy06NyD/zip -o "../p5mirror-jht1493/downloads/zips/grid loop starter.zip"
-curl https://editor.p5js.org/editor/projects/zZXn0_0Ml/zip -o "../p5mirror-jht1493/downloads/zips/preload loadImage.zip"
-curl https://editor.p5js.org/editor/projects/BAP37QSuU/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis.zip"
-curl https://editor.p5js.org/editor/projects/itc8n2k9p/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball func 1.zip"
-curl https://editor.p5js.org/editor/projects/2C1IRjjVd/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions  1.zip"
-curl https://editor.p5js.org/editor/projects/cH2NTATtP/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj 1.zip"
-curl https://editor.p5js.org/editor/projects/_pTQB2aXW/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4: Nested For Loop 2 Refactored! 0.zip"
-curl https://editor.p5js.org/editor/projects/eRDWkGGcC/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5  | Cross pattern maker 0.zip"
-curl https://editor.p5js.org/editor/projects/yZOEGYzzn/zip -o "../p5mirror-jht1493/downloads/zips/w4 hw copy.zip"
-curl https://editor.p5js.org/editor/projects/wQ3qQ5wOw/zip -o "../p5mirror-jht1493/downloads/zips/snake 0.zip"
-curl https://editor.p5js.org/editor/projects/QOqalaRCS/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions 0.zip"
-curl https://editor.p5js.org/editor/projects/oZDS4nH9_/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis 2.zip"
-curl https://editor.p5js.org/editor/projects/VtjqKtqcva/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis copy copy.zip"
-curl https://editor.p5js.org/editor/projects/nY3nI0Lm7/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 2.zip"
-curl https://editor.p5js.org/editor/projects/iwOyTQiya/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1.zip"
-curl https://editor.p5js.org/editor/projects/4Ne9jbVPW/zip -o "../p5mirror-jht1493/downloads/zips/vote blue 2020.zip"
-curl https://editor.p5js.org/editor/projects/AV1E_641U/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 5.zip"
-curl https://editor.p5js.org/editor/projects/6sZcRuRm0/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 4.zip"
-curl https://editor.p5js.org/editor/projects/wDpL5DxX9/zip -o "../p5mirror-jht1493/downloads/zips/grid loop starter color.zip"
-curl https://editor.p5js.org/editor/projects/vWOGDaD2L/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 3.zip"
-curl https://editor.p5js.org/editor/projects/EQ358regq/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 2.zip"
-curl https://editor.p5js.org/editor/projects/YASpcwoU6/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 1.zip"
-curl https://editor.p5js.org/editor/projects/3hFPYL_iN/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle.zip"
-curl https://editor.p5js.org/editor/projects/fKjZzKKa_/zip -o "../p5mirror-jht1493/downloads/zips/equi tri outer.zip"
-curl https://editor.p5js.org/editor/projects/6GCfKvsa0/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette.zip"
-curl https://editor.p5js.org/editor/projects/Mu9x_dx8b/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions still.zip"
-curl https://editor.p5js.org/editor/projects/UCozu5MhT/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim 1.zip"
-curl https://editor.p5js.org/editor/projects/m6vN5OUmW/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim ref.zip"
-curl https://editor.p5js.org/editor/projects/NNrUYNq6T/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim 0.zip"
-curl https://editor.p5js.org/editor/projects/GSbIh5e1O/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions  0.zip"
-curl https://editor.p5js.org/editor/projects/hOLGdXwh0/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions.zip"
-curl https://editor.p5js.org/editor/projects/g5i95Hu9X/zip -o "../p5mirror-jht1493/downloads/zips/equi tri outer up.zip"
-curl https://editor.p5js.org/editor/projects/NAR9EQClS/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette cycle.zip"
-curl https://editor.p5js.org/editor/projects/HTdz1JPYt/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette random.zip"
-curl https://editor.p5js.org/editor/projects/aIkprDmvE/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette b&w.zip"
-curl https://editor.p5js.org/editor/projects/c9xZjuOHy/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate tri equ.zip"
-curl https://editor.p5js.org/editor/projects/ti2GL9ATx/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate tri.zip"
-curl https://editor.p5js.org/editor/projects/OjFp7LJal/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic params tri.zip"
-curl https://editor.p5js.org/editor/projects/zQ-xxTzzC/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate 2.zip"
-curl https://editor.p5js.org/editor/projects/bEkXnq1mA/zip -o "../p5mirror-jht1493/downloads/zips/Jolly degree 2.zip"
-curl https://editor.p5js.org/editor/projects/Ebcdo343S/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic atan2 copy.zip"
-curl https://editor.p5js.org/editor/projects/tYPCyiFZj/zip -o "../p5mirror-jht1493/downloads/zips/Iris suggestion.zip"
-curl https://editor.p5js.org/editor/projects/o9KEFZUn5/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic atan2.zip"
-curl https://editor.p5js.org/editor/projects/6SClEmfGf/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate 2 copy.zip"
-curl https://editor.p5js.org/editor/projects/30dweO9wH/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic copy.zip"
-curl https://editor.p5js.org/editor/projects/snwcCeg7Z/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil offset.zip"
-curl https://editor.p5js.org/editor/projects/qF7z4cuAo/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil center.zip"
-curl https://editor.p5js.org/editor/projects/2IDU14m7l/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 1+2.zip"
-curl https://editor.p5js.org/editor/projects/r_zIK6Lzq/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil.zip"
-curl https://editor.p5js.org/editor/projects/ktxWHwZjH/zip -o "../p5mirror-jht1493/downloads/zips/Slider Fun copy.zip"
-curl https://editor.p5js.org/editor/projects/KqWzw9oao/zip -o "../p5mirror-jht1493/downloads/zips/project3 copy.zip"
-curl https://editor.p5js.org/editor/projects/v0L1ljdGg/zip -o "../p5mirror-jht1493/downloads/zips/aBouncingBallInterface copy.zip"
-curl https://editor.p5js.org/editor/projects/aSxjTqxyy/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover.zip"
-curl https://editor.p5js.org/editor/projects/FQuUs0kYM/zip -o "../p5mirror-jht1493/downloads/zips/parts 3 hover.zip"
-curl https://editor.p5js.org/editor/projects/SKeY2q3MI/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid.zip"
-curl https://editor.p5js.org/editor/projects/Un9KFJDLT/zip -o "../p5mirror-jht1493/downloads/zips/part_hit color.zip"
-curl https://editor.p5js.org/editor/projects/5sXqtvIQ7/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 4.zip"
-curl https://editor.p5js.org/editor/projects/kBjlbdi5T/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 3.zip"
-curl https://editor.p5js.org/editor/projects/ptUxfyR2n/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 2.zip"
-curl https://editor.p5js.org/editor/projects/DXMYbo6TZ/zip -o "../p5mirror-jht1493/downloads/zips/grid while.zip"
-curl https://editor.p5js.org/editor/projects/Bldmuocou/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover for.zip"
-curl https://editor.p5js.org/editor/projects/CNEfRXFTU/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover while.zip"
-curl https://editor.p5js.org/editor/projects/E5RyS0dVw/zip -o "../p5mirror-jht1493/downloads/zips/grid while x.zip"
-curl https://editor.p5js.org/editor/projects/XfJlda19s/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid copy.zip"
-curl https://editor.p5js.org/editor/projects/t4r8ygQ1n/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid.zip"
-curl https://editor.p5js.org/editor/projects/WjbGyxFp5/zip -o "../p5mirror-jht1493/downloads/zips/part_hit red white.zip"
-curl https://editor.p5js.org/editor/projects/K9r3xCWq3/zip -o "../p5mirror-jht1493/downloads/zips/part_hit toggle.zip"
-curl https://editor.p5js.org/editor/projects/oiOOGZt3u/zip -o "../p5mirror-jht1493/downloads/zips/part_hit stick.zip"
-curl https://editor.p5js.org/editor/projects/ub9YdibCn/zip -o "../p5mirror-jht1493/downloads/zips/parts 3 hover vert.zip"
-curl https://editor.p5js.org/editor/projects/Y5hKqpbmH/zip -o "../p5mirror-jht1493/downloads/zips/parts 4 hover.zip"
-curl https://editor.p5js.org/editor/projects/tZpRbsqHg/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT copy.zip"
-curl https://editor.p5js.org/editor/projects/rbtkrn0uQ/zip -o "../p5mirror-jht1493/downloads/zips/Roomy puppy.zip"
-curl https://editor.p5js.org/editor/projects/FkmJWnKqi/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj.zip"
-curl https://editor.p5js.org/editor/projects/UafsQRheL/zip -o "../p5mirror-jht1493/downloads/zips/bouncing show_.zip"
-curl https://editor.p5js.org/editor/projects/QIkgxVX2J/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball.zip"
-curl https://editor.p5js.org/editor/projects/2Kx8pJ13B/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj func.zip"
-curl https://editor.p5js.org/editor/projects/VLu-QryO7/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT while.zip"
-curl https://editor.p5js.org/editor/projects/f34Dds5jA/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT sliders.zip"
-curl https://editor.p5js.org/editor/projects/B2iVLHho_/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT _pos.zip"
-curl https://editor.p5js.org/editor/projects/IA1N74aKn/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT theme.zip"
-curl https://editor.p5js.org/editor/projects/wwke5rmjl/zip -o "../p5mirror-jht1493/downloads/zips/BLM-full-window.zip"
-curl https://editor.p5js.org/editor/projects/mqI-yl3wL/zip -o "../p5mirror-jht1493/downloads/zips/Glistening marsupial.zip"
-curl https://editor.p5js.org/editor/projects/L9A3pC14KD/zip -o "../p5mirror-jht1493/downloads/zips/circle rollover.zip"
-curl https://editor.p5js.org/editor/projects/YuGfZGvKr/zip -o "../p5mirror-jht1493/downloads/zips/quadrant rollover.zip"
-curl https://editor.p5js.org/editor/projects/V0m45p1QJ/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
-curl https://editor.p5js.org/editor/projects/VZd9PSeU8/zip -o "../p5mirror-jht1493/downloads/zips/create_button.zip"
-curl https://editor.p5js.org/editor/projects/uVs5gdY_3/zip -o "../p5mirror-jht1493/downloads/zips/create_slider.zip"
-curl https://editor.p5js.org/editor/projects/AAm-Tm0Ka/zip -o "../p5mirror-jht1493/downloads/zips/button switch.zip"
-curl https://editor.p5js.org/editor/projects/fHPelvesv/zip -o "../p5mirror-jht1493/downloads/zips/square rollover.zip"
-curl https://editor.p5js.org/editor/projects/yGazF-FCy/zip -o "../p5mirror-jht1493/downloads/zips/button switch mousePressed.zip"
-curl https://editor.p5js.org/editor/projects/hdhJJD1Dl/zip -o "../p5mirror-jht1493/downloads/zips/button switch.zip"
-curl https://editor.p5js.org/editor/projects/nN7VJCdLZ/zip -o "../p5mirror-jht1493/downloads/zips/knob copy.zip"
-curl https://editor.p5js.org/editor/projects/TbplyHzYm/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox.zip"
-curl https://editor.p5js.org/editor/projects/KgZ9y3dFX/zip -o "../p5mirror-jht1493/downloads/zips/Admitted plot --cloveria2.zip"
-curl https://editor.p5js.org/editor/projects/qXn6zhdVr/zip -o "../p5mirror-jht1493/downloads/zips/show_span.zip"
-curl https://editor.p5js.org/editor/projects/cAxy7lScp/zip -o "../p5mirror-jht1493/downloads/zips/show_span br.zip"
-curl https://editor.p5js.org/editor/projects/KMv3WaVCz/zip -o "../p5mirror-jht1493/downloads/zips/report_msg line_num.zip"
-curl https://editor.p5js.org/editor/projects/TYxVgIZvj/zip -o "../p5mirror-jht1493/downloads/zips/Self-Portrait - Abby.zip"
-curl https://editor.p5js.org/editor/projects/_QZjP21LD6/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount.zip"
-curl https://editor.p5js.org/editor/projects/0bbB7pf8R/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw mouseY.zip"
-curl https://editor.p5js.org/editor/projects/0eRP4Lg2I/zip -o "../p5mirror-jht1493/downloads/zips/hand drawn plan.zip"
-curl https://editor.p5js.org/editor/projects/OhV7PdXNk/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount round.zip"
-curl https://editor.p5js.org/editor/projects/OMXzbr-LY/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix mousePressed.zip"
-curl https://editor.p5js.org/editor/projects/FC7819xZR/zip -o "../p5mirror-jht1493/downloads/zips/console.log xy.zip"
-curl https://editor.p5js.org/editor/projects/LMvRZ3g3M/zip -o "../p5mirror-jht1493/downloads/zips/report_mousexy.zip"
-curl https://editor.p5js.org/editor/projects/1RE_HSLZ9/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount round.zip"
-curl https://editor.p5js.org/editor/projects/PllMTbvmR/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix switch.zip"
-curl https://editor.p5js.org/editor/projects/3Floz4vjU/zip -o "../p5mirror-jht1493/downloads/zips/Zoog mimiyin.zip"
-curl https://editor.p5js.org/editor/projects/HQJI8pfOD/zip -o "../p5mirror-jht1493/downloads/zips/zoog func.zip"
-curl https://editor.p5js.org/editor/projects/OIej0SLSh/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix.zip"
-curl https://editor.p5js.org/editor/projects/smc9kl-52/zip -o "../p5mirror-jht1493/downloads/zips/face re-mix.zip"
-curl https://editor.p5js.org/editor/projects/uVizUWDYu/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw mouseY mouseX.zip"
-curl https://editor.p5js.org/editor/projects/jAIFJomBw/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw.zip"
-curl https://editor.p5js.org/editor/projects/xDoheDFb-/zip -o "../p5mirror-jht1493/downloads/zips/Tangy time copy.zip"
-curl https://editor.p5js.org/editor/projects/Ll_ZgtY_0/zip -o "../p5mirror-jht1493/downloads/zips/text frameCount.zip"
-curl https://editor.p5js.org/editor/projects/yH2BFoqbf/zip -o "../p5mirror-jht1493/downloads/zips/Pitch front copy.zip"
-curl https://editor.p5js.org/editor/projects/hP1FXtmPj/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Phil.zip"
-curl https://editor.p5js.org/editor/projects/_Q8wZH4Z0/zip -o "../p5mirror-jht1493/downloads/zips/face re-mix files.zip"
-curl https://editor.p5js.org/editor/projects/Jnjq1Mx5M/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Wushuang.zip"
-curl https://editor.p5js.org/editor/projects/u9F7jMa2e/zip -o "../p5mirror-jht1493/downloads/zips/async draw.zip"
-curl https://editor.p5js.org/editor/projects/wcCyAOSzK/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Bowei.zip"
-curl https://editor.p5js.org/editor/projects/Fi_pw8dAT/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Justin.zip"
-curl https://editor.p5js.org/editor/projects/Ql437jruk/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 full screen BLM.zip"
-curl https://editor.p5js.org/editor/projects/W6N0IG-1a/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 full screen.zip"
-curl https://editor.p5js.org/editor/projects/qU2swGCR2/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 2.zip"
-curl https://editor.p5js.org/editor/projects/hbbzG_aQ-/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 cursor.zip"
-curl https://editor.p5js.org/editor/projects/DARlaRltS/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 5.zip"
-curl https://editor.p5js.org/editor/projects/a3GBfDCaM/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 4.zip"
-curl https://editor.p5js.org/editor/projects/aIqNbG0Bn/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 3.zip"
-curl https://editor.p5js.org/editor/projects/ncqT-XLys/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str.zip"
-curl https://editor.p5js.org/editor/projects/jzGqLKBRf/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 6.zip"
-curl https://editor.p5js.org/editor/projects/OrHCEkPpl/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 5.zip"
-curl https://editor.p5js.org/editor/projects/qy3suxseL/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 4.zip"
-curl https://editor.p5js.org/editor/projects/oqk9M2AN0/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 3.zip"
-curl https://editor.p5js.org/editor/projects/vXtIwi7z4/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 2.zip"
-curl https://editor.p5js.org/editor/projects/0QU-qOan9/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney.zip"
-curl https://editor.p5js.org/editor/projects/l8huTfqq7/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameRate.zip"
-curl https://editor.p5js.org/editor/projects/tMpLyeubq/zip -o "../p5mirror-jht1493/downloads/zips/report createP.zip"
-curl https://editor.p5js.org/editor/projects/cCtTz_RBY/zip -o "../p5mirror-jht1493/downloads/zips/report print.zip"
-curl https://editor.p5js.org/editor/projects/iT7CFCFf_/zip -o "../p5mirror-jht1493/downloads/zips/report_xy.zip"
-curl https://editor.p5js.org/editor/projects/4i19q9liB/zip -o "../p5mirror-jht1493/downloads/zips/grid random.zip"
-curl https://editor.p5js.org/editor/projects/GXPNx46nA/zip -o "../p5mirror-jht1493/downloads/zips/frameCount random.zip"
-curl https://editor.p5js.org/editor/projects/gojKwkXFG/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha copy copy.zip"
-curl https://editor.p5js.org/editor/projects/Ob9CzLOtN/zip -o "../p5mirror-jht1493/downloads/zips/Reinvented rosehip frameCount.zip"
-curl https://editor.p5js.org/editor/projects/qyBPeI5eq/zip -o "../p5mirror-jht1493/downloads/zips/Reinvented rosehip.zip"
-curl https://editor.p5js.org/editor/projects/qffkxKG5_/zip -o "../p5mirror-jht1493/downloads/zips/painting alpha copy.zip"
-curl https://editor.p5js.org/editor/projects/tW6WUgAlB/zip -o "../p5mirror-jht1493/downloads/zips/painting alpha.zip"
-curl https://editor.p5js.org/editor/projects/a-odvLq_m/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha copy.zip"
-curl https://editor.p5js.org/editor/projects/l6crLRoFY/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha.zip"
-curl https://editor.p5js.org/editor/projects/9HLmpFFGB/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting.zip"
-curl https://editor.p5js.org/editor/projects/Q6A9_c_hD/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js.zip"
-curl https://editor.p5js.org/editor/projects/pQ248FEUA/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js basics trans.zip"
-curl https://editor.p5js.org/editor/projects/ZqCArD77g/zip -o "../p5mirror-jht1493/downloads/zips/2.1_p5.js mouseX_mouseY.zip"
-curl https://editor.p5js.org/editor/projects/vVgMOvvGBX/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js []o[]o.zip"
-curl https://editor.p5js.org/editor/projects/1oVnS4R-k/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js stroke fill.zip"
-curl https://editor.p5js.org/editor/projects/o15frkWaK/zip -o "../p5mirror-jht1493/downloads/zips/console draw.zip"
-curl https://editor.p5js.org/editor/projects/l63ieOmpK/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family step.zip"
-curl https://editor.p5js.org/editor/projects/vGPw7SEGq/zip -o "../p5mirror-jht1493/downloads/zips/x-y feedback loadImage.zip"
-curl https://editor.p5js.org/editor/projects/rlhXAvJWB/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family alpha.zip"
-curl https://editor.p5js.org/editor/projects/9QwsY-aFg/zip -o "../p5mirror-jht1493/downloads/zips/Lu Lyu.zip"
-curl https://editor.p5js.org/editor/projects/35xU7zmFI/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family.zip"
-curl https://editor.p5js.org/editor/projects/tgZpbhMxB/zip -o "../p5mirror-jht1493/downloads/zips/Zoog fun.zip"
-curl https://editor.p5js.org/editor/projects/xSdz6zTYf/zip -o "../p5mirror-jht1493/downloads/zips/Tianjun Wang.zip"
-curl https://editor.p5js.org/editor/projects/gH1IL7CIL/zip -o "../p5mirror-jht1493/downloads/zips/Dairo copy.zip"
-curl https://editor.p5js.org/editor/projects/Me1xZ9lB2/zip -o "../p5mirror-jht1493/downloads/zips/Drawing - Franka copy.zip"
-curl https://editor.p5js.org/editor/projects/Cw3zmIgLj/zip -o "../p5mirror-jht1493/downloads/zips/W1 pixel portrait.zip"
-curl https://editor.p5js.org/editor/projects/q7s6kv32f/zip -o "../p5mirror-jht1493/downloads/zips/W1 pixel portrait copy.zip"
-curl https://editor.p5js.org/editor/projects/iYZ8gULFZ/zip -o "../p5mirror-jht1493/downloads/zips/Zoog copy.zip"
-curl https://editor.p5js.org/editor/projects/Hdeyj4tTu/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color fill.zip"
-curl https://editor.p5js.org/editor/projects/Mgz-8JgW1/zip -o "../p5mirror-jht1493/downloads/zips/MOOO! by Filmon Abraham.zip"
-curl https://editor.p5js.org/editor/projects/KCLZ_Jtc7/zip -o "../p5mirror-jht1493/downloads/zips/homework2 copy.zip"
-curl https://editor.p5js.org/editor/projects/-KnBVBNm8/zip -o "../p5mirror-jht1493/downloads/zips/Example_03_20.zip"
-curl https://editor.p5js.org/editor/projects/95PNeBEQq/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color setAlpha.zip"
-curl https://editor.p5js.org/editor/projects/caNWprD8y/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes css color.zip"
-curl https://editor.p5js.org/editor/projects/eqb-ChsZ-/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color array.zip"
-curl https://editor.p5js.org/editor/projects/uKz00u1sE/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes translate.zip"
-curl https://editor.p5js.org/editor/projects/8P4daikNK/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes scale.zip"
-curl https://editor.p5js.org/editor/projects/UPWKqptFX/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color rgb shift.zip"
-curl https://editor.p5js.org/editor/projects/rP0w0LOCY/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color rgb.zip"
-curl https://editor.p5js.org/editor/projects/NFdYgqpnb/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color.zip"
-curl https://editor.p5js.org/editor/projects/N8Of2Y_vJ/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const.zip"
-curl https://editor.p5js.org/editor/projects/8hElajGl_/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const copy.zip"
-curl https://editor.p5js.org/editor/projects/pvDuA6pji/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func doc.zip"
-curl https://editor.p5js.org/editor/projects/-svyQySdn/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func narrow.zip"
-curl https://editor.p5js.org/editor/projects/0OFIOza1o/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func.zip"
-curl https://editor.p5js.org/editor/projects/psybeGMhD/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const copy.zip"
-curl https://editor.p5js.org/editor/projects/Z_BBqwy-Z/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const.zip"
-curl https://editor.p5js.org/editor/projects/-Cx-jDRbT/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const obj.zip"
-curl https://editor.p5js.org/editor/projects/je1X0URsB/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let color arg.zip"
-curl https://editor.p5js.org/editor/projects/V_jfRF6KX/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let color.zip"
-curl https://editor.p5js.org/editor/projects/7QFGcIZhW/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let xstart.zip"
-curl https://editor.p5js.org/editor/projects/Zdpc0mTBD/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let scale.zip"
-curl https://editor.p5js.org/editor/projects/sC5o42pdk/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func.zip"
-curl https://editor.p5js.org/editor/projects/xJ-9821NA/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let.zip"
-curl https://editor.p5js.org/editor/projects/9fyznUdbz/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes.zip"
-curl https://editor.p5js.org/editor/projects/Byj9bTU-K/zip -o "../p5mirror-jht1493/downloads/zips/tint-limit-byr.zip"
+echo [P.COMP] Positional LED Sampler Manual Change copy
+curl -s https://editor.p5js.org/editor/projects/OOqwT3Smj/zip -o "../p5mirror-jht1493/downloads/zips/[P.COMP] Positional LED Sampler Manual Change copy.zip"
+echo 1.1 draw_rect
+curl -s https://editor.p5js.org/editor/projects/WJFtFBmnK/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect.zip"
+echo 1.1 draw_rect_alpha
+curl -s https://editor.p5js.org/editor/projects/6mrwOv4RD/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_alpha.zip"
+echo 1.1 draw_rect_createSpan
+curl -s https://editor.p5js.org/editor/projects/C83N_DY9w/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_createSpan.zip"
+echo 1.1 draw_rect_log
+curl -s https://editor.p5js.org/editor/projects/NlCr2UD2P/zip -o "../p5mirror-jht1493/downloads/zips/1.1 draw_rect_log.zip"
+echo 1.1_p5.js
+curl -s https://editor.p5js.org/editor/projects/Q6A9_c_hD/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js.zip"
+echo 1.1_p5.js []o[]o
+curl -s https://editor.p5js.org/editor/projects/vVgMOvvGBX/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js []o[]o.zip"
+echo 1.1_p5.js basics trans
+curl -s https://editor.p5js.org/editor/projects/pQ248FEUA/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js basics trans.zip"
+echo 1.1_p5.js basics_of_drawing
+curl -s https://editor.p5js.org/editor/projects/p4WOzDrgQ/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js basics_of_drawing.zip"
+echo 1.1_p5.js stroke fill
+curl -s https://editor.p5js.org/editor/projects/1oVnS4R-k/zip -o "../p5mirror-jht1493/downloads/zips/1.1_p5.js stroke fill.zip"
+echo 1.2 draw_shapes_body
+curl -s https://editor.p5js.org/editor/projects/X5iRxm8HK/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_body.zip"
+echo 1.2 draw_shapes_func
+curl -s https://editor.p5js.org/editor/projects/qEgdTdx0K/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_func.zip"
+echo 1.2 draw_shapes_ui
+curl -s https://editor.p5js.org/editor/projects/DGQoBYV9x/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui.zip"
+echo 1.2 draw_shapes_ui copy
+curl -s https://editor.p5js.org/editor/projects/5TIb80DMw/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui copy.zip"
+echo 1.2 draw_shapes_ui copy
+curl -s https://editor.p5js.org/editor/projects/Psn4Oy2Rp/zip -o "../p5mirror-jht1493/downloads/zips/1.2 draw_shapes_ui copy.zip"
+echo 1.2 p5.js_Color
+curl -s https://editor.p5js.org/editor/projects/K_1xNuX78/zip -o "../p5mirror-jht1493/downloads/zips/1.2 p5.js_Color.zip"
+echo 10PRINT _pos
+curl -s https://editor.p5js.org/editor/projects/B2iVLHho_/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT _pos.zip"
+echo 10PRINT _step
+curl -s https://editor.p5js.org/editor/projects/wLXADLtvI/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT _step.zip"
+echo 10PRINT copy
+curl -s https://editor.p5js.org/editor/projects/tZpRbsqHg/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT copy.zip"
+echo 10PRINT sliders
+curl -s https://editor.p5js.org/editor/projects/f34Dds5jA/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT sliders.zip"
+echo 10PRINT stokeWeight
+curl -s https://editor.p5js.org/editor/projects/BPatGL4Pw/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight.zip"
+echo 10PRINT stokeWeight random
+curl -s https://editor.p5js.org/editor/projects/2yNuL_kIb/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight random.zip"
+echo 10PRINT stokeWeight step
+curl -s https://editor.p5js.org/editor/projects/TX_Xf_1KV/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT stokeWeight step.zip"
+echo 10PRINT theme
+curl -s https://editor.p5js.org/editor/projects/IA1N74aKn/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT theme.zip"
+echo 10PRINT while
+curl -s https://editor.p5js.org/editor/projects/VLu-QryO7/zip -o "../p5mirror-jht1493/downloads/zips/10PRINT while.zip"
+echo 11.1_p5.js_createCapture
+curl -s https://editor.p5js.org/editor/projects/WPiOXstPO/zip -o "../p5mirror-jht1493/downloads/zips/11.1_p5.js_createCapture.zip"
+echo 11.1: Live Video 2x2 tint
+curl -s https://editor.p5js.org/editor/projects/8NMtstCRQ/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video 2x2 tint.zip"
+echo 11.1: Live Video 2x2 tint copy
+curl -s https://editor.p5js.org/editor/projects/9Y3VflxSD/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video 2x2 tint copy.zip"
+echo 11.1: Live Video and createCapture
+curl -s https://editor.p5js.org/editor/projects/MtdR3vBcj/zip -o "../p5mirror-jht1493/downloads/zips/11.1: Live Video and createCapture.zip"
+echo 11.2_p5.js_photoBooth
+curl -s https://editor.p5js.org/editor/projects/gHTpdUy3q/zip -o "../p5mirror-jht1493/downloads/zips/11.2_p5.js_photoBooth.zip"
+echo 11.2: Video Photobooth
+curl -s https://editor.p5js.org/editor/projects/pTG_ysiGf/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth.zip"
+echo 11.2: Video Photobooth 4x3
+curl -s https://editor.p5js.org/editor/projects/7aMDBPyKu/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth 4x3.zip"
+echo 11.2: Video Photobooth 5x3
+curl -s https://editor.p5js.org/editor/projects/7w1c8NGo9/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth 5x3.zip"
+echo 11.2: Video Photobooth copy
+curl -s https://editor.p5js.org/editor/projects/IL8Id9v_-/zip -o "../p5mirror-jht1493/downloads/zips/11.2: Video Photobooth copy.zip"
+echo 11.3: The Pixel Array
+curl -s https://editor.p5js.org/editor/projects/KXR-4ISdB/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
+echo 11.3: The Pixel Array
+curl -s https://editor.p5js.org/editor/projects/RSmDa7VfK/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
+echo 11.3: The Pixel Array
+curl -s https://editor.p5js.org/editor/projects/1sDFqZNZR2/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
+echo 11.3: The Pixel Array
+curl -s https://editor.p5js.org/editor/projects/GiSAQWxq4/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array.zip"
+echo 11.3: The Pixel Array - p5.js Tutorial
+curl -s https://editor.p5js.org/editor/projects/Ynfs4BKKW/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array - p5.js Tutorial.zip"
+echo 11.3: The Pixel Array copy
+curl -s https://editor.p5js.org/editor/projects/r_IsZEvfO/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array copy.zip"
+echo 11.3: The Pixel Array rect
+curl -s https://editor.p5js.org/editor/projects/crkDnBUIE/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array rect.zip"
+echo 11.3: The Pixel Array set
+curl -s https://editor.p5js.org/editor/projects/B10k1ZTVC/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array set.zip"
+echo 11.3: The Pixel Array Slider
+curl -s https://editor.p5js.org/editor/projects/UQSjHZYJL/zip -o "../p5mirror-jht1493/downloads/zips/11.3: The Pixel Array Slider.zip"
+echo 11.4_p5.js_brightness_mirror
+curl -s https://editor.p5js.org/editor/projects/hrpVXSthK/zip -o "../p5mirror-jht1493/downloads/zips/11.4_p5.js_brightness_mirror.zip"
+echo 11.4-Brightness inverse center
+curl -s https://editor.p5js.org/editor/projects/nhzF9YrQ_/zip -o "../p5mirror-jht1493/downloads/zips/11.4-Brightness inverse center.zip"
+echo 11.4-Brightness vScale 4
+curl -s https://editor.p5js.org/editor/projects/xSG4oMvEJ/zip -o "../p5mirror-jht1493/downloads/zips/11.4-Brightness vScale 4.zip"
+echo 11.4: Brightness color
+curl -s https://editor.p5js.org/editor/projects/8uEKBChH_/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness color.zip"
+echo 11.4: Brightness getpixel
+curl -s https://editor.p5js.org/editor/projects/CW-0ISdPh/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness getpixel.zip"
+echo 11.4: Brightness getpixel copy
+curl -s https://editor.p5js.org/editor/projects/XFKWbV01m/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness getpixel copy.zip"
+echo 11.4: Brightness invert
+curl -s https://editor.p5js.org/editor/projects/uxonb9J3M/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness invert.zip"
+echo 11.4: Brightness Mirror
+curl -s https://editor.p5js.org/editor/projects/z7tzc3Ks9/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness Mirror.zip"
+echo 11.4: Brightness Mirror copy
+curl -s https://editor.p5js.org/editor/projects/o-fulefGW/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness Mirror copy.zip"
+echo 11.4: Brightness no mirror
+curl -s https://editor.p5js.org/editor/projects/UxmXmYJXG/zip -o "../p5mirror-jht1493/downloads/zips/11.4: Brightness no mirror.zip"
+echo 11.5_checkbox_mirror
+curl -s https://editor.p5js.org/editor/projects/pi7Xef_NQ/zip -o "../p5mirror-jht1493/downloads/zips/11.5_checkbox_mirror.zip"
+echo 11.5: Checkbox Mirror 1
+curl -s https://editor.p5js.org/editor/projects/oPBFsro4z/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 1.zip"
+echo 11.5: Checkbox Mirror 2
+curl -s https://editor.p5js.org/editor/projects/I9jLQbbLC/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 2.zip"
+echo 11.5: Checkbox Mirror 3
+curl -s https://editor.p5js.org/editor/projects/VJbMsNJi3/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 3.zip"
+echo 11.5: Checkbox Mirror 4
+curl -s https://editor.p5js.org/editor/projects/Z7Jz-FB9h/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 4.zip"
+echo 11.5: Checkbox Mirror 6
+curl -s https://editor.p5js.org/editor/projects/3mPwtv6w4/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 6.zip"
+echo 11.5: Checkbox Mirror 7
+curl -s https://editor.p5js.org/editor/projects/QqfK8d6k3/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 7.zip"
+echo 11.5: Checkbox Mirror 7 width
+curl -s https://editor.p5js.org/editor/projects/UTXPsV-sO/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 7 width.zip"
+echo 11.5: Checkbox Mirror 8 20x15
+curl -s https://editor.p5js.org/editor/projects/jtLf7ySJI/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 8 20x15.zip"
+echo 11.5: Checkbox Mirror 9 800px
+curl -s https://editor.p5js.org/editor/projects/Xd70w_ACg/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror 9 800px.zip"
+echo 11.5: Checkbox Mirror cb
+curl -s https://editor.p5js.org/editor/projects/Zu09siynw/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror cb.zip"
+echo 11.5: Checkbox Mirror error
+curl -s https://editor.p5js.org/editor/projects/csEtgTYBU/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror error.zip"
+echo 11.5: Checkbox Mirror ok
+curl -s https://editor.p5js.org/editor/projects/uYk7qAQM2/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror ok.zip"
+echo 11.5: Checkbox Mirror ok 2
+curl -s https://editor.p5js.org/editor/projects/1pdVW21gO/zip -o "../p5mirror-jht1493/downloads/zips/11.5: Checkbox Mirror ok 2.zip"
+echo 11.6_p5.js_painting
+curl -s https://editor.p5js.org/editor/projects/xtFJbWbCR/zip -o "../p5mirror-jht1493/downloads/zips/11.6_p5.js_painting.zip"
+echo 11.6: Painting with Pixels
+curl -s https://editor.p5js.org/editor/projects/M5z0cUqPl/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels.zip"
+echo 11.6: Painting with Pixels - faster
+curl -s https://editor.p5js.org/editor/projects/pJUsVrl08/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels - faster.zip"
+echo 11.6: Painting with Pixels - faster copy
+curl -s https://editor.p5js.org/editor/projects/T09pRUbaQ/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels - faster copy.zip"
+echo 11.6: Painting with Pixels 1
+curl -s https://editor.p5js.org/editor/projects/jNZu4uKNN/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels 1.zip"
+echo 11.6: Painting with Pixels copy
+curl -s https://editor.p5js.org/editor/projects/Of9qAUcAM/zip -o "../p5mirror-jht1493/downloads/zips/11.6: Painting with Pixels copy.zip"
+echo 11.7_p5.js_slitscan
+curl -s https://editor.p5js.org/editor/projects/X-s9xTI9b/zip -o "../p5mirror-jht1493/downloads/zips/11.7_p5.js_slitscan.zip"
+echo 11.7: Slit-Scan
+curl -s https://editor.p5js.org/editor/projects/zBH7ThRpP/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan.zip"
+echo 11.7: Slit-Scan copy-image
+curl -s https://editor.p5js.org/editor/projects/yDHzF0TDZ/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan copy-image.zip"
+echo 11.7: Slit-Scan copy-image copy
+curl -s https://editor.p5js.org/editor/projects/B7qv-A4fm/zip -o "../p5mirror-jht1493/downloads/zips/11.7: Slit-Scan copy-image copy.zip"
+echo 11.8: Video Effects with Seriously.js - blur
+curl -s https://editor.p5js.org/editor/projects/khSNfD2jM/zip -o "../p5mirror-jht1493/downloads/zips/11.8: Video Effects with Seriously.js - blur.zip"
+echo 11.8: Video Effects with Seriously.js - chroma
+curl -s https://editor.p5js.org/editor/projects/lUoSWn7KC/zip -o "../p5mirror-jht1493/downloads/zips/11.8: Video Effects with Seriously.js - chroma.zip"
+echo 17.1_playMode ui
+curl -s https://editor.p5js.org/editor/projects/_LdMqTjgu/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui.zip"
+echo 17.1_playMode ui debug
+curl -s https://editor.p5js.org/editor/projects/iihgsmwRS/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug.zip"
+echo 17.1_playMode ui debug loop
+curl -s https://editor.p5js.org/editor/projects/7Y0_IaFhH/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug loop.zip"
+echo 17.1_playMode ui debug min
+curl -s https://editor.p5js.org/editor/projects/y4KbZRuQe/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui debug min.zip"
+echo 17.1_playMode ui edit
+curl -s https://editor.p5js.org/editor/projects/B3ZFF-M2q/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit.zip"
+echo 17.1_playMode ui edit visual
+curl -s https://editor.p5js.org/editor/projects/BnkIJwE5R/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual.zip"
+echo 17.1_playMode ui edit visual copy
+curl -s https://editor.p5js.org/editor/projects/by-F0y03c/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual copy.zip"
+echo 17.1_playMode ui edit visual copy
+curl -s https://editor.p5js.org/editor/projects/CSzRh8uNu/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playMode ui edit visual copy.zip"
+echo 17.1_playSong
+curl -s https://editor.p5js.org/editor/projects/JzUpCtscr/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong.zip"
+echo 17.1_playSong async
+curl -s https://editor.p5js.org/editor/projects/W-_IGbU35/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong async.zip"
+echo 17.1_playSong copy
+curl -s https://editor.p5js.org/editor/projects/0qI4p76tZ/zip -o "../p5mirror-jht1493/downloads/zips/17.1_playSong copy.zip"
+echo 17.1: playMode
+curl -s https://editor.p5js.org/editor/projects/gA4F96LOA/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode.zip"
+echo 17.1: playMode + this dot debug
+curl -s https://editor.p5js.org/editor/projects/A65em8fED/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode + this dot debug.zip"
+echo 17.1: playMode + this dot debug2
+curl -s https://editor.p5js.org/editor/projects/i0zHJF1nA/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode + this dot debug2.zip"
+echo 17.1: playMode copy
+curl -s https://editor.p5js.org/editor/projects/rCY2fUiZB/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
+echo 17.1: playMode copy
+curl -s https://editor.p5js.org/editor/projects/df4ot6-2T/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
+echo 17.1: playMode copy
+curl -s https://editor.p5js.org/editor/projects/2YjUP5cer/zip -o "../p5mirror-jht1493/downloads/zips/17.1: playMode copy.zip"
+echo 17.10_radialGraph
+curl -s https://editor.p5js.org/editor/projects/Q1gCKuVib/zip -o "../p5mirror-jht1493/downloads/zips/17.10_radialGraph.zip"
+echo 17.11 + 7.8: Mic Input FFT
+curl -s https://editor.p5js.org/editor/projects/6me13jnns/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT.zip"
+echo 17.11 + 7.8: Mic Input FFT big
+curl -s https://editor.p5js.org/editor/projects/0S9HLok88/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT big.zip"
+echo 17.11 + 7.8: Mic Input FFT copy
+curl -s https://editor.p5js.org/editor/projects/myCtvi2gc/zip -o "../p5mirror-jht1493/downloads/zips/17.11 + 7.8: Mic Input FFT copy.zip"
+echo 17.11_FFT
+curl -s https://editor.p5js.org/editor/projects/hbUBiLwwD/zip -o "../p5mirror-jht1493/downloads/zips/17.11_FFT.zip"
+echo 17.11_FFT ui
+curl -s https://editor.p5js.org/editor/projects/qc-h1wL27/zip -o "../p5mirror-jht1493/downloads/zips/17.11_FFT ui.zip"
+echo 17.11: Sound Visualization line
+curl -s https://editor.p5js.org/editor/projects/78NHl2QM0/zip -o "../p5mirror-jht1493/downloads/zips/17.11: Sound Visualization line.zip"
+echo 17.2_pauseSong
+curl -s https://editor.p5js.org/editor/projects/g0Y0DrH1a/zip -o "../p5mirror-jht1493/downloads/zips/17.2_pauseSong.zip"
+echo 17.3_cueSong
+curl -s https://editor.p5js.org/editor/projects/ImSljxbEn/zip -o "../p5mirror-jht1493/downloads/zips/17.3_cueSong.zip"
+echo 17.3_cueSong play pause
+curl -s https://editor.p5js.org/editor/projects/FHXX45k9z/zip -o "../p5mirror-jht1493/downloads/zips/17.3_cueSong play pause.zip"
+echo 17.4_amplitudeSong
+curl -s https://editor.p5js.org/editor/projects/gODjef3N4/zip -o "../p5mirror-jht1493/downloads/zips/17.4_amplitudeSong.zip"
+echo 17.4: Amplitude Analysis + mic
+curl -s https://editor.p5js.org/editor/projects/c-E6SRXxW/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + mic.zip"
+echo 17.4: Amplitude Analysis + this dot
+curl -s https://editor.p5js.org/editor/projects/7CR1KbTlV/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + this dot.zip"
+echo 17.4: Amplitude Analysis + this dot copy
+curl -s https://editor.p5js.org/editor/projects/ek2h1KnPF/zip -o "../p5mirror-jht1493/downloads/zips/17.4: Amplitude Analysis + this dot copy.zip"
+echo 17.5_snake_game_sound
+curl -s https://editor.p5js.org/editor/projects/XPFEvFaF8/zip -o "../p5mirror-jht1493/downloads/zips/17.5_snake_game_sound.zip"
+echo 17.6_soundSynthesis
+curl -s https://editor.p5js.org/editor/projects/PNuNz9dfX/zip -o "../p5mirror-jht1493/downloads/zips/17.6_soundSynthesis.zip"
+echo 17.7_soundEnvelope
+curl -s https://editor.p5js.org/editor/projects/1hNfw3M31/zip -o "../p5mirror-jht1493/downloads/zips/17.7_soundEnvelope.zip"
+echo 17.8: Microphone Input
+curl -s https://editor.p5js.org/editor/projects/AjlzQD2gj/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input.zip"
+echo 17.8: Microphone Input copy
+curl -s https://editor.p5js.org/editor/projects/l7RhDJrNx/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input copy.zip"
+echo 17.8: Microphone Input FFT
+curl -s https://editor.p5js.org/editor/projects/oPtA9wxPL/zip -o "../p5mirror-jht1493/downloads/zips/17.8: Microphone Input FFT.zip"
+echo 17.9_graphingAmplitude
+curl -s https://editor.p5js.org/editor/projects/0SuvHQbKk/zip -o "../p5mirror-jht1493/downloads/zips/17.9_graphingAmplitude.zip"
+echo 2 .5 setup pattern draw_shape1
+curl -s https://editor.p5js.org/editor/projects/OtE1lw_X2/zip -o "../p5mirror-jht1493/downloads/zips/2 .5 setup pattern draw_shape1.zip"
+echo 2:2  Linear v. Exp Brightness copy
+curl -s https://editor.p5js.org/editor/projects/oFIxEy3W8/zip -o "../p5mirror-jht1493/downloads/zips/2:2  Linear v. Exp Brightness copy.zip"
+echo 2:2 HSB swatches toolbox
+curl -s https://editor.p5js.org/editor/projects/bjqky4Tn4/zip -o "../p5mirror-jht1493/downloads/zips/2:2 HSB swatches toolbox.zip"
+echo 2:2 HSB swatches ui
+curl -s https://editor.p5js.org/editor/projects/nrrJkCazV/zip -o "../p5mirror-jht1493/downloads/zips/2:2 HSB swatches ui.zip"
+echo 2:2 Rothko's Cat copy
+curl -s https://editor.p5js.org/editor/projects/XdGRKT-Mf/zip -o "../p5mirror-jht1493/downloads/zips/2:2 Rothko's Cat copy.zip"
+echo 2:2 Tri-Color Background-Foreground ui
+curl -s https://editor.p5js.org/editor/projects/1cz7yYcFM/zip -o "../p5mirror-jht1493/downloads/zips/2:2 Tri-Color Background-Foreground ui.zip"
+echo 2:4 % Drum copy
+curl -s https://editor.p5js.org/editor/projects/HFtdh9exQ/zip -o "../p5mirror-jht1493/downloads/zips/2:4 % Drum copy.zip"
+echo 2:4 % Drum ui
+curl -s https://editor.p5js.org/editor/projects/ApfFrz3J8/zip -o "../p5mirror-jht1493/downloads/zips/2:4 % Drum ui.zip"
+echo 2:4 Chords copy
+curl -s https://editor.p5js.org/editor/projects/uqfu-VirY/zip -o "../p5mirror-jht1493/downloads/zips/2:4 Chords copy.zip"
+echo 2:4 milis Drum btn
+curl -s https://editor.p5js.org/editor/projects/VU2ptd42g/zip -o "../p5mirror-jht1493/downloads/zips/2:4 milis Drum btn.zip"
+echo 2:4 millis Drum chk
+curl -s https://editor.p5js.org/editor/projects/ehiLZ6Dx8/zip -o "../p5mirror-jht1493/downloads/zips/2:4 millis Drum chk.zip"
+echo 2:4 remainder Drum ui
+curl -s https://editor.p5js.org/editor/projects/BttlnIews/zip -o "../p5mirror-jht1493/downloads/zips/2:4 remainder Drum ui.zip"
+echo 2:4 remainder Drum ui copy
+curl -s https://editor.p5js.org/editor/projects/BcPohQw6S/zip -o "../p5mirror-jht1493/downloads/zips/2:4 remainder Drum ui copy.zip"
+echo 2:4 Sound sample and pitch copy
+curl -s https://editor.p5js.org/editor/projects/g9yuGTgrn/zip -o "../p5mirror-jht1493/downloads/zips/2:4 Sound sample and pitch copy.zip"
+echo 2:5 Basic String Manipulation break
+curl -s https://editor.p5js.org/editor/projects/hUS5v84A8/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation break.zip"
+echo 2:5 Basic String Manipulation copy
+curl -s https://editor.p5js.org/editor/projects/5m7vmQ19Y/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation copy.zip"
+echo 2:5 Basic String Manipulation diff
+curl -s https://editor.p5js.org/editor/projects/HSQjawjhI/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation diff.zip"
+echo 2:5 Basic String Manipulation hide
+curl -s https://editor.p5js.org/editor/projects/r5q2y8jz4/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation hide.zip"
+echo 2:5 Basic String Manipulation jamaica
+curl -s https://editor.p5js.org/editor/projects/S_TF0P8Lw/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation jamaica.zip"
+echo 2:5 Basic String Manipulation line br
+curl -s https://editor.p5js.org/editor/projects/_xpl8mIlt/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation line br.zip"
+echo 2:5 Basic String Manipulation serial
+curl -s https://editor.p5js.org/editor/projects/UN-Io8vFR/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Basic String Manipulation serial.zip"
+echo 2:5 Display string color
+curl -s https://editor.p5js.org/editor/projects/dQ0d0O67r/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string color.zip"
+echo 2:5 Display string color hsb
+curl -s https://editor.p5js.org/editor/projects/2Zs6SOBuU/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string color hsb.zip"
+echo 2:5 Display string hsb draw
+curl -s https://editor.p5js.org/editor/projects/x62-qWUE4/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string hsb draw.zip"
+echo 2:5 Display string hsb draw xoff
+curl -s https://editor.p5js.org/editor/projects/_2pI9C6Mx/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string hsb draw xoff.zip"
+echo 2:5 Display string random
+curl -s https://editor.p5js.org/editor/projects/vfez2DZlp/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string random.zip"
+echo 2:5 Display string random loc
+curl -s https://editor.p5js.org/editor/projects/m1N1SE7k5/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string random loc.zip"
+echo 2:5 Display string split
+curl -s https://editor.p5js.org/editor/projects/4pyNtljNx/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Display string split.zip"
+echo 2:5 Simple Markov
+curl -s https://editor.p5js.org/editor/projects/KKc0bBfr-/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Simple Markov.zip"
+echo 2:5 Simple Markov ui
+curl -s https://editor.p5js.org/editor/projects/vGB95cQEC/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Simple Markov ui.zip"
+echo 2:5 Word Counting copy
+curl -s https://editor.p5js.org/editor/projects/B6ls6ibda/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Word Counting copy.zip"
+echo 2:5 Word Counting ui
+curl -s https://editor.p5js.org/editor/projects/8H-GRPuKj/zip -o "../p5mirror-jht1493/downloads/zips/2:5 Word Counting ui.zip"
+echo 2. Random Painting noStroke
+curl -s https://editor.p5js.org/editor/projects/sUEajcpKC/zip -o "../p5mirror-jht1493/downloads/zips/2. Random Painting noStroke.zip"
+echo 2. Random Painting noStroke
+curl -s https://editor.p5js.org/editor/projects/I-ESQeB1F/zip -o "../p5mirror-jht1493/downloads/zips/2. Random Painting noStroke.zip"
+echo 2.1_p5.js mouseX_mouseY
+curl -s https://editor.p5js.org/editor/projects/ZqCArD77g/zip -o "../p5mirror-jht1493/downloads/zips/2.1_p5.js mouseX_mouseY.zip"
+echo 2.1.1 mouseX,mouseY
+curl -s https://editor.p5js.org/editor/projects/KaijsTyVc/zip -o "../p5mirror-jht1493/downloads/zips/2.1.1 mouseX,mouseY.zip"
+echo 2.1.2 mouseX mirror
+curl -s https://editor.p5js.org/editor/projects/C2bgbELqa/zip -o "../p5mirror-jht1493/downloads/zips/2.1.2 mouseX mirror.zip"
+echo 2.1.2 mouseX,mouseY arith
+curl -s https://editor.p5js.org/editor/projects/pmA0d9Uqt/zip -o "../p5mirror-jht1493/downloads/zips/2.1.2 mouseX,mouseY arith.zip"
+echo 2.1.3 mouseX,mouseY left
+curl -s https://editor.p5js.org/editor/projects/5Q_M3rwpt/zip -o "../p5mirror-jht1493/downloads/zips/2.1.3 mouseX,mouseY left.zip"
+echo 2.1.4 mouseX mirror ui
+curl -s https://editor.p5js.org/editor/projects/I8zejgYIX/zip -o "../p5mirror-jht1493/downloads/zips/2.1.4 mouseX mirror ui.zip"
+echo 2.1.9 mouseX,mouseY arith ui
+curl -s https://editor.p5js.org/editor/projects/YzRTsgrze/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY arith ui.zip"
+echo 2.1.9 mouseX,mouseY funcs
+curl -s https://editor.p5js.org/editor/projects/tNEJXRA1V/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY funcs.zip"
+echo 2.1.9 mouseX,mouseY mirror
+curl -s https://editor.p5js.org/editor/projects/v56Rd_pWx/zip -o "../p5mirror-jht1493/downloads/zips/2.1.9 mouseX,mouseY mirror.zip"
+echo 2.2 circleR growing
+curl -s https://editor.p5js.org/editor/projects/2ZGRl9x1p/zip -o "../p5mirror-jht1493/downloads/zips/2.2 circleR growing.zip"
+echo 2.2_p5.js user_defined
+curl -s https://editor.p5js.org/editor/projects/h-rLRPdqn/zip -o "../p5mirror-jht1493/downloads/zips/2.2_p5.js user_defined.zip"
+echo 2.2.1 shape1 shape2
+curl -s https://editor.p5js.org/editor/projects/cuaGTyRYU/zip -o "../p5mirror-jht1493/downloads/zips/2.2.1 shape1 shape2.zip"
+echo 2.2.1 variable circleX
+curl -s https://editor.p5js.org/editor/projects/v9zsQFPqN/zip -o "../p5mirror-jht1493/downloads/zips/2.2.1 variable circleX.zip"
+echo 2.2.2 variable circleX width
+curl -s https://editor.p5js.org/editor/projects/CwYDz_4N2/zip -o "../p5mirror-jht1493/downloads/zips/2.2.2 variable circleX width.zip"
+echo 2.2.3 circleX width ui
+curl -s https://editor.p5js.org/editor/projects/UhNMB6GQO/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 circleX width ui.zip"
+echo 2.2.3 circleX width ui copy
+curl -s https://editor.p5js.org/editor/projects/atxvTB184/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 circleX width ui copy.zip"
+echo 2.2.3 variable circleX random color
+curl -s https://editor.p5js.org/editor/projects/YzI6wqRGE/zip -o "../p5mirror-jht1493/downloads/zips/2.2.3 variable circleX random color.zip"
+echo 2.2.4 circleX rgb ui
+curl -s https://editor.p5js.org/editor/projects/mDleb9mKk/zip -o "../p5mirror-jht1493/downloads/zips/2.2.4 circleX rgb ui.zip"
+echo 2.2.8 variable circleX % width ui btns
+curl -s https://editor.p5js.org/editor/projects/Sp6LGqMlu/zip -o "../p5mirror-jht1493/downloads/zips/2.2.8 variable circleX % width ui btns.zip"
+echo 2.2.8 variable circleX % width ui copy
+curl -s https://editor.p5js.org/editor/projects/pMj2K_RnH/zip -o "../p5mirror-jht1493/downloads/zips/2.2.8 variable circleX % width ui copy.zip"
+echo 2.2.9  variable edge obj 2
+curl -s https://editor.p5js.org/editor/projects/y98Qq3YM9/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9  variable edge obj 2.zip"
+echo 2.2.9 - make your own variable - growing circle remainder
+curl -s https://editor.p5js.org/editor/projects/P9xSA4D7d/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - make your own variable - growing circle remainder.zip"
+echo 2.2.9 - variable edge
+curl -s https://editor.p5js.org/editor/projects/PEuN_WPty/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge.zip"
+echo 2.2.9 - variable edge draw_obj
+curl -s https://editor.p5js.org/editor/projects/nDGl7usRr/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj.zip"
+echo 2.2.9 - variable edge draw_obj  4
+curl -s https://editor.p5js.org/editor/projects/xrRh-agtb/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj  4.zip"
+echo 2.2.9 - variable edge draw_obj 3
+curl -s https://editor.p5js.org/editor/projects/ooX7GXRAY/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3.zip"
+echo 2.2.9 - variable edge draw_obj 3
+curl -s https://editor.p5js.org/editor/projects/g_NFzcbcq/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3.zip"
+echo 2.2.9 - variable edge draw_obj 3 1
+curl -s https://editor.p5js.org/editor/projects/671V38UbT/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 1.zip"
+echo 2.2.9 - variable edge draw_obj 3 2
+curl -s https://editor.p5js.org/editor/projects/Gn_EvYwrP/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 2.zip"
+echo 2.2.9 - variable edge draw_obj 3 alpha
+curl -s https://editor.p5js.org/editor/projects/GJWDvxs6d/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha.zip"
+echo 2.2.9 - variable edge draw_obj 3 alpha 1
+curl -s https://editor.p5js.org/editor/projects/nFRMBGVaU/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 1.zip"
+echo 2.2.9 - variable edge draw_obj 3 alpha 5
+curl -s https://editor.p5js.org/editor/projects/58CvXXSE8/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 5.zip"
+echo 2.2.9 - variable edge draw_obj 3 alpha 5 gray 0
+curl -s https://editor.p5js.org/editor/projects/NldIA7hqT/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj 3 alpha 5 gray 0.zip"
+echo 2.2.9 - variable edge draw_obj y
+curl -s https://editor.p5js.org/editor/projects/G2sHkNwFo/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y.zip"
+echo 2.2.9 - variable edge draw_obj y 4
+curl -s https://editor.p5js.org/editor/projects/IDzmRpEKu/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4.zip"
+echo 2.2.9 - variable edge draw_obj y 4 alpha 1
+curl -s https://editor.p5js.org/editor/projects/bBebADSjC/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4 alpha 1.zip"
+echo 2.2.9 - variable edge draw_obj y 4 height
+curl -s https://editor.p5js.org/editor/projects/dzRc5bh1h/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge draw_obj y 4 height.zip"
+echo 2.2.9 - variable edge full
+curl -s https://editor.p5js.org/editor/projects/I69gHq4bl/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge full.zip"
+echo 2.2.9 - variable edge obj
+curl -s https://editor.p5js.org/editor/projects/Kik0LOIug/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 - variable edge obj.zip"
+echo 2.2.9 button slider ui remainder
+curl -s https://editor.p5js.org/editor/projects/T8BbkINop/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 button slider ui remainder.zip"
+echo 2.2.9 variable circleX remainder
+curl -s https://editor.p5js.org/editor/projects/HtESWWNTa/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable circleX remainder.zip"
+echo 2.2.9 variable remainder circleX
+curl -s https://editor.p5js.org/editor/projects/e33y9FbcE/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX.zip"
+echo 2.2.9 variable remainder circleX alpha
+curl -s https://editor.p5js.org/editor/projects/5ZN5rRsem/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX alpha.zip"
+echo 2.2.9 variable remainder circleX slider
+curl -s https://editor.p5js.org/editor/projects/rO0jSdg9Y/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX slider.zip"
+echo 2.2.9 variable remainder circleX ui
+curl -s https://editor.p5js.org/editor/projects/JcUsrhgFt/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder circleX ui.zip"
+echo 2.2.9 variable remainder erase
+curl -s https://editor.p5js.org/editor/projects/vig9Wkf9V/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder erase.zip"
+echo 2.2.9 variable remainder scan
+curl -s https://editor.p5js.org/editor/projects/ViF9bv86J/zip -o "../p5mirror-jht1493/downloads/zips/2.2.9 variable remainder scan.zip"
+echo 2.3_0_p5 without_objects
+curl -s https://editor.p5js.org/editor/projects/gv8PmJE2u/zip -o "../p5mirror-jht1493/downloads/zips/2.3_0_p5 without_objects.zip"
+echo 2.3_1_p5 with_objects
+curl -s https://editor.p5js.org/editor/projects/qsfTfkb_5/zip -o "../p5mirror-jht1493/downloads/zips/2.3_1_p5 with_objects.zip"
+echo 2.3.1 shape1 canvas
+curl -s https://editor.p5js.org/editor/projects/oCyOEcy6o/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 canvas.zip"
+echo 2.3.1 shape1 canvas
+curl -s https://editor.p5js.org/editor/projects/c-zClJX0f/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 canvas.zip"
+echo 2.3.1 shape1 shape2 speed
+curl -s https://editor.p5js.org/editor/projects/IuKS1TIjB/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 shape2 speed.zip"
+echo 2.3.1 shape1 speed
+curl -s https://editor.p5js.org/editor/projects/WL3YIp05x/zip -o "../p5mirror-jht1493/downloads/zips/2.3.1 shape1 speed.zip"
+echo 2.4 object duo
+curl -s https://editor.p5js.org/editor/projects/1WLCUZfR4/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object duo.zip"
+echo 2.4 object duo ui
+curl -s https://editor.p5js.org/editor/projects/Hc2w8A4XM/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object duo ui.zip"
+echo 2.4 object literal
+curl -s https://editor.p5js.org/editor/projects/Eba5AyFPo/zip -o "../p5mirror-jht1493/downloads/zips/2.4 object literal.zip"
+echo 2.4 random - Painting Exercise 2
+curl -s https://editor.p5js.org/editor/projects/OLzJZWjV5/zip -o "../p5mirror-jht1493/downloads/zips/2.4 random - Painting Exercise 2.zip"
+echo 2.4.1 random shape1
+curl -s https://editor.p5js.org/editor/projects/N2VJYjIWg/zip -o "../p5mirror-jht1493/downloads/zips/2.4.1 random shape1.zip"
+echo 2.4.2 shape1 alpha
+curl -s https://editor.p5js.org/editor/projects/UDMyivHEQ/zip -o "../p5mirror-jht1493/downloads/zips/2.4.2 shape1 alpha.zip"
+echo 2.4.2 shape1 alpha slow
+curl -s https://editor.p5js.org/editor/projects/-nqwIxze_/zip -o "../p5mirror-jht1493/downloads/zips/2.4.2 shape1 alpha slow.zip"
+echo 2.4.3 shape1 alpha slow
+curl -s https://editor.p5js.org/editor/projects/iNY8JDhzH/zip -o "../p5mirror-jht1493/downloads/zips/2.4.3 shape1 alpha slow.zip"
+echo 2.5 .1 draw_shape1
+curl -s https://editor.p5js.org/editor/projects/hgFw3__cZ/zip -o "../p5mirror-jht1493/downloads/zips/2.5 .1 draw_shape1.zip"
+echo 2.5 .1 setup draw_shape
+curl -s https://editor.p5js.org/editor/projects/MX-qeqFTi/zip -o "../p5mirror-jht1493/downloads/zips/2.5 .1 setup draw_shape.zip"
+echo 2.5 map function ui
+curl -s https://editor.p5js.org/editor/projects/OGwu_nlNh/zip -o "../p5mirror-jht1493/downloads/zips/2.5 map function ui.zip"
+echo 2.5 map function ui
+curl -s https://editor.p5js.org/editor/projects/mBLvc2Xiz/zip -o "../p5mirror-jht1493/downloads/zips/2.5 map function ui.zip"
+echo 2.5 setup pattern draw_shape1 push
+curl -s https://editor.p5js.org/editor/projects/bsnMRzdZM/zip -o "../p5mirror-jht1493/downloads/zips/2.5 setup pattern draw_shape1 push.zip"
+echo 2.5 setup pattern draw_shape1 save
+curl -s https://editor.p5js.org/editor/projects/D34BIqcoE/zip -o "../p5mirror-jht1493/downloads/zips/2.5 setup pattern draw_shape1 save.zip"
+echo 2.5 shape1 alpha func xxx
+curl -s https://editor.p5js.org/editor/projects/CgEGxR-EK/zip -o "../p5mirror-jht1493/downloads/zips/2.5 shape1 alpha func xxx.zip"
+echo 2.5.1 object scan
+curl -s https://editor.p5js.org/editor/projects/UTMOVgcsv/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 object scan.zip"
+echo 2.5.1 random function scan x
+curl -s https://editor.p5js.org/editor/projects/XzrXlqxMN/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 random function scan x.zip"
+echo 2.5.1 random function scan x ran y
+curl -s https://editor.p5js.org/editor/projects/ny4aSEPTp/zip -o "../p5mirror-jht1493/downloads/zips/2.5.1 random function scan x ran y.zip"
+echo 2.5.2 draw_shape1 pattern
+curl -s https://editor.p5js.org/editor/projects/5JqwobAgJ/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 draw_shape1 pattern.zip"
+echo 2.5.2 draw_shape1 pattern xx
+curl -s https://editor.p5js.org/editor/projects/h4r-AU_Wc/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 draw_shape1 pattern xx.zip"
+echo 2.5.2 random function spot.count
+curl -s https://editor.p5js.org/editor/projects/vpcHXx_E1/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count.zip"
+echo 2.5.2 random function spot.count ui
+curl -s https://editor.p5js.org/editor/projects/Dv5o83_c3/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui.zip"
+echo 2.5.2 random function spot.count ui bottom
+curl -s https://editor.p5js.org/editor/projects/A1NHTo3cg/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui bottom.zip"
+echo 2.5.2 random function spot.count ui rgb
+curl -s https://editor.p5js.org/editor/projects/46pdvjYd_/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random function spot.count ui rgb.zip"
+echo 2.5.2 random spot.count ui col array
+curl -s https://editor.p5js.org/editor/projects/XOGQcrpoT/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui col array.zip"
+echo 2.5.2 random spot.count ui col set
+curl -s https://editor.p5js.org/editor/projects/jZtF7e5E5/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui col set.zip"
+echo 2.5.2 random spot.count ui jiggle
+curl -s https://editor.p5js.org/editor/projects/lZD21fbFG/zip -o "../p5mirror-jht1493/downloads/zips/2.5.2 random spot.count ui jiggle.zip"
+echo 2.5.3 draw_shape1 pattern2
+curl -s https://editor.p5js.org/editor/projects/huhUWN6Uc/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 draw_shape1 pattern2.zip"
+echo 2.5.3 Rainbow Paintbrush
+curl -s https://editor.p5js.org/editor/projects/9aYZcF6DM/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush.zip"
+echo 2.5.3 Rainbow Paintbrush a_step
+curl -s https://editor.p5js.org/editor/projects/TAnGTwIJ1/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush a_step.zip"
+echo 2.5.3 Rainbow Paintbrush ui
+curl -s https://editor.p5js.org/editor/projects/dojCKsdwQ/zip -o "../p5mirror-jht1493/downloads/zips/2.5.3 Rainbow Paintbrush ui.zip"
+echo 2.5.4 draw_shape1 patter2 ui
+curl -s https://editor.p5js.org/editor/projects/jiS58glnK/zip -o "../p5mirror-jht1493/downloads/zips/2.5.4 draw_shape1 patter2 ui.zip"
+echo 2.5.9 random function spot.x spot.y
+curl -s https://editor.p5js.org/editor/projects/9ss5dnb9t/zip -o "../p5mirror-jht1493/downloads/zips/2.5.9 random function spot.x spot.y.zip"
+echo 2.6.1 rotate mouseX
+curl -s https://editor.p5js.org/editor/projects/5f-4Wm_1H/zip -o "../p5mirror-jht1493/downloads/zips/2.6.1 rotate mouseX.zip"
+echo 2.6.2 rotate a_angle
+curl -s https://editor.p5js.org/editor/projects/mq4r5u0v3/zip -o "../p5mirror-jht1493/downloads/zips/2.6.2 rotate a_angle.zip"
+echo 2.6.3 rotate ui
+curl -s https://editor.p5js.org/editor/projects/iYtC2NDy7/zip -o "../p5mirror-jht1493/downloads/zips/2.6.3 rotate ui.zip"
+echo 2.6.4 rotate mouseDragged ui
+curl -s https://editor.p5js.org/editor/projects/5ZIAjsbyB/zip -o "../p5mirror-jht1493/downloads/zips/2.6.4 rotate mouseDragged ui.zip"
+echo 2.6.5 rotate mouseDragged ui map
+curl -s https://editor.p5js.org/editor/projects/8ui42o3PL/zip -o "../p5mirror-jht1493/downloads/zips/2.6.5 rotate mouseDragged ui map.zip"
+echo 2.9 Ex_03_20 Two Creatures func
+curl -s https://editor.p5js.org/editor/projects/fRJikQjei/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures func.zip"
+echo 2.9 Ex_03_20 Two Creatures jitter
+curl -s https://editor.p5js.org/editor/projects/bXmM8izjD/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures jitter.zip"
+echo 2.9 Ex_03_20 Two Creatures param
+curl -s https://editor.p5js.org/editor/projects/ziOkogWgP/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures param.zip"
+echo 2.9 Ex_03_20 Two Creatures param copy
+curl -s https://editor.p5js.org/editor/projects/Skyzq_Ddm/zip -o "../p5mirror-jht1493/downloads/zips/2.9 Ex_03_20 Two Creatures param copy.zip"
+echo 2.9 moving circle
+curl -s https://editor.p5js.org/editor/projects/IiHPr9gcV/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle.zip"
+echo 2.9 moving circle random set
+curl -s https://editor.p5js.org/editor/projects/QfgP2VgJt/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle random set.zip"
+echo 2.9 moving circle random set %
+curl -s https://editor.p5js.org/editor/projects/0jB0SdGZW/zip -o "../p5mirror-jht1493/downloads/zips/2.9 moving circle random set %.zip"
+echo 221017_EditedPattern_Sackona Fitts_JHT copy copy
+curl -s https://editor.p5js.org/editor/projects/YOgdXn5H6/zip -o "../p5mirror-jht1493/downloads/zips/221017_EditedPattern_Sackona Fitts_JHT copy copy.zip"
+echo 3.1 button slider checkbox ui if
+curl -s https://editor.p5js.org/editor/projects/tuC5MB4nm/zip -o "../p5mirror-jht1493/downloads/zips/3.1 button slider checkbox ui if.zip"
+echo 3.1 circleX width ui lib copy
+curl -s https://editor.p5js.org/editor/projects/R_ipMLAVM/zip -o "../p5mirror-jht1493/downloads/zips/3.1 circleX width ui lib copy.zip"
+echo 3.1 variable circleX width
+curl -s https://editor.p5js.org/editor/projects/ttk0Uyn9x/zip -o "../p5mirror-jht1493/downloads/zips/3.1 variable circleX width.zip"
+echo 3.1 variable circleX width if
+curl -s https://editor.p5js.org/editor/projects/NO5mWO62W/zip -o "../p5mirror-jht1493/downloads/zips/3.1 variable circleX width if.zip"
+echo 3.2 mouse column red
+curl -s https://editor.p5js.org/editor/projects/-BJk4FpbU/zip -o "../p5mirror-jht1493/downloads/zips/3.2 mouse column red.zip"
+echo 3.2 mouseOver reference
+curl -s https://editor.p5js.org/editor/projects/LZwntA2dD/zip -o "../p5mirror-jht1493/downloads/zips/3.2 mouseOver reference.zip"
+echo 3.2 variable circle1X circle2X
+curl -s https://editor.p5js.org/editor/projects/UJjCwAFF0/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circle1X circle2X.zip"
+echo 3.2 variable circleXspeed
+curl -s https://editor.p5js.org/editor/projects/LkbB9aIku/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed.zip"
+echo 3.2 variable circleXspeed
+curl -s https://editor.p5js.org/editor/projects/TAV5p1sMW/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed.zip"
+echo 3.2 variable circleXspeed buttons
+curl -s https://editor.p5js.org/editor/projects/SvxAd4V3z/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed buttons.zip"
+echo 3.2 variable circleXspeed buttons copy
+curl -s https://editor.p5js.org/editor/projects/RRJcCKbGw/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed buttons copy.zip"
+echo 3.2 variable circleXspeed OR
+curl -s https://editor.p5js.org/editor/projects/PLfo2BKRm/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed OR.zip"
+echo 3.2 variable circleXspeed OR --
+curl -s https://editor.p5js.org/editor/projects/CcyPaL7GQ/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed OR --.zip"
+echo 3.2 variable circleXspeed scan
+curl -s https://editor.p5js.org/editor/projects/qcPdvN6nR/zip -o "../p5mirror-jht1493/downloads/zips/3.2 variable circleXspeed scan.zip"
+echo 3.3  counter for time
+curl -s https://editor.p5js.org/editor/projects/DW02dgsn6/zip -o "../p5mirror-jht1493/downloads/zips/3.3  counter for time.zip"
+echo 3.3 bounce ball x OR
+curl -s https://editor.p5js.org/editor/projects/G1WHVQsRV/zip -o "../p5mirror-jht1493/downloads/zips/3.3 bounce ball x OR.zip"
+echo 3.3 bounce ball x OR ui
+curl -s https://editor.p5js.org/editor/projects/h0ZJWwOzb/zip -o "../p5mirror-jht1493/downloads/zips/3.3 bounce ball x OR ui.zip"
+echo 3.3 else if
+curl -s https://editor.p5js.org/editor/projects/VmJD4ZUMJ/zip -o "../p5mirror-jht1493/downloads/zips/3.3 else if.zip"
+echo 3.3 else if less than
+curl -s https://editor.p5js.org/editor/projects/uB9r-rpmp/zip -o "../p5mirror-jht1493/downloads/zips/3.3 else if less than.zip"
+echo 3.3 if mouseX AND
+curl -s https://editor.p5js.org/editor/projects/pK7xE8hN3/zip -o "../p5mirror-jht1493/downloads/zips/3.3 if mouseX AND.zip"
+echo 3.3 time with frameCount
+curl -s https://editor.p5js.org/editor/projects/S5QXtzIaC/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount.zip"
+echo 3.3 time with frameCount copy
+curl -s https://editor.p5js.org/editor/projects/ZgXbyec0p/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount copy.zip"
+echo 3.3 time with frameCount copy copy
+curl -s https://editor.p5js.org/editor/projects/cGY4FRT0t/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with frameCount copy copy.zip"
+echo 3.3 time with millis
+curl -s https://editor.p5js.org/editor/projects/e3KJv7fxt/zip -o "../p5mirror-jht1493/downloads/zips/3.3 time with millis.zip"
+echo 3.3 variable circle1X tight
+curl -s https://editor.p5js.org/editor/projects/b-pzyyNSU/zip -o "../p5mirror-jht1493/downloads/zips/3.3 variable circle1X tight.zip"
+echo 3.3. pattern draw_shape1 save
+curl -s https://editor.p5js.org/editor/projects/UA_D1rM5A/zip -o "../p5mirror-jht1493/downloads/zips/3.3. pattern draw_shape1 save.zip"
+echo 3.4 Boolean Variables
+curl -s https://editor.p5js.org/editor/projects/1IcyZZamQ/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Boolean Variables.zip"
+echo 3.4 Bouncing Ball by Herui - suggestions
+curl -s https://editor.p5js.org/editor/projects/DbmzeU7i5/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing Ball by Herui - suggestions.zip"
+echo 3.4 bouncing ball pattern
+curl -s https://editor.p5js.org/editor/projects/r4HyeG6R8/zip -o "../p5mirror-jht1493/downloads/zips/3.4 bouncing ball pattern.zip"
+echo 3.4 Bouncing Ball sin
+curl -s https://editor.p5js.org/editor/projects/gobuvz-LX/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing Ball sin.zip"
+echo 3.4 Bouncing createSpan
+curl -s https://editor.p5js.org/editor/projects/jaPZ8e1RW/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing createSpan.zip"
+echo 3.4 Bouncing time createSpan Math
+curl -s https://editor.p5js.org/editor/projects/raLIJyQHL/zip -o "../p5mirror-jht1493/downloads/zips/3.4 Bouncing time createSpan Math.zip"
+echo 3.5 circleX a_len ui
+curl -s https://editor.p5js.org/editor/projects/qBt6Ty_7b/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX a_len ui.zip"
+echo 3.5 circleX ui more
+curl -s https://editor.p5js.org/editor/projects/uGy4cEzbs/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX ui more.zip"
+echo 3.5 circleX ui more copy
+curl -s https://editor.p5js.org/editor/projects/IevrDU7OW/zip -o "../p5mirror-jht1493/downloads/zips/3.5 circleX ui more copy.zip"
+echo 3d box
+curl -s https://editor.p5js.org/editor/projects/4XDiPH-Mt/zip -o "../p5mirror-jht1493/downloads/zips/3d box.zip"
+echo 3d-shader-using-webcam
+curl -s https://editor.p5js.org/editor/projects/xQ1qbzSxv/zip -o "../p5mirror-jht1493/downloads/zips/3d-shader-using-webcam.zip"
+echo 3d-shader-webcam-shade
+curl -s https://editor.p5js.org/editor/projects/EuwnL3gxd/zip -o "../p5mirror-jht1493/downloads/zips/3d-shader-webcam-shade.zip"
+echo 4.0 for loop example
+curl -s https://editor.p5js.org/editor/projects/gjAK4v51E/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example.zip"
+echo 4.0 for loop example
+curl -s https://editor.p5js.org/editor/projects/ZwUDZXioq/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example.zip"
+echo 4.0 for loop example copy
+curl -s https://editor.p5js.org/editor/projects/sYtrxfPGy/zip -o "../p5mirror-jht1493/downloads/zips/4.0 for loop example copy.zip"
+echo 4.1 pattern drawShape1
+curl -s https://editor.p5js.org/editor/projects/cA_XRhYnI/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern drawShape1.zip"
+echo 4.1 pattern random 1
+curl -s https://editor.p5js.org/editor/projects/JM1F5XmJuJ/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 1.zip"
+echo 4.1 pattern random 2
+curl -s https://editor.p5js.org/editor/projects/44dcLkWoC/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 2.zip"
+echo 4.1 pattern random 3
+curl -s https://editor.p5js.org/editor/projects/vqy_zDixd/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 3.zip"
+echo 4.1 pattern random 4
+curl -s https://editor.p5js.org/editor/projects/_TkkjoNrW/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern random 4.zip"
+echo 4.1 pattern while
+curl -s https://editor.p5js.org/editor/projects/QlAHBLxi8e/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern while.zip"
+echo 4.1 pattern y
+curl -s https://editor.p5js.org/editor/projects/S9YsVD9gV/zip -o "../p5mirror-jht1493/downloads/zips/4.1 pattern y.zip"
+echo 4.2 arrays
+curl -s https://editor.p5js.org/editor/projects/LN97Vgci1/zip -o "../p5mirror-jht1493/downloads/zips/4.2 arrays.zip"
+echo 4.2 for-loop
+curl -s https://editor.p5js.org/editor/projects/xlkU2_AlE/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop.zip"
+echo 4.2 for-loop draw 1 2
+curl -s https://editor.p5js.org/editor/projects/jeyjYdjbP/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop draw 1 2.zip"
+echo 4.2 for-loop drawShape1
+curl -s https://editor.p5js.org/editor/projects/ZRMgh5oWA/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop drawShape1.zip"
+echo 4.2 for-loop random
+curl -s https://editor.p5js.org/editor/projects/cV8HNKv_D/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random.zip"
+echo 4.2 for-loop random 2
+curl -s https://editor.p5js.org/editor/projects/Bz-e4Japh/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 2.zip"
+echo 4.2 for-loop random 3
+curl -s https://editor.p5js.org/editor/projects/YJojuZV9V/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 3.zip"
+echo 4.2 for-loop random 4
+curl -s https://editor.p5js.org/editor/projects/uWqMpSb09/zip -o "../p5mirror-jht1493/downloads/zips/4.2 for-loop random 4.zip"
+echo 4.3 array add
+curl -s https://editor.p5js.org/editor/projects/wl7Kc2bCW/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array add.zip"
+echo 4.3 array bouncing balls
+curl -s https://editor.p5js.org/editor/projects/ss-mUo0A2/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls.zip"
+echo 4.3 array bouncing balls 2
+curl -s https://editor.p5js.org/editor/projects/CYdufPe8D/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls 2.zip"
+echo 4.3 array bouncing balls 3
+curl -s https://editor.p5js.org/editor/projects/gVFoxRUsw/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls 3.zip"
+echo 4.3 array bouncing balls remove
+curl -s https://editor.p5js.org/editor/projects/7l92OzPjl/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array bouncing balls remove.zip"
+echo 4.3 array colors
+curl -s https://editor.p5js.org/editor/projects/MN_30o-l-/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array colors.zip"
+echo 4.3 array colors alpha
+curl -s https://editor.p5js.org/editor/projects/a81qFOT7_/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array colors alpha.zip"
+echo 4.3 array d
+curl -s https://editor.p5js.org/editor/projects/PkHBdgZak/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array d.zip"
+echo 4.3 array for-loop
+curl -s https://editor.p5js.org/editor/projects/Gom4JIsDb/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop.zip"
+echo 4.3 array for-loop 2
+curl -s https://editor.p5js.org/editor/projects/tNqn2o0M3/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 2.zip"
+echo 4.3 array for-loop 3
+curl -s https://editor.p5js.org/editor/projects/NZSWjB70Y/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 3.zip"
+echo 4.3 array for-loop 4
+curl -s https://editor.p5js.org/editor/projects/d1C72NC0Q/zip -o "../p5mirror-jht1493/downloads/zips/4.3 array for-loop 4.zip"
+echo 5.0 array colors func
+curl -s https://editor.p5js.org/editor/projects/0B8HIn-Dp/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors func.zip"
+echo 5.0 array colors rect
+curl -s https://editor.p5js.org/editor/projects/VAXbwF4ag/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors rect.zip"
+echo 5.0 array colors rect copy
+curl -s https://editor.p5js.org/editor/projects/V3Oxjt6Tk/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array colors rect copy.zip"
+echo 5.0 array of colors names
+curl -s https://editor.p5js.org/editor/projects/akS3a9N6d/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array of colors names.zip"
+echo 5.0 array operations
+curl -s https://editor.p5js.org/editor/projects/O2WykW28A/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array operations.zip"
+echo 5.0 array shape func
+curl -s https://editor.p5js.org/editor/projects/ZG7D0A7CC/zip -o "../p5mirror-jht1493/downloads/zips/5.0 array shape func.zip"
+echo 5.0 Recursive Tree
+curl -s https://editor.p5js.org/editor/projects/Vt-6p8pnv/zip -o "../p5mirror-jht1493/downloads/zips/5.0 Recursive Tree.zip"
+echo 5.0 recusion circles
+curl -s https://editor.p5js.org/editor/projects/w5Crcu-U9/zip -o "../p5mirror-jht1493/downloads/zips/5.0 recusion circles.zip"
+echo 7.1 What is an Array? 1
+curl -s https://editor.p5js.org/editor/projects/zSMXnWpXI/zip -o "../p5mirror-jht1493/downloads/zips/7.1 What is an Array? 1.zip"
+echo 7.1 What is an Array? random
+curl -s https://editor.p5js.org/editor/projects/D-T0NopEg/zip -o "../p5mirror-jht1493/downloads/zips/7.1 What is an Array? random.zip"
+echo 7.2 Arrays and loops
+curl -s https://editor.p5js.org/editor/projects/pT0_mdXrm/zip -o "../p5mirror-jht1493/downloads/zips/7.2 Arrays and loops.zip"
+echo 7.3 Arrays of objects 1
+curl -s https://editor.p5js.org/editor/projects/xq4zwDd2x/zip -o "../p5mirror-jht1493/downloads/zips/7.3 Arrays of objects 1.zip"
+echo 7.4 Mouse interaction with objects
+curl -s https://editor.p5js.org/editor/projects/LrhcIzvr2/zip -o "../p5mirror-jht1493/downloads/zips/7.4 Mouse interaction with objects.zip"
+echo 7.5 Removing objects from arrays
+curl -s https://editor.p5js.org/editor/projects/ukRrexynz/zip -o "../p5mirror-jht1493/downloads/zips/7.5 Removing objects from arrays.zip"
+echo 7.5 Removing objects from arrays trials
+curl -s https://editor.p5js.org/editor/projects/4c3ja646V/zip -o "../p5mirror-jht1493/downloads/zips/7.5 Removing objects from arrays trials.zip"
+echo 7.8-objects-and-images
+curl -s https://editor.p5js.org/editor/projects/4mTNtiQnZ/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images.zip"
+echo 7.8-objects-and-images copy
+curl -s https://editor.p5js.org/editor/projects/nbH241LQB/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images copy.zip"
+echo 7.8-objects-and-images Grid
+curl -s https://editor.p5js.org/editor/projects/w2J_teSHy/zip -o "../p5mirror-jht1493/downloads/zips/7.8-objects-and-images Grid.zip"
+echo 8 Note Envelope FFT ui
+curl -s https://editor.p5js.org/editor/projects/IFght-gvV/zip -o "../p5mirror-jht1493/downloads/zips/8 Note Envelope FFT ui.zip"
+echo 8.01 What_is_HTML
+curl -s https://editor.p5js.org/editor/projects/cSeIphwNx/zip -o "../p5mirror-jht1493/downloads/zips/8.01 What_is_HTML.zip"
+echo 8.01 What_is_HTML copy
+curl -s https://editor.p5js.org/editor/projects/YDSW5I8U2/zip -o "../p5mirror-jht1493/downloads/zips/8.01 What_is_HTML copy.zip"
+echo 8.02 Creating HTML elements
+curl -s https://editor.p5js.org/editor/projects/EZn_Bfrjk/zip -o "../p5mirror-jht1493/downloads/zips/8.02 Creating HTML elements.zip"
+echo 8.03 Manipulating_DOM_elements
+curl -s https://editor.p5js.org/editor/projects/1Sxb49U3p/zip -o "../p5mirror-jht1493/downloads/zips/8.03 Manipulating_DOM_elements.zip"
+echo 8.03 Manipulating_DOM_elements removeElements
+curl -s https://editor.p5js.org/editor/projects/4fabUgZp0/zip -o "../p5mirror-jht1493/downloads/zips/8.03 Manipulating_DOM_elements removeElements.zip"
+echo 8.04 Handling_DOM_events
+curl -s https://editor.p5js.org/editor/projects/QoeXaY22s/zip -o "../p5mirror-jht1493/downloads/zips/8.04 Handling_DOM_events.zip"
+echo 8.05 input
+curl -s https://editor.p5js.org/editor/projects/aN3sBqXoW/zip -o "../p5mirror-jht1493/downloads/zips/8.05 input.zip"
+echo 8.05 input crawl
+curl -s https://editor.p5js.org/editor/projects/aHS_944ll/zip -o "../p5mirror-jht1493/downloads/zips/8.05 input crawl.zip"
+echo 8.05 Interacting with the DOM
+curl -s https://editor.p5js.org/editor/projects/f-Or4yb6-/zip -o "../p5mirror-jht1493/downloads/zips/8.05 Interacting with the DOM.zip"
+echo 8.05 select callback
+curl -s https://editor.p5js.org/editor/projects/AQ6mnFiZt/zip -o "../p5mirror-jht1493/downloads/zips/8.05 select callback.zip"
+echo 8.05 slider changeColor
+curl -s https://editor.p5js.org/editor/projects/keiKvBcIl/zip -o "../p5mirror-jht1493/downloads/zips/8.05 slider changeColor.zip"
+echo 8.06 Other_Events_and_Inputs
+curl -s https://editor.p5js.org/editor/projects/Omkuy5ff8/zip -o "../p5mirror-jht1493/downloads/zips/8.06 Other_Events_and_Inputs.zip"
+echo 8.07 Basics of CSS
+curl -s https://editor.p5js.org/editor/projects/UwzyefBNc/zip -o "../p5mirror-jht1493/downloads/zips/8.07 Basics of CSS.zip"
+echo 8.08 events_changed
+curl -s https://editor.p5js.org/editor/projects/OfzrlCCpL/zip -o "../p5mirror-jht1493/downloads/zips/8.08 events_changed.zip"
+echo 8.08 events_input
+curl -s https://editor.p5js.org/editor/projects/R-l2kFq-J/zip -o "../p5mirror-jht1493/downloads/zips/8.08 events_input.zip"
+echo 8.09 js_CSS_Selectors
+curl -s https://editor.p5js.org/editor/projects/NZ9ZgwkTX/zip -o "../p5mirror-jht1493/downloads/zips/8.09 js_CSS_Selectors.zip"
+echo 8.10 select
+curl -s https://editor.p5js.org/editor/projects/RXoJujbVp/zip -o "../p5mirror-jht1493/downloads/zips/8.10 select.zip"
+echo 8.10 selectAll
+curl -s https://editor.p5js.org/editor/projects/YZ4AN5XCn/zip -o "../p5mirror-jht1493/downloads/zips/8.10 selectAll.zip"
+echo 8.11 callbacks on multiple DOM elements
+curl -s https://editor.p5js.org/editor/projects/SQMAfAsXX/zip -o "../p5mirror-jht1493/downloads/zips/8.11 callbacks on multiple DOM elements.zip"
+echo 8.12 parent_child
+curl -s https://editor.p5js.org/editor/projects/nSMEGQeZn/zip -o "../p5mirror-jht1493/downloads/zips/8.12 parent_child.zip"
+echo 8.13 Assign_a_CSS_class
+curl -s https://editor.p5js.org/editor/projects/LTpHvvjQO/zip -o "../p5mirror-jht1493/downloads/zips/8.13 Assign_a_CSS_class.zip"
+echo 8.14_0 parent child
+curl -s https://editor.p5js.org/editor/projects/H1O1bcqwU/zip -o "../p5mirror-jht1493/downloads/zips/8.14_0 parent child.zip"
+echo 8.14_0 parent child fail
+curl -s https://editor.p5js.org/editor/projects/Nc3wwm_RG/zip -o "../p5mirror-jht1493/downloads/zips/8.14_0 parent child fail.zip"
+echo 8.14_3 parent child
+curl -s https://editor.p5js.org/editor/projects/qPC4pLHHf/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child.zip"
+echo 8.14_3 parent child clear_images
+curl -s https://editor.p5js.org/editor/projects/ZaOM6tgPZ/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child clear_images.zip"
+echo 8.14_3 parent child fail
+curl -s https://editor.p5js.org/editor/projects/IhQeQ2Pip/zip -o "../p5mirror-jht1493/downloads/zips/8.14_3 parent child fail.zip"
+echo aBouncingBallInterface copy
+curl -s https://editor.p5js.org/editor/projects/v0L1ljdGg/zip -o "../p5mirror-jht1493/downloads/zips/aBouncingBallInterface copy.zip"
+echo Abstracted date
+curl -s https://editor.p5js.org/editor/projects/tdJpSSR8U/zip -o "../p5mirror-jht1493/downloads/zips/Abstracted date.zip"
+echo Adhesive swift
+curl -s https://editor.p5js.org/editor/projects/n2leuEs1C/zip -o "../p5mirror-jht1493/downloads/zips/Adhesive swift.zip"
+echo Admitted plot --cloveria2
+curl -s https://editor.p5js.org/editor/projects/KgZ9y3dFX/zip -o "../p5mirror-jht1493/downloads/zips/Admitted plot --cloveria2.zip"
+echo Admitted plot 2
+curl -s https://editor.p5js.org/editor/projects/zmGd5h7Hf/zip -o "../p5mirror-jht1493/downloads/zips/Admitted plot 2.zip"
+echo algorithmic design yuyan（yvonne）zhang
+curl -s https://editor.p5js.org/editor/projects/vY5Dcg69W/zip -o "../p5mirror-jht1493/downloads/zips/algorithmic design yuyan（yvonne）zhang.zip"
+echo arc testing
+curl -s https://editor.p5js.org/editor/projects/5aux9j_mt/zip -o "../p5mirror-jht1493/downloads/zips/arc testing.zip"
+echo arc-demo slider
+curl -s https://editor.p5js.org/editor/projects/obEXK-fpg/zip -o "../p5mirror-jht1493/downloads/zips/arc-demo slider.zip"
+echo array of objects
+curl -s https://editor.p5js.org/editor/projects/qs6G3T5ju/zip -o "../p5mirror-jht1493/downloads/zips/array of objects.zip"
+echo Assignment Week 4! by andriana copy
+curl -s https://editor.p5js.org/editor/projects/KMOJYgosO/zip -o "../p5mirror-jht1493/downloads/zips/Assignment Week 4! by andriana copy.zip"
+echo Assignment Week 5: Functions copy
+curl -s https://editor.p5js.org/editor/projects/rZFwuzjQy/zip -o "../p5mirror-jht1493/downloads/zips/Assignment Week 5: Functions copy.zip"
+echo async draw
+curl -s https://editor.p5js.org/editor/projects/u9F7jMa2e/zip -o "../p5mirror-jht1493/downloads/zips/async draw.zip"
+echo ball bounce sim 0
+curl -s https://editor.p5js.org/editor/projects/NNrUYNq6T/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim 0.zip"
+echo ball bounce sim 1
+curl -s https://editor.p5js.org/editor/projects/UCozu5MhT/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim 1.zip"
+echo ball bounce sim ref
+curl -s https://editor.p5js.org/editor/projects/m6vN5OUmW/zip -o "../p5mirror-jht1493/downloads/zips/ball bounce sim ref.zip"
+echo Band bestseller
+curl -s https://editor.p5js.org/editor/projects/9_X5I1IbI/zip -o "../p5mirror-jht1493/downloads/zips/Band bestseller.zip"
+echo bestill
+curl -s https://editor.p5js.org/editor/projects/pBfGnmnLe/zip -o "../p5mirror-jht1493/downloads/zips/bestill.zip"
+echo BLM
+curl -s https://editor.p5js.org/editor/projects/Nh7trPsS8/zip -o "../p5mirror-jht1493/downloads/zips/BLM.zip"
+echo BLM-full-window
+curl -s https://editor.p5js.org/editor/projects/wwke5rmjl/zip -o "../p5mirror-jht1493/downloads/zips/BLM-full-window.zip"
+echo blur halo copy
+curl -s https://editor.p5js.org/editor/projects/96FIUb5Vs/zip -o "../p5mirror-jht1493/downloads/zips/blur halo copy.zip"
+echo BodyPix_Image copy
+curl -s https://editor.p5js.org/editor/projects/10qVaP4HX/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Image copy.zip"
+echo BodyPix_Image copy
+curl -s https://editor.p5js.org/editor/projects/MXIp1cNJv/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Image copy.zip"
+echo BodyPix_Webcam copy
+curl -s https://editor.p5js.org/editor/projects/6qILI_M_g/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Webcam copy.zip"
+echo BodyPix_Webcam_Parts copy
+curl -s https://editor.p5js.org/editor/projects/bfb598HDq/zip -o "../p5mirror-jht1493/downloads/zips/BodyPix_Webcam_Parts copy.zip"
+echo bouncing ball
+curl -s https://editor.p5js.org/editor/projects/EVn1i4bCz/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball.zip"
+echo bouncing ball
+curl -s https://editor.p5js.org/editor/projects/QIkgxVX2J/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball.zip"
+echo Bouncing Ball by Herui copy
+curl -s https://editor.p5js.org/editor/projects/MmO5_YUKR/zip -o "../p5mirror-jht1493/downloads/zips/Bouncing Ball by Herui copy.zip"
+echo bouncing ball copy
+curl -s https://editor.p5js.org/editor/projects/_-KIX6W4i/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
+echo bouncing ball copy
+curl -s https://editor.p5js.org/editor/projects/T8dyF-XVE/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
+echo bouncing ball copy
+curl -s https://editor.p5js.org/editor/projects/G9KdsJgVl/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
+echo bouncing ball copy
+curl -s https://editor.p5js.org/editor/projects/Xu5vvG-yC/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
+echo bouncing ball copy
+curl -s https://editor.p5js.org/editor/projects/V0m45p1QJ/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball copy.zip"
+echo bouncing ball func 1
+curl -s https://editor.p5js.org/editor/projects/itc8n2k9p/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball func 1.zip"
+echo bouncing ball func 2
+curl -s https://editor.p5js.org/editor/projects/vagPkRuRz/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball func 2.zip"
+echo bouncing ball functions
+curl -s https://editor.p5js.org/editor/projects/hOLGdXwh0/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions.zip"
+echo bouncing ball functions  0
+curl -s https://editor.p5js.org/editor/projects/GSbIh5e1O/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions  0.zip"
+echo bouncing ball functions  1
+curl -s https://editor.p5js.org/editor/projects/2C1IRjjVd/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions  1.zip"
+echo bouncing ball functions 0
+curl -s https://editor.p5js.org/editor/projects/ZO6_aIePx/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions 0.zip"
+echo bouncing ball functions 0
+curl -s https://editor.p5js.org/editor/projects/QOqalaRCS/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions 0.zip"
+echo bouncing ball functions still
+curl -s https://editor.p5js.org/editor/projects/Mu9x_dx8b/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball functions still.zip"
+echo bouncing ball obj
+curl -s https://editor.p5js.org/editor/projects/FkmJWnKqi/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj.zip"
+echo bouncing ball obj 1
+curl -s https://editor.p5js.org/editor/projects/cH2NTATtP/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj 1.zip"
+echo bouncing ball obj func
+curl -s https://editor.p5js.org/editor/projects/2Kx8pJ13B/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj func.zip"
+echo bouncing ball obj mouse
+curl -s https://editor.p5js.org/editor/projects/EwVeHUYAg/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball obj mouse.zip"
+echo bouncing ball show
+curl -s https://editor.p5js.org/editor/projects/DRVwWXe99/zip -o "../p5mirror-jht1493/downloads/zips/bouncing ball show.zip"
+echo bouncing draw _ball
+curl -s https://editor.p5js.org/editor/projects/YK19XLn5I/zip -o "../p5mirror-jht1493/downloads/zips/bouncing draw _ball.zip"
+echo bouncing glittery ball copy
+curl -s https://editor.p5js.org/editor/projects/qIVaQ6ssaR/zip -o "../p5mirror-jht1493/downloads/zips/bouncing glittery ball copy.zip"
+echo bouncing show_
+curl -s https://editor.p5js.org/editor/projects/UafsQRheL/zip -o "../p5mirror-jht1493/downloads/zips/bouncing show_.zip"
+echo Branch steed copy
+curl -s https://editor.p5js.org/editor/projects/NV2JGwq2Y/zip -o "../p5mirror-jht1493/downloads/zips/Branch steed copy.zip"
+echo Brick Game - V2 with functions copy
+curl -s https://editor.p5js.org/editor/projects/ydOOP3dbA/zip -o "../p5mirror-jht1493/downloads/zips/Brick Game - V2 with functions copy.zip"
+echo bubble drop
+curl -s https://editor.p5js.org/editor/projects/GPnL5D3PA/zip -o "../p5mirror-jht1493/downloads/zips/bubble drop.zip"
+echo bubble drop select
+curl -s https://editor.p5js.org/editor/projects/9QYJpYm1I/zip -o "../p5mirror-jht1493/downloads/zips/bubble drop select.zip"
+echo bubble image
+curl -s https://editor.p5js.org/editor/projects/aUF-_C0xL/zip -o "../p5mirror-jht1493/downloads/zips/bubble image.zip"
+echo bubble image alpha
+curl -s https://editor.p5js.org/editor/projects/p6g61faSW/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha.zip"
+echo bubble image alpha
+curl -s https://editor.p5js.org/editor/projects/nb5oy7oei/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha.zip"
+echo bubble image alpha grid
+curl -s https://editor.p5js.org/editor/projects/smjuGOc5Z/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha grid.zip"
+echo bubble image alpha grid 2021
+curl -s https://editor.p5js.org/editor/projects/ogprTVQYX/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha grid 2021.zip"
+echo bubble image alpha video
+curl -s https://editor.p5js.org/editor/projects/VAg5-djYX/zip -o "../p5mirror-jht1493/downloads/zips/bubble image alpha video.zip"
+echo bubble image rect
+curl -s https://editor.p5js.org/editor/projects/G3oPJsRBD/zip -o "../p5mirror-jht1493/downloads/zips/bubble image rect.zip"
+echo bubble image rect copy
+curl -s https://editor.p5js.org/editor/projects/xEXvpYqnl/zip -o "../p5mirror-jht1493/downloads/zips/bubble image rect copy.zip"
+echo bubble more
+curl -s https://editor.p5js.org/editor/projects/HXigwa2k-/zip -o "../p5mirror-jht1493/downloads/zips/bubble more.zip"
+echo bubble more  2
+curl -s https://editor.p5js.org/editor/projects/4uA4sRrChV/zip -o "../p5mirror-jht1493/downloads/zips/bubble more  2.zip"
+echo bubble more 3
+curl -s https://editor.p5js.org/editor/projects/gAkEJymjw/zip -o "../p5mirror-jht1493/downloads/zips/bubble more 3.zip"
+echo bubble more 4
+curl -s https://editor.p5js.org/editor/projects/72p-8O7XL/zip -o "../p5mirror-jht1493/downloads/zips/bubble more 4.zip"
+echo bubble video
+curl -s https://editor.p5js.org/editor/projects/oyPmMC3IJ/zip -o "../p5mirror-jht1493/downloads/zips/bubble video.zip"
+echo bubbles array
+curl -s https://editor.p5js.org/editor/projects/DnKlGQ-sf/zip -o "../p5mirror-jht1493/downloads/zips/bubbles array.zip"
+echo button slider checkbox ui
+curl -s https://editor.p5js.org/editor/projects/mdhUP_wTu/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui.zip"
+echo button slider checkbox ui bounce
+curl -s https://editor.p5js.org/editor/projects/JJYodcgBj/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui bounce.zip"
+echo button slider checkbox ui copy
+curl -s https://editor.p5js.org/editor/projects/4ywVn2-7b/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui copy.zip"
+echo button slider checkbox ui crawl
+curl -s https://editor.p5js.org/editor/projects/xJKkrcK6D/zip -o "../p5mirror-jht1493/downloads/zips/button slider checkbox ui crawl.zip"
+echo button switch
+curl -s https://editor.p5js.org/editor/projects/hdhJJD1Dl/zip -o "../p5mirror-jht1493/downloads/zips/button switch.zip"
+echo button switch
+curl -s https://editor.p5js.org/editor/projects/AAm-Tm0Ka/zip -o "../p5mirror-jht1493/downloads/zips/button switch.zip"
+echo button switch mousePressed
+curl -s https://editor.p5js.org/editor/projects/yGazF-FCy/zip -o "../p5mirror-jht1493/downloads/zips/button switch mousePressed.zip"
+echo Cabana 3: Hilbert Curve copy
+curl -s https://editor.p5js.org/editor/projects/dA78VBdNm/zip -o "../p5mirror-jht1493/downloads/zips/Cabana 3: Hilbert Curve copy.zip"
+echo Cabana! - Worley Noise Port copy
+curl -s https://editor.p5js.org/editor/projects/sKCQu1O5g/zip -o "../p5mirror-jht1493/downloads/zips/Cabana! - Worley Noise Port copy.zip"
+echo camera by yvonne
+curl -s https://editor.p5js.org/editor/projects/gsfnI1XqA/zip -o "../p5mirror-jht1493/downloads/zips/camera by yvonne.zip"
+echo Canvas Record to Video -buts
+curl -s https://editor.p5js.org/editor/projects/AnPN6baGO/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video -buts.zip"
+echo Canvas Record to Video Key Press
+curl -s https://editor.p5js.org/editor/projects/Zks2EoELT/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video Key Press.zip"
+echo Canvas Record to Video Key Press mp4
+curl -s https://editor.p5js.org/editor/projects/0NEqTnjBg/zip -o "../p5mirror-jht1493/downloads/zips/Canvas Record to Video Key Press mp4.zip"
+echo capture invert mediaDevices.enumerateDevices
+curl -s https://editor.p5js.org/editor/projects/Z3_BqOmus/zip -o "../p5mirror-jht1493/downloads/zips/capture invert mediaDevices.enumerateDevices.zip"
+echo Cat color picker copy
+curl -s https://editor.p5js.org/editor/projects/eYRHQvaQV/zip -o "../p5mirror-jht1493/downloads/zips/Cat color picker copy.zip"
+echo CC  50 Circle Packing Basic
+curl -s https://editor.p5js.org/editor/projects/hqgMiQ6HZ/zip -o "../p5mirror-jht1493/downloads/zips/CC  50 Circle Packing Basic.zip"
+echo CC 130.3: Drawing with Fourier Transform and Epicycles copy
+curl -s https://editor.p5js.org/editor/projects/VFsftJocG/zip -o "../p5mirror-jht1493/downloads/zips/CC 130.3: Drawing with Fourier Transform and Epicycles copy.zip"
+echo CC 130.3: User Drawing with Fourier Transform and Epicycle copy
+curl -s https://editor.p5js.org/editor/projects/F6inBLXvc/zip -o "../p5mirror-jht1493/downloads/zips/CC 130.3: User Drawing with Fourier Transform and Epicycle copy.zip"
+echo CC 143: QuickSort Visualization copy
+curl -s https://editor.p5js.org/editor/projects/FJRHfNv6a/zip -o "../p5mirror-jht1493/downloads/zips/CC 143: QuickSort Visualization copy.zip"
+echo CC 167: Prime (Ulam) Spiral copy
+curl -s https://editor.p5js.org/editor/projects/IY3XrOjnX/zip -o "../p5mirror-jht1493/downloads/zips/CC 167: Prime (Ulam) Spiral copy.zip"
+echo CC 58 - Earthquake Visualization 3D copy
+curl -s https://editor.p5js.org/editor/projects/CAJz58Up0/zip -o "../p5mirror-jht1493/downloads/zips/CC 58 - Earthquake Visualization 3D copy.zip"
+echo ccp hello div
+curl -s https://editor.p5js.org/editor/projects/8bR0_MgLU/zip -o "../p5mirror-jht1493/downloads/zips/ccp hello div.zip"
+echo ccp x y span
+curl -s https://editor.p5js.org/editor/projects/m7HULxhHV/zip -o "../p5mirror-jht1493/downloads/zips/ccp x y span.zip"
+echo checkbox ui
+curl -s https://editor.p5js.org/editor/projects/0biWSEZBr/zip -o "../p5mirror-jht1493/downloads/zips/checkbox ui.zip"
+echo checkbox ui text
+curl -s https://editor.p5js.org/editor/projects/Z646Pkcmf/zip -o "../p5mirror-jht1493/downloads/zips/checkbox ui text.zip"
+echo Checker protoceratops copy Martha
+curl -s https://editor.p5js.org/editor/projects/GwSvgjIjD/zip -o "../p5mirror-jht1493/downloads/zips/Checker protoceratops copy Martha.zip"
+echo Chrome path
+curl -s https://editor.p5js.org/editor/projects/mwPNPy0DV/zip -o "../p5mirror-jht1493/downloads/zips/Chrome path.zip"
+echo circle func
+curl -s https://editor.p5js.org/editor/projects/sPa32siCE/zip -o "../p5mirror-jht1493/downloads/zips/circle func.zip"
+echo Circle Packing Data Visualization
+curl -s https://editor.p5js.org/editor/projects/uQPlEmzD4/zip -o "../p5mirror-jht1493/downloads/zips/Circle Packing Data Visualization.zip"
+echo circle rollover
+curl -s https://editor.p5js.org/editor/projects/L9A3pC14KD/zip -o "../p5mirror-jht1493/downloads/zips/circle rollover.zip"
+echo circles black pie
+curl -s https://editor.p5js.org/editor/projects/xZGAWtzf_/zip -o "../p5mirror-jht1493/downloads/zips/circles black pie.zip"
+echo circles black waves
+curl -s https://editor.p5js.org/editor/projects/XnsQ-CAuV/zip -o "../p5mirror-jht1493/downloads/zips/circles black waves.zip"
+echo circles grid
+curl -s https://editor.p5js.org/editor/projects/nvxYpsYW9/zip -o "../p5mirror-jht1493/downloads/zips/circles grid.zip"
+echo circles grid center
+curl -s https://editor.p5js.org/editor/projects/8NgeQUnlb/zip -o "../p5mirror-jht1493/downloads/zips/circles grid center.zip"
+echo circles in the mix
+curl -s https://editor.p5js.org/editor/projects/jAvVW37Mm/zip -o "../p5mirror-jht1493/downloads/zips/circles in the mix.zip"
+echo circles in the mix copy
+curl -s https://editor.p5js.org/editor/projects/3AjpPOYZR/zip -o "../p5mirror-jht1493/downloads/zips/circles in the mix copy.zip"
+echo circles waves jiggle
+curl -s https://editor.p5js.org/editor/projects/6m4rTU_M1/zip -o "../p5mirror-jht1493/downloads/zips/circles waves jiggle.zip"
+echo circles waves jiggle2
+curl -s https://editor.p5js.org/editor/projects/QvWMvdsPN/zip -o "../p5mirror-jht1493/downloads/zips/circles waves jiggle2.zip"
+echo circleX buttons
+curl -s https://editor.p5js.org/editor/projects/L55nCCMds/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons.zip"
+echo circleX buttons copy
+curl -s https://editor.p5js.org/editor/projects/zciALH5y7/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons copy.zip"
+echo circleX buttons random
+curl -s https://editor.p5js.org/editor/projects/AJxU3gRhX/zip -o "../p5mirror-jht1493/downloads/zips/circleX buttons random.zip"
+echo circleX circleY
+curl -s https://editor.p5js.org/editor/projects/LpHeTo9Hl/zip -o "../p5mirror-jht1493/downloads/zips/circleX circleY.zip"
+echo circleX color RGY
+curl -s https://editor.p5js.org/editor/projects/fBRX-mrpK/zip -o "../p5mirror-jht1493/downloads/zips/circleX color RGY.zip"
+echo circleX follow
+curl -s https://editor.p5js.org/editor/projects/S6fXsaBIi/zip -o "../p5mirror-jht1493/downloads/zips/circleX follow.zip"
+echo circleX function color
+curl -s https://editor.p5js.org/editor/projects/fMPYX-fAP/zip -o "../p5mirror-jht1493/downloads/zips/circleX function color.zip"
+echo circleX function gray
+curl -s https://editor.p5js.org/editor/projects/7VFns9ZeO/zip -o "../p5mirror-jht1493/downloads/zips/circleX function gray.zip"
+echo circleX functions
+curl -s https://editor.p5js.org/editor/projects/fyP4ju0xO/zip -o "../p5mirror-jht1493/downloads/zips/circleX functions.zip"
+echo circleX literal functions
+curl -s https://editor.p5js.org/editor/projects/4JqUtGUGr/zip -o "../p5mirror-jht1493/downloads/zips/circleX literal functions.zip"
+echo circleX modulo
+curl -s https://editor.p5js.org/editor/projects/JVoQAP3aM/zip -o "../p5mirror-jht1493/downloads/zips/circleX modulo.zip"
+echo circleX object literal
+curl -s https://editor.p5js.org/editor/projects/kEX_hk4mU/zip -o "../p5mirror-jht1493/downloads/zips/circleX object literal.zip"
+echo circleX object literal
+curl -s https://editor.p5js.org/editor/projects/0qBB2QGDI/zip -o "../p5mirror-jht1493/downloads/zips/circleX object literal.zip"
+echo circleX random colors
+curl -s https://editor.p5js.org/editor/projects/a60pgYiUH/zip -o "../p5mirror-jht1493/downloads/zips/circleX random colors.zip"
+echo circleX RGY sin
+curl -s https://editor.p5js.org/editor/projects/cdZIz42Tg/zip -o "../p5mirror-jht1493/downloads/zips/circleX RGY sin.zip"
+echo click add emojis
+curl -s https://editor.p5js.org/editor/projects/BAP37QSuU/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis.zip"
+echo click add emojis 2
+curl -s https://editor.p5js.org/editor/projects/oZDS4nH9_/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis 2.zip"
+echo click add emojis copy copy
+curl -s https://editor.p5js.org/editor/projects/VtjqKtqcva/zip -o "../p5mirror-jht1493/downloads/zips/click add emojis copy copy.zip"
+echo Clock Example create HTML
+curl -s https://editor.p5js.org/editor/projects/-rQHj1CuO/zip -o "../p5mirror-jht1493/downloads/zips/Clock Example create HTML.zip"
+echo Cloud llama
+curl -s https://editor.p5js.org/editor/projects/lrueYOywL/zip -o "../p5mirror-jht1493/downloads/zips/Cloud llama.zip"
+echo color wheel copy
+curl -s https://editor.p5js.org/editor/projects/BryZ91oyE/zip -o "../p5mirror-jht1493/downloads/zips/color wheel copy.zip"
+echo colorStatic atan2
+curl -s https://editor.p5js.org/editor/projects/o9KEFZUn5/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic atan2.zip"
+echo colorStatic atan2 copy
+curl -s https://editor.p5js.org/editor/projects/Ebcdo343S/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic atan2 copy.zip"
+echo colorStatic copy
+curl -s https://editor.p5js.org/editor/projects/30dweO9wH/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic copy.zip"
+echo colorStatic palette
+curl -s https://editor.p5js.org/editor/projects/6GCfKvsa0/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette.zip"
+echo colorStatic palette b&w
+curl -s https://editor.p5js.org/editor/projects/aIkprDmvE/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette b&w.zip"
+echo colorStatic palette cycle
+curl -s https://editor.p5js.org/editor/projects/NAR9EQClS/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette cycle.zip"
+echo colorStatic palette random
+curl -s https://editor.p5js.org/editor/projects/HTdz1JPYt/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic palette random.zip"
+echo colorStatic params tri
+curl -s https://editor.p5js.org/editor/projects/OjFp7LJal/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic params tri.zip"
+echo colorStatic phil
+curl -s https://editor.p5js.org/editor/projects/n_zvA2EKy/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil.zip"
+echo colorStatic phil
+curl -s https://editor.p5js.org/editor/projects/r_zIK6Lzq/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil.zip"
+echo colorStatic phil 1
+curl -s https://editor.p5js.org/editor/projects/dQCZcdZeF/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 1.zip"
+echo colorStatic phil 1+2
+curl -s https://editor.p5js.org/editor/projects/2IDU14m7l/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 1+2.zip"
+echo colorStatic phil 2
+curl -s https://editor.p5js.org/editor/projects/F67uk8ECO/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 2.zip"
+echo colorStatic phil 3
+curl -s https://editor.p5js.org/editor/projects/cGHTTVLrE/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 3.zip"
+echo colorStatic phil 4
+curl -s https://editor.p5js.org/editor/projects/9Hd63CfHU/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 4.zip"
+echo colorStatic phil 5
+curl -s https://editor.p5js.org/editor/projects/mGHzRtrAY/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 5.zip"
+echo colorStatic phil 6
+curl -s https://editor.p5js.org/editor/projects/wa5kuto6z/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil 6.zip"
+echo colorStatic phil center
+curl -s https://editor.p5js.org/editor/projects/qF7z4cuAo/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil center.zip"
+echo colorStatic phil offset
+curl -s https://editor.p5js.org/editor/projects/snwcCeg7Z/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil offset.zip"
+echo colorStatic phil window
+curl -s https://editor.p5js.org/editor/projects/5Z8PupEcj/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic phil window.zip"
+echo colorStatic rotate 2
+curl -s https://editor.p5js.org/editor/projects/zQ-xxTzzC/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate 2.zip"
+echo colorStatic rotate 2 copy
+curl -s https://editor.p5js.org/editor/projects/6SClEmfGf/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate 2 copy.zip"
+echo colorStatic rotate tri
+curl -s https://editor.p5js.org/editor/projects/ti2GL9ATx/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate tri.zip"
+echo colorStatic rotate tri equ
+curl -s https://editor.p5js.org/editor/projects/c9xZjuOHy/zip -o "../p5mirror-jht1493/downloads/zips/colorStatic rotate tri equ.zip"
+echo console draw
+curl -s https://editor.p5js.org/editor/projects/o15frkWaK/zip -o "../p5mirror-jht1493/downloads/zips/console draw.zip"
+echo console.log xy
+curl -s https://editor.p5js.org/editor/projects/FC7819xZR/zip -o "../p5mirror-jht1493/downloads/zips/console.log xy.zip"
+echo covid-19-deaths a_refs
+curl -s https://editor.p5js.org/editor/projects/w83LHBCUr/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths a_refs.zip"
+echo covid-19-deaths filter
+curl -s https://editor.p5js.org/editor/projects/ODMtGGhoy/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths filter.zip"
+echo covid-19-deaths filter gallery
+curl -s https://editor.p5js.org/editor/projects/lRLDKTQeb/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths filter gallery.zip"
+echo covid-19-deaths gallery
+curl -s https://editor.p5js.org/editor/projects/Ve1OPks2j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery.zip"
+echo covid-19-deaths gallery createGraphics
+curl -s https://editor.p5js.org/editor/projects/I1eSgBG_5/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery createGraphics.zip"
+echo covid-19-deaths gallery delay
+curl -s https://editor.p5js.org/editor/projects/dbSuzokZn/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery delay.zip"
+echo covid-19-deaths gallery image
+curl -s https://editor.p5js.org/editor/projects/twRpJN1-1/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths gallery image.zip"
+echo covid-19-deaths nyc img
+curl -s https://editor.p5js.org/editor/projects/9e8IcjYo9/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths nyc img.zip"
+echo covid-19-deaths pixels
+curl -s https://editor.p5js.org/editor/projects/jXNNPay9j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths pixels.zip"
+echo covid-19-deaths preload
+curl -s https://editor.p5js.org/editor/projects/cEeJ_nWDp/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload.zip"
+echo covid-19-deaths preload 2
+curl -s https://editor.p5js.org/editor/projects/rsz4qh0RZ/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload 2.zip"
+echo covid-19-deaths preload 2x
+curl -s https://editor.p5js.org/editor/projects/TVzpchW3j/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload 2x.zip"
+echo covid-19-deaths preload pixel
+curl -s https://editor.p5js.org/editor/projects/fZiL4m1fM/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths preload pixel.zip"
+echo covid-19-deaths tint img
+curl -s https://editor.p5js.org/editor/projects/Ehm3wAw9a/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths tint img.zip"
+echo covid-19-deaths tint imgs
+curl -s https://editor.p5js.org/editor/projects/z_nwk75pm/zip -o "../p5mirror-jht1493/downloads/zips/covid-19-deaths tint imgs.zip"
+echo create_button
+curl -s https://editor.p5js.org/editor/projects/VZd9PSeU8/zip -o "../p5mirror-jht1493/downloads/zips/create_button.zip"
+echo create_checkbox
+curl -s https://editor.p5js.org/editor/projects/TbplyHzYm/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox.zip"
+echo create_checkbox grid
+curl -s https://editor.p5js.org/editor/projects/t4r8ygQ1n/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid.zip"
+echo create_checkbox grid
+curl -s https://editor.p5js.org/editor/projects/SKeY2q3MI/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid.zip"
+echo create_checkbox grid copy
+curl -s https://editor.p5js.org/editor/projects/XfJlda19s/zip -o "../p5mirror-jht1493/downloads/zips/create_checkbox grid copy.zip"
+echo create_slider
+curl -s https://editor.p5js.org/editor/projects/uVs5gdY_3/zip -o "../p5mirror-jht1493/downloads/zips/create_slider.zip"
+echo createButton draw _shapes
+curl -s https://editor.p5js.org/editor/projects/1HRbbpwEK/zip -o "../p5mirror-jht1493/downloads/zips/createButton draw _shapes.zip"
+echo createButton draw _shapes inline
+curl -s https://editor.p5js.org/editor/projects/cJPelGG4z/zip -o "../p5mirror-jht1493/downloads/zips/createButton draw _shapes inline.zip"
+echo createCapture
+curl -s https://editor.p5js.org/editor/projects/F_uu2OQ8m/zip -o "../p5mirror-jht1493/downloads/zips/createCapture.zip"
+echo createSpan select mouse
+curl -s https://editor.p5js.org/editor/projects/uQuR5K5ul/zip -o "../p5mirror-jht1493/downloads/zips/createSpan select mouse.zip"
+echo Custom Pixel Filter by Adnan -remix jht
+curl -s https://editor.p5js.org/editor/projects/PqIlRqqK-/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht.zip"
+echo Custom Pixel Filter by Adnan -remix jht get
+curl -s https://editor.p5js.org/editor/projects/5bG8mUq7s/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht get.zip"
+echo Custom Pixel Filter by Adnan -remix jht reload
+curl -s https://editor.p5js.org/editor/projects/I9DYfqQUx/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht reload.zip"
+echo Custom Pixel Filter by Adnan -remix jht reverse
+curl -s https://editor.p5js.org/editor/projects/1bfbJLbyM/zip -o "../p5mirror-jht1493/downloads/zips/Custom Pixel Filter by Adnan -remix jht reverse.zip"
+echo Dairo copy
+curl -s https://editor.p5js.org/editor/projects/gH1IL7CIL/zip -o "../p5mirror-jht1493/downloads/zips/Dairo copy.zip"
+echo delete from array
+curl -s https://editor.p5js.org/editor/projects/TCx3dZ1qF/zip -o "../p5mirror-jht1493/downloads/zips/delete from array.zip"
+echo Do-Ra-Me 1
+curl -s https://editor.p5js.org/editor/projects/0sWWNHDSA/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me 1.zip"
+echo Do-Ra-Me a_index
+curl -s https://editor.p5js.org/editor/projects/S0Vzkc26f/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me a_index.zip"
+echo Do-Ra-Me cue
+curl -s https://editor.p5js.org/editor/projects/BX1hj-IOH/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me cue.zip"
+echo Do-Ra-Me cue hsb
+curl -s https://editor.p5js.org/editor/projects/nbw5HSR-r/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me cue hsb.zip"
+echo Do-Ra-Me image
+curl -s https://editor.p5js.org/editor/projects/P8hThYYZU/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me image.zip"
+echo Do-Ra-Me image video
+curl -s https://editor.p5js.org/editor/projects/IgdWIIGYk/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me image video.zip"
+echo Do-Ra-Me key
+curl -s https://editor.p5js.org/editor/projects/b_lj_27Cl/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me key.zip"
+echo Do-Ra-Me video button
+curl -s https://editor.p5js.org/editor/projects/7QR8AZteU/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me video button.zip"
+echo Do-Ra-Me video time
+curl -s https://editor.p5js.org/editor/projects/S0ru5wsz1/zip -o "../p5mirror-jht1493/downloads/zips/Do-Ra-Me video time.zip"
+echo double createCanvas
+curl -s https://editor.p5js.org/editor/projects/7ysqaUmat/zip -o "../p5mirror-jht1493/downloads/zips/double createCanvas.zip"
+echo DRAFT VINYL YEAY copy
+curl -s https://editor.p5js.org/editor/projects/bI08VwK4F/zip -o "../p5mirror-jht1493/downloads/zips/DRAFT VINYL YEAY copy.zip"
+echo draw fem mon matrix a_sin midba
+curl -s https://editor.p5js.org/editor/projects/0KfIEvd6M/zip -o "../p5mirror-jht1493/downloads/zips/draw fem mon matrix a_sin midba.zip"
+echo draw_bars color
+curl -s https://editor.p5js.org/editor/projects/a3VD0HYqD/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars color.zip"
+echo draw_bars_trans
+curl -s https://editor.p5js.org/editor/projects/1YDCvhA1Y/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars_trans.zip"
+echo draw_bars_ui
+curl -s https://editor.p5js.org/editor/projects/Tiu0zz1NE/zip -o "../p5mirror-jht1493/downloads/zips/draw_bars_ui.zip"
+echo draw_circle
+curl -s https://editor.p5js.org/editor/projects/2XBYYYuR0/zip -o "../p5mirror-jht1493/downloads/zips/draw_circle.zip"
+echo draw_circle parameters
+curl -s https://editor.p5js.org/editor/projects/sMmLjkBNr/zip -o "../p5mirror-jht1493/downloads/zips/draw_circle parameters.zip"
+echo draw_fem mon
+curl -s https://editor.p5js.org/editor/projects/I7OFtFR8K/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon.zip"
+echo draw_fem mon matrix
+curl -s https://editor.p5js.org/editor/projects/BPBunRg2H/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix.zip"
+echo draw_fem mon matrix a_sin
+curl -s https://editor.p5js.org/editor/projects/9tCw0wz7K/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix a_sin.zip"
+echo draw_fem mon matrix spin
+curl -s https://editor.p5js.org/editor/projects/PCXJkfLz5/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon matrix spin.zip"
+echo draw_fem mon row
+curl -s https://editor.p5js.org/editor/projects/9Cy8EX8iO/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem mon row.zip"
+echo draw_fem rotate
+curl -s https://editor.p5js.org/editor/projects/R2Rdoodqo/zip -o "../p5mirror-jht1493/downloads/zips/draw_fem rotate.zip"
+echo draw_mon alpha
+curl -s https://editor.p5js.org/editor/projects/3aQA0hvkt/zip -o "../p5mirror-jht1493/downloads/zips/draw_mon alpha.zip"
+echo draw_rect_circle alpha ui
+curl -s https://editor.p5js.org/editor/projects/OBn_OLAQR/zip -o "../p5mirror-jht1493/downloads/zips/draw_rect_circle alpha ui.zip"
+echo draw_rect_circle alpha ui yellow
+curl -s https://editor.p5js.org/editor/projects/k2Fsi7Mf8/zip -o "../p5mirror-jht1493/downloads/zips/draw_rect_circle alpha ui yellow.zip"
+echo Drawing - Franka copy
+curl -s https://editor.p5js.org/editor/projects/Me1xZ9lB2/zip -o "../p5mirror-jht1493/downloads/zips/Drawing - Franka copy.zip"
+echo drawingContext
+curl -s https://editor.p5js.org/editor/projects/hi0VnviuM/zip -o "../p5mirror-jht1493/downloads/zips/drawingContext.zip"
+echo EditedPattern_Sackona Fitts_JHT copy copy
+curl -s https://editor.p5js.org/editor/projects/EpSAkOH-S/zip -o "../p5mirror-jht1493/downloads/zips/EditedPattern_Sackona Fitts_JHT copy copy.zip"
+echo ellen draw_ellen
+curl -s https://editor.p5js.org/editor/projects/rippEV0ozt/zip -o "../p5mirror-jht1493/downloads/zips/ellen draw_ellen.zip"
+echo ellen funcs
+curl -s https://editor.p5js.org/editor/projects/gov67__9a/zip -o "../p5mirror-jht1493/downloads/zips/ellen funcs.zip"
+echo ellen funcs xy
+curl -s https://editor.p5js.org/editor/projects/9YeBcurXF/zip -o "../p5mirror-jht1493/downloads/zips/ellen funcs xy.zip"
+echo ellen portait
+curl -s https://editor.p5js.org/editor/projects/RVIinGe-a/zip -o "../p5mirror-jht1493/downloads/zips/ellen portait.zip"
+echo equi tri outer
+curl -s https://editor.p5js.org/editor/projects/fKjZzKKa_/zip -o "../p5mirror-jht1493/downloads/zips/equi tri outer.zip"
+echo equi tri outer up
+curl -s https://editor.p5js.org/editor/projects/g5i95Hu9X/zip -o "../p5mirror-jht1493/downloads/zips/equi tri outer up.zip"
+echo equilateral triangle
+curl -s https://editor.p5js.org/editor/projects/3hFPYL_iN/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle.zip"
+echo equilateral triangle 1
+curl -s https://editor.p5js.org/editor/projects/YASpcwoU6/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 1.zip"
+echo equilateral triangle 2
+curl -s https://editor.p5js.org/editor/projects/EQ358regq/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 2.zip"
+echo equilateral triangle 3
+curl -s https://editor.p5js.org/editor/projects/vWOGDaD2L/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 3.zip"
+echo equilateral triangle 4
+curl -s https://editor.p5js.org/editor/projects/6sZcRuRm0/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 4.zip"
+echo equilateral triangle 5
+curl -s https://editor.p5js.org/editor/projects/AV1E_641U/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 5.zip"
+echo equilateral triangle 6
+curl -s https://editor.p5js.org/editor/projects/yxDWkjIqf/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 6.zip"
+echo equilateral triangle 6 copy
+curl -s https://editor.p5js.org/editor/projects/MYU4NFxi_/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle 6 copy.zip"
+echo equilateral triangle line
+curl -s https://editor.p5js.org/editor/projects/o9h-uYNEl/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle line.zip"
+echo equilateral triangle shape
+curl -s https://editor.p5js.org/editor/projects/cD9r2BqJH/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle shape.zip"
+echo equilateral triangle shape 1
+curl -s https://editor.p5js.org/editor/projects/LQRenV_hX/zip -o "../p5mirror-jht1493/downloads/zips/equilateral triangle shape 1.zip"
+echo erase circle
+curl -s https://editor.p5js.org/editor/projects/hT5cPJ9Oc/zip -o "../p5mirror-jht1493/downloads/zips/erase circle.zip"
+echo erase webgl torus
+curl -s https://editor.p5js.org/editor/projects/4-nCBcbO4/zip -o "../p5mirror-jht1493/downloads/zips/erase webgl torus.zip"
+echo every other blue
+curl -s https://editor.p5js.org/editor/projects/dDRdu1Qca/zip -o "../p5mirror-jht1493/downloads/zips/every other blue.zip"
+echo Ex 5.1 bouncing ball
+curl -s https://editor.p5js.org/editor/projects/MDR4y_0ey/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball.zip"
+echo Ex 5.1 bouncing ball color
+curl -s https://editor.p5js.org/editor/projects/4XHAe1BM5/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball color.zip"
+echo Ex 5.1 bouncing ball function
+curl -s https://editor.p5js.org/editor/projects/rwosDvy8s/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball function.zip"
+echo Ex 5.1 bouncing ball speed
+curl -s https://editor.p5js.org/editor/projects/HsQDi5mPF/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.1 bouncing ball speed.zip"
+echo Ex 5.2 bouncing ball array
+curl -s https://editor.p5js.org/editor/projects/W9-irZBQj/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.2 bouncing ball array.zip"
+echo Ex 5.2 bouncing ball two
+curl -s https://editor.p5js.org/editor/projects/CrWz1PalX/zip -o "../p5mirror-jht1493/downloads/zips/Ex 5.2 bouncing ball two.zip"
+echo Ex 6.2 JitterBug
+curl -s https://editor.p5js.org/editor/projects/UfXdsZAHU/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug.zip"
+echo Ex 6.2 JitterBug clamped
+curl -s https://editor.p5js.org/editor/projects/OLgbWg-a0/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug clamped.zip"
+echo Ex 6.2 JitterBug drag
+curl -s https://editor.p5js.org/editor/projects/AKpx2vF1U/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug drag.zip"
+echo Ex 6.2 JitterBug limit
+curl -s https://editor.p5js.org/editor/projects/fcsUMY4C6/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug limit.zip"
+echo Ex 6.2 JitterBug line
+curl -s https://editor.p5js.org/editor/projects/wYka9ilXw/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug line.zip"
+echo Ex 6.2 JitterBug pen
+curl -s https://editor.p5js.org/editor/projects/d9t-YSfY3/zip -o "../p5mirror-jht1493/downloads/zips/Ex 6.2 JitterBug pen.zip"
+echo Ex_02_01 Draw an Ellipse
+curl -s https://editor.p5js.org/editor/projects/1jYHAXZRF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_01 Draw an Ellipse.zip"
+echo Ex_02_02 Make Circles
+curl -s https://editor.p5js.org/editor/projects/Cc8MICNun/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_02 Make Circles.zip"
+echo Ex_02_02 Make Circles mouseIsPressed
+curl -s https://editor.p5js.org/editor/projects/un2SAKRVm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_02_02 Make Circles mouseIsPressed.zip"
+echo Ex_03_04 quad tri
+curl -s https://editor.p5js.org/editor/projects/4ru5A30iE/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_04 quad tri.zip"
+echo Ex_03_06 circles touch
+curl -s https://editor.p5js.org/editor/projects/R0o3EvVOC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_06 circles touch.zip"
+echo Ex_03_09 arcs
+curl -s https://editor.p5js.org/editor/projects/lj5UimD1G/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_09 arcs.zip"
+echo Ex_03_17 alpha circles
+curl -s https://editor.p5js.org/editor/projects/sxI2SjRrh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_17 alpha circles.zip"
+echo Ex_03_19 beginShape
+curl -s https://editor.p5js.org/editor/projects/xFElx4UBj/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_19 beginShape.zip"
+echo Ex_03_20 Two Creatures
+curl -s https://editor.p5js.org/editor/projects/mPX1b9278/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures.zip"
+echo Ex_03_20 Two Creatures copy
+curl -s https://editor.p5js.org/editor/projects/ZI69-U4Rq/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures copy.zip"
+echo Ex_03_20 Two Creatures ui
+curl -s https://editor.p5js.org/editor/projects/MLzEHAnCh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_20 Two Creatures ui.zip"
+echo Ex_03_99 Robot 1: Draw
+curl -s https://editor.p5js.org/editor/projects/0EzMYSpky/zip -o "../p5mirror-jht1493/downloads/zips/Ex_03_99 Robot 1: Draw.zip"
+echo Ex_04_01 Reuse the Same Values
+curl -s https://editor.p5js.org/editor/projects/jcN0Maxum/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_01 Reuse the Same Values.zip"
+echo Ex_04_02 Change Values
+curl -s https://editor.p5js.org/editor/projects/Y2Qra2W_N/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_02 Change Values.zip"
+echo Ex_04_03 Adjust the Canvas
+curl -s https://editor.p5js.org/editor/projects/T4ufWkYjs/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_03 Adjust the Canvas.zip"
+echo Ex_04_04 Basic Arithmetic
+curl -s https://editor.p5js.org/editor/projects/Eg01Z5WpY/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_04 Basic Arithmetic.zip"
+echo Ex_04_05 Do the Same
+curl -s https://editor.p5js.org/editor/projects/nUqcuwlY9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_05 Do the Same.zip"
+echo Ex_04_05 Do the Same ui
+curl -s https://editor.p5js.org/editor/projects/pRo9UmATV/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_05 Do the Same ui.zip"
+echo Ex_04_06 Use a for Loop
+curl -s https://editor.p5js.org/editor/projects/h0eBcXsIC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_06 Use a for Loop.zip"
+echo Ex_04_07 Flex Your for Loop’s
+curl -s https://editor.p5js.org/editor/projects/oVh1WhBVI/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_07 Flex Your for Loop’s.zip"
+echo Ex_04_08 Fanning Out the Lines
+curl -s https://editor.p5js.org/editor/projects/Zxxj1cjH9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_08 Fanning Out the Lines.zip"
+echo Ex_04_09 Kinking the Lines
+curl -s https://editor.p5js.org/editor/projects/o_7ocEFZ8/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_09 Kinking the Lines.zip"
+echo Ex_04_10 Embed for Loop
+curl -s https://editor.p5js.org/editor/projects/bFe6Hk45R/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_10 Embed for Loop.zip"
+echo Ex_04_11 Rows and Columns
+curl -s https://editor.p5js.org/editor/projects/SemvF_Fht/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_11 Rows and Columns.zip"
+echo Ex_04_12 Pins and Lines
+curl -s https://editor.p5js.org/editor/projects/u15OM3OHP/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_12 Pins and Lines.zip"
+echo Ex_04_13 Halftone Dots
+curl -s https://editor.p5js.org/editor/projects/GO50HlzHN/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_13 Halftone Dots.zip"
+echo Ex_04_13 Halftone Dots -topleft
+curl -s https://editor.p5js.org/editor/projects/kEyYmVtg-/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_13 Halftone Dots -topleft.zip"
+echo Ex_04_99 Robot 2: func jiggle
+curl -s https://editor.p5js.org/editor/projects/D3QUVpQhx/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: func jiggle.zip"
+echo Ex_04_99 Robot 2: Variable func
+curl -s https://editor.p5js.org/editor/projects/cyyCJGXOz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: Variable func.zip"
+echo Ex_04_99 Robot 2: Variables
+curl -s https://editor.p5js.org/editor/projects/mJ_X4q47O/zip -o "../p5mirror-jht1493/downloads/zips/Ex_04_99 Robot 2: Variables.zip"
+echo Ex_05_01 frameCount
+curl -s https://editor.p5js.org/editor/projects/QrE5pO6E9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_01 frameCount.zip"
+echo Ex_05_01 frameCount one line
+curl -s https://editor.p5js.org/editor/projects/COpuZeeYq/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_01 frameCount one line.zip"
+echo Ex_05_02 setup draw
+curl -s https://editor.p5js.org/editor/projects/rts0Rja8o/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_02 setup draw.zip"
+echo Ex_05_03 setup, Meet draw
+curl -s https://editor.p5js.org/editor/projects/T04uHthwa/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_03 setup, Meet draw.zip"
+echo Ex_05_04 Track the Mouse
+curl -s https://editor.p5js.org/editor/projects/4pysTdayc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_04 Track the Mouse.zip"
+echo Ex_05_05  The Dot Follows You
+curl -s https://editor.p5js.org/editor/projects/rc_stJwOF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_05  The Dot Follows You.zip"
+echo Ex_05_06 Draw Continuously
+curl -s https://editor.p5js.org/editor/projects/d2VusUGT4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_06 Draw Continuously.zip"
+echo Ex_05_07 Set Thickness on the Fly
+curl -s https://editor.p5js.org/editor/projects/H9EaSl2Sh/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_07 Set Thickness on the Fly.zip"
+echo Ex_05_07 Set Thickness on the Fly color
+curl -s https://editor.p5js.org/editor/projects/t0APMYmVw/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_07 Set Thickness on the Fly color.zip"
+echo Ex_05_08 Easing Does It
+curl -s https://editor.p5js.org/editor/projects/kdszl3wkF/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_08 Easing Does It.zip"
+echo Ex_05_08 Easing Does It XXX
+curl -s https://editor.p5js.org/editor/projects/Lr-KEd_IT/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_08 Easing Does It XXX.zip"
+echo Ex_05_09 Smooth Lines with Easing
+curl -s https://editor.p5js.org/editor/projects/TZ5FwWXoW/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_09 Smooth Lines with Easing.zip"
+echo Ex_05_10 Click the Mouse
+curl -s https://editor.p5js.org/editor/projects/ptw9C5yOQ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_10 Click the Mouse.zip"
+echo Ex_05_11 Detect When Not Clicked
+curl -s https://editor.p5js.org/editor/projects/hV0JF0uwo/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_11 Detect When Not Clicked.zip"
+echo Ex_05_12 Multiple Mouse Buttons
+curl -s https://editor.p5js.org/editor/projects/PQdxi8L_T/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_12 Multiple Mouse Buttons.zip"
+echo Ex_05_13 Find the Cursor
+curl -s https://editor.p5js.org/editor/projects/Im7tJDFJM/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_13 Find the Cursor.zip"
+echo Ex_05_14 The Bounds of a Circle
+curl -s https://editor.p5js.org/editor/projects/tPX6MmuEk/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle.zip"
+echo Ex_05_14 The Bounds of a Circle copy
+curl -s https://editor.p5js.org/editor/projects/SOF3GGGVn/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle copy.zip"
+echo Ex_05_14 The Bounds of a Circle obj
+curl -s https://editor.p5js.org/editor/projects/ctwjs9TcL/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle obj.zip"
+echo Ex_05_14 The Bounds of a Circle pulse
+curl -s https://editor.p5js.org/editor/projects/nPTnXZD3c/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_14 The Bounds of a Circle pulse.zip"
+echo Ex_05_15 The Bounds of a Rectangle
+curl -s https://editor.p5js.org/editor/projects/MV2Ifxtaz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_15 The Bounds of a Rectangle.zip"
+echo Ex_05_16 Tap a Key
+curl -s https://editor.p5js.org/editor/projects/UNsRwHJVQ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_16 Tap a Key.zip"
+echo Ex_05_17 Draw Some Letters
+curl -s https://editor.p5js.org/editor/projects/vdHJ835F4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_17 Draw Some Letters.zip"
+echo Ex_05_18 Check for Specific Keys
+curl -s https://editor.p5js.org/editor/projects/HQ4rz3iDt/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_18 Check for Specific Keys.zip"
+echo Ex_05_19 Move with Arrow Keys
+curl -s https://editor.p5js.org/editor/projects/kbaJEPxF5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_19 Move with Arrow Keys.zip"
+echo Ex_05_20 Touch the Screen
+curl -s https://editor.p5js.org/editor/projects/ZnKfzbW_c/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_20 Touch the Screen.zip"
+echo Ex_05_20 Touch the Screen XXX
+curl -s https://editor.p5js.org/editor/projects/lXNH5Z-tA/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_20 Touch the Screen XXX.zip"
+echo Ex_05_21 Track the Finger
+curl -s https://editor.p5js.org/editor/projects/yh4waikxd/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_21 Track the Finger.zip"
+echo Ex_05_22 Map Values to a Range
+curl -s https://editor.p5js.org/editor/projects/BglFnxl3U/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_22 Map Values to a Range.zip"
+echo Ex_05_23 Map with the map Function
+curl -s https://editor.p5js.org/editor/projects/AtqCFY7CC/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_23 Map with the map Function.zip"
+echo Ex_05_99 Robot03_Response
+curl -s https://editor.p5js.org/editor/projects/sWEVGT4bm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_05_99 Robot03_Response.zip"
+echo Ex_06_01 Translating Location
+curl -s https://editor.p5js.org/editor/projects/P2GfFz2Jv/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_01 Translating Location.zip"
+echo Ex_06_02 Multiple Translations
+curl -s https://editor.p5js.org/editor/projects/aNTyhkTAp/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_02 Multiple Translations.zip"
+echo Ex_06_03 Corner Rotation
+curl -s https://editor.p5js.org/editor/projects/7tw-3XmNx/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_03 Corner Rotation.zip"
+echo Ex_06_04 Center Rotation
+curl -s https://editor.p5js.org/editor/projects/-K5nIPw-O/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_04 Center Rotation.zip"
+echo Ex_06_05 Translation Rotation
+curl -s https://editor.p5js.org/editor/projects/dIUreb8Fc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_05 Translation Rotation.zip"
+echo Ex_06_06 Rotation Translation
+curl -s https://editor.p5js.org/editor/projects/f61txC7KZ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_06 Rotation Translation.zip"
+echo Ex_06_07 Articulating Arm
+curl -s https://editor.p5js.org/editor/projects/NqUbfaE2H/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_07 Articulating Arm.zip"
+echo Ex_06_08 Scaling
+curl -s https://editor.p5js.org/editor/projects/TSDh4otF5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_08 Scaling.zip"
+echo Ex_06_09 Strokes Consistent
+curl -s https://editor.p5js.org/editor/projects/Iy6KGB3Wf/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_09 Strokes Consistent.zip"
+echo Ex_06_10 Isolating Transformations
+curl -s https://editor.p5js.org/editor/projects/6vFu9X3jD/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_10 Isolating Transformations.zip"
+echo Ex_06_99 Robot 4: Translate
+curl -s https://editor.p5js.org/editor/projects/yGDQyWCf7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_99 Robot 4: Translate.zip"
+echo Ex_06_99 Robot 4: Translate func
+curl -s https://editor.p5js.org/editor/projects/7TS45L2cA/zip -o "../p5mirror-jht1493/downloads/zips/Ex_06_99 Robot 4: Translate func.zip"
+echo Ex_08_03 Move a Shape
+curl -s https://editor.p5js.org/editor/projects/DJ99paBR7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_03 Move a Shape.zip"
+echo Ex_08_04 Wrap Around
+curl -s https://editor.p5js.org/editor/projects/W_nCg2LI2/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_04 Wrap Around.zip"
+echo Ex_08_05 Bounce Off the Wall
+curl -s https://editor.p5js.org/editor/projects/wJCzyVzBm/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_05 Bounce Off the Wall.zip"
+echo Ex_08_06 Tween
+curl -s https://editor.p5js.org/editor/projects/vJUCok9aU/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_06 Tween.zip"
+echo Ex_08_06 Tween mouse
+curl -s https://editor.p5js.org/editor/projects/W11fu5LhG/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_06 Tween mouse.zip"
+echo Ex_08_08 Draw Randomly
+curl -s https://editor.p5js.org/editor/projects/SmFX6Ioj_/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_08 Draw Randomly.zip"
+echo Ex_08_09 Move Shapes Randomly
+curl -s https://editor.p5js.org/editor/projects/YjFnLREL7/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_09 Move Shapes Randomly.zip"
+echo Ex_08_10 Time Passes
+curl -s https://editor.p5js.org/editor/projects/BoVBnl443/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_10 Time Passes.zip"
+echo Ex_08_11 Triggering Timed
+curl -s https://editor.p5js.org/editor/projects/xADLvN6tz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_11 Triggering Timed.zip"
+echo Ex_08_12 Sine Wave Values
+curl -s https://editor.p5js.org/editor/projects/B4P8dpKW5/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_12 Sine Wave Values.zip"
+echo Ex_08_13 Sine Wave
+curl -s https://editor.p5js.org/editor/projects/U80HMnJYf/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_13 Sine Wave.zip"
+echo Ex_08_14 Circular Motion
+curl -s https://editor.p5js.org/editor/projects/0IZtaK_fH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_14 Circular Motion.zip"
+echo Ex_08_15 Spirals
+curl -s https://editor.p5js.org/editor/projects/nAiwy2Qte/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_15 Spirals.zip"
+echo Ex_08_15 Spirals copy
+curl -s https://editor.p5js.org/editor/projects/076mMnP-F/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_15 Spirals copy.zip"
+echo Ex_08_99 Robot06_Motion
+curl -s https://editor.p5js.org/editor/projects/GD_kzWHeR/zip -o "../p5mirror-jht1493/downloads/zips/Ex_08_99 Robot06_Motion.zip"
+echo Ex_09_01 Roll the Dice
+curl -s https://editor.p5js.org/editor/projects/uetaqd2FH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_01 Roll the Dice.zip"
+echo Ex_09_02 Another Way
+curl -s https://editor.p5js.org/editor/projects/oK-w6sUbz/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_02 Another Way.zip"
+echo Ex_09_03 Draw the Owl
+curl -s https://editor.p5js.org/editor/projects/DdDo_LBJa/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_03 Draw the Owl.zip"
+echo Ex_09_04 Two’s Company
+curl -s https://editor.p5js.org/editor/projects/sa96pUoKH/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_04 Two’s Company.zip"
+echo Ex_09_05 An Owl Function
+curl -s https://editor.p5js.org/editor/projects/NAl5YSdTI_/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_05 An Owl Function.zip"
+echo Ex_09_06 Increasing the Surplus Population
+curl -s https://editor.p5js.org/editor/projects/AVYN7MUVc/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_06 Increasing the Surplus Population.zip"
+echo Ex_09_07 Owls of Different Sizes
+curl -s https://editor.p5js.org/editor/projects/45Cv8Gi4i/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_07 Owls of Different Sizes.zip"
+echo Ex_09_07 Owls of Different Sizes copy
+curl -s https://editor.p5js.org/editor/projects/Hlki31qgs/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_07 Owls of Different Sizes copy.zip"
+echo Ex_09_08 Return a Value
+curl -s https://editor.p5js.org/editor/projects/xAc-jbG9y/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_08 Return a Value.zip"
+echo Ex_09_99 Robot Function
+curl -s https://editor.p5js.org/editor/projects/7QXYp9M8Z/zip -o "../p5mirror-jht1493/downloads/zips/Ex_09_99 Robot Function.zip"
+echo Ex_10_01 Make an Object
+curl -s https://editor.p5js.org/editor/projects/ls9cxovWM/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_01 Make an Object.zip"
+echo Ex_10_02 Make Multiple Objects
+curl -s https://editor.p5js.org/editor/projects/K7PhkMWVi/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_02 Make Multiple Objects.zip"
+echo Ex_10_99 Robot Object
+curl -s https://editor.p5js.org/editor/projects/8s8si6CU9/zip -o "../p5mirror-jht1493/downloads/zips/Ex_10_99 Robot Object.zip"
+echo Ex_11_01 Many Variables
+curl -s https://editor.p5js.org/editor/projects/W26Y1uuiu/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_01 Many Variables.zip"
+echo Ex_11_02 Too Many Variables
+curl -s https://editor.p5js.org/editor/projects/WNdXMzR_Q/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_02 Too Many Variables.zip"
+echo Ex_11_03 Arrays, Not Variables
+curl -s https://editor.p5js.org/editor/projects/mJyTluseZ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_03 Arrays, Not Variables.zip"
+echo Ex_11_04 Declare and Assign an Array
+curl -s https://editor.p5js.org/editor/projects/FghpP9uDR/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_04 Declare and Assign an Array.zip"
+echo Ex_11_05 Assigning to an Array in One Go
+curl -s https://editor.p5js.org/editor/projects/n3apYawMJ/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_05 Assigning to an Array in One Go.zip"
+echo Ex_11_06 Revisiting the First Example
+curl -s https://editor.p5js.org/editor/projects/WSHfHkoyV/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_06 Revisiting the First Example.zip"
+echo Ex_11_07 Filling an Array in a for Loop
+curl -s https://editor.p5js.org/editor/projects/BjH5BkIjj/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_07 Filling an Array in a for Loop.zip"
+echo Ex_11_08 Track Mouse Movements
+curl -s https://editor.p5js.org/editor/projects/pVd3PT6U3/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_08 Track Mouse Movements.zip"
+echo Ex_11_09 Managing Many Objects
+curl -s https://editor.p5js.org/editor/projects/XDfmnW1JD/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_09 Managing Many Objects.zip"
+echo Ex_11_09 Managing Many Objects-remix
+curl -s https://editor.p5js.org/editor/projects/HSp7qS5n4/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_09 Managing Many Objects-remix.zip"
+echo Ex_11_10 Sequences of Images
+curl -s https://editor.p5js.org/editor/projects/-XbD5Gw0a/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_10 Sequences of Images.zip"
+echo Ex_11_99 Robot Array
+curl -s https://editor.p5js.org/editor/projects/dO-IXUHhr/zip -o "../p5mirror-jht1493/downloads/zips/Ex_11_99 Robot Array.zip"
+echo Example - CC 21 WEEK 1 - Moving circle objects with speed and direction variables
+curl -s https://editor.p5js.org/editor/projects/hdTctdqTA/zip -o "../p5mirror-jht1493/downloads/zips/Example - CC 21 WEEK 1 - Moving circle objects with speed and direction variables.zip"
+echo Example - ICM 21 Week 11 - Oscillator with Different Wave Types copy
+curl -s https://editor.p5js.org/editor/projects/hYuuOwGqA/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 11 - Oscillator with Different Wave Types copy.zip"
+echo Example - ICM 21 WEEK 2 - Scope: global and local variables
+curl -s https://editor.p5js.org/editor/projects/Nnez1LMAE/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 WEEK 2 - Scope: global and local variables.zip"
+echo Example - ICM 21 WEEK 2 - Scope: global and local variables copy
+curl -s https://editor.p5js.org/editor/projects/-9oX67SWX/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 WEEK 2 - Scope: global and local variables copy.zip"
+echo Example - ICM 21 Week 7 - Best Website Ever v2 - ellen
+curl -s https://editor.p5js.org/editor/projects/k3VrN1DbP/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 7 - Best Website Ever v2 - ellen.zip"
+echo Example - ICM 21 Week 7 - Best Website Ever v2 - ellen copy
+curl -s https://editor.p5js.org/editor/projects/EbF-1_gSY/zip -o "../p5mirror-jht1493/downloads/zips/Example - ICM 21 Week 7 - Best Website Ever v2 - ellen copy.zip"
+echo Example_03_20
+curl -s https://editor.p5js.org/editor/projects/-KnBVBNm8/zip -o "../p5mirror-jht1493/downloads/zips/Example_03_20.zip"
+echo Exciting hickory copy
+curl -s https://editor.p5js.org/editor/projects/D3AJlrg_m/zip -o "../p5mirror-jht1493/downloads/zips/Exciting hickory copy.zip"
+echo Exercise - ICM 21 Week 2 - Variable Scope
+curl -s https://editor.p5js.org/editor/projects/TKpg6L-HX/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 2 - Variable Scope.zip"
+echo Exercise - ICM 21 Week 3 - Add another moving circle object that resets
+curl -s https://editor.p5js.org/editor/projects/f0iBJ0u4M/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 3 - Add another moving circle object that resets.zip"
+echo Exercise - ICM 21 Week 5 - Refactor portrait with functions
+curl -s https://editor.p5js.org/editor/projects/pYCcAOf7Q/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 5 - Refactor portrait with functions.zip"
+echo Exercise - ICM 21 Week 6 - Bouncing bars
+curl -s https://editor.p5js.org/editor/projects/IGRuyPrrn/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM 21 Week 6 - Bouncing bars.zip"
+echo Exercise - ICM Week 2 - Convert to object literals
+curl -s https://editor.p5js.org/editor/projects/14AjKXQwh/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals.zip"
+echo Exercise - ICM Week 2 - Convert to object literals wrap
+curl -s https://editor.p5js.org/editor/projects/3iasCjLp-/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals wrap.zip"
+echo Exercise - ICM Week 2 - Convert to object literals wrap
+curl -s https://editor.p5js.org/editor/projects/BFR4S_Ej0/zip -o "../p5mirror-jht1493/downloads/zips/Exercise - ICM Week 2 - Convert to object literals wrap.zip"
+echo explaining sin and cos
+curl -s https://editor.p5js.org/editor/projects/BgVkHJ2MC/zip -o "../p5mirror-jht1493/downloads/zips/explaining sin and cos.zip"
+echo face re-mix
+curl -s https://editor.p5js.org/editor/projects/smc9kl-52/zip -o "../p5mirror-jht1493/downloads/zips/face re-mix.zip"
+echo face re-mix files
+curl -s https://editor.p5js.org/editor/projects/_Q8wZH4Z0/zip -o "../p5mirror-jht1493/downloads/zips/face re-mix files.zip"
+echo Face Tracking copy
+curl -s https://editor.p5js.org/editor/projects/F7CnDd1It/zip -o "../p5mirror-jht1493/downloads/zips/Face Tracking copy.zip"
+echo Facemesh_Webcam copy
+curl -s https://editor.p5js.org/editor/projects/UK0USdQwC/zip -o "../p5mirror-jht1493/downloads/zips/Facemesh_Webcam copy.zip"
+echo Farming-arrayofObjects copy
+curl -s https://editor.p5js.org/editor/projects/se1-Lc-6l/zip -o "../p5mirror-jht1493/downloads/zips/Farming-arrayofObjects copy.zip"
+echo Fibonacci sequence (visualisation) copy
+curl -s https://editor.p5js.org/editor/projects/d3aP71Rou/zip -o "../p5mirror-jht1493/downloads/zips/Fibonacci sequence (visualisation) copy.zip"
+echo field_particle copy
+curl -s https://editor.p5js.org/editor/projects/-qYPcFBYj/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy.zip"
+echo field_particle copy
+curl -s https://editor.p5js.org/editor/projects/WKUhIqGaK/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy.zip"
+echo field_particle copy copy
+curl -s https://editor.p5js.org/editor/projects/ZO4EO0YGv/zip -o "../p5mirror-jht1493/downloads/zips/field_particle copy copy.zip"
+echo Final Pick
+curl -s https://editor.p5js.org/editor/projects/RPYFGx-TC/zip -o "../p5mirror-jht1493/downloads/zips/Final Pick.zip"
+echo Final Project - Coral Reefs copy
+curl -s https://editor.p5js.org/editor/projects/wN_8WL6kr/zip -o "../p5mirror-jht1493/downloads/zips/Final Project - Coral Reefs copy.zip"
+echo Final Project - Coral Reefs copy
+curl -s https://editor.p5js.org/editor/projects/eP18pZoUW/zip -o "../p5mirror-jht1493/downloads/zips/Final Project - Coral Reefs copy.zip"
+echo final project-Pong game copy
+curl -s https://editor.p5js.org/editor/projects/_w0P3YNQP/zip -o "../p5mirror-jht1493/downloads/zips/final project-Pong game copy.zip"
+echo final project-Pong game copy
+curl -s https://editor.p5js.org/editor/projects/R4inRVKg6/zip -o "../p5mirror-jht1493/downloads/zips/final project-Pong game copy.zip"
+echo Firebase-createImg-board
+curl -s https://editor.p5js.org/editor/projects/5LgILr8RF/zip -o "../p5mirror-jht1493/downloads/zips/Firebase-createImg-board.zip"
+echo Firebase-createImg-slide-show
+curl -s https://editor.p5js.org/editor/projects/sM0Hl8r8N/zip -o "../p5mirror-jht1493/downloads/zips/Firebase-createImg-slide-show.zip"
+echo Flicker skirt copy
+curl -s https://editor.p5js.org/editor/projects/rzkZZkbH9/zip -o "../p5mirror-jht1493/downloads/zips/Flicker skirt copy.zip"
+echo FluteSoundSynthesis copy
+curl -s https://editor.p5js.org/editor/projects/rWPClKjOB/zip -o "../p5mirror-jht1493/downloads/zips/FluteSoundSynthesis copy.zip"
+echo font8x8 covid19
+curl -s https://editor.p5js.org/editor/projects/zi7nDCHC1/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 covid19.zip"
+echo font8x8 cursor
+curl -s https://editor.p5js.org/editor/projects/hbbzG_aQ-/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 cursor.zip"
+echo font8x8 Fossil kidney
+curl -s https://editor.p5js.org/editor/projects/0QU-qOan9/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney.zip"
+echo font8x8 Fossil kidney 2
+curl -s https://editor.p5js.org/editor/projects/vXtIwi7z4/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 2.zip"
+echo font8x8 Fossil kidney 3
+curl -s https://editor.p5js.org/editor/projects/oqk9M2AN0/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 3.zip"
+echo font8x8 Fossil kidney 4
+curl -s https://editor.p5js.org/editor/projects/qy3suxseL/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 4.zip"
+echo font8x8 Fossil kidney 5
+curl -s https://editor.p5js.org/editor/projects/OrHCEkPpl/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 5.zip"
+echo font8x8 Fossil kidney 6
+curl -s https://editor.p5js.org/editor/projects/jzGqLKBRf/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 Fossil kidney 6.zip"
+echo font8x8 full screen
+curl -s https://editor.p5js.org/editor/projects/W6N0IG-1a/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 full screen.zip"
+echo font8x8 full screen BLM
+curl -s https://editor.p5js.org/editor/projects/Ql437jruk/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 full screen BLM.zip"
+echo font8x8 str
+curl -s https://editor.p5js.org/editor/projects/ncqT-XLys/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str.zip"
+echo font8x8 str 2
+curl -s https://editor.p5js.org/editor/projects/qU2swGCR2/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 2.zip"
+echo font8x8 str 3
+curl -s https://editor.p5js.org/editor/projects/aIqNbG0Bn/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 3.zip"
+echo font8x8 str 4
+curl -s https://editor.p5js.org/editor/projects/a3GBfDCaM/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 4.zip"
+echo font8x8 str 5
+curl -s https://editor.p5js.org/editor/projects/DARlaRltS/zip -o "../p5mirror-jht1493/downloads/zips/font8x8 str 5.zip"
+echo for loop to draw animation
+curl -s https://editor.p5js.org/editor/projects/nlrTRwfL2/zip -o "../p5mirror-jht1493/downloads/zips/for loop to draw animation.zip"
+echo Fractal Tree slider
+curl -s https://editor.p5js.org/editor/projects/_nMddbW82/zip -o "../p5mirror-jht1493/downloads/zips/Fractal Tree slider.zip"
+echo frameCount random
+curl -s https://editor.p5js.org/editor/projects/GXPNx46nA/zip -o "../p5mirror-jht1493/downloads/zips/frameCount random.zip"
+echo func parameter objects
+curl -s https://editor.p5js.org/editor/projects/2mzYK-rpa/zip -o "../p5mirror-jht1493/downloads/zips/func parameter objects.zip"
+echo func rect_4
+curl -s https://editor.p5js.org/editor/projects/xuTYIJ-nF/zip -o "../p5mirror-jht1493/downloads/zips/func rect_4.zip"
+echo func rect_4x8
+curl -s https://editor.p5js.org/editor/projects/EpUG7RGnC/zip -o "../p5mirror-jht1493/downloads/zips/func rect_4x8.zip"
+echo func rect_8
+curl -s https://editor.p5js.org/editor/projects/X4N5KkxFh/zip -o "../p5mirror-jht1493/downloads/zips/func rect_8.zip"
+echo func rect_8 trans
+curl -s https://editor.p5js.org/editor/projects/PtM-Ds8C7/zip -o "../p5mirror-jht1493/downloads/zips/func rect_8 trans.zip"
+echo func rect_trans
+curl -s https://editor.p5js.org/editor/projects/fC8BddMu5/zip -o "../p5mirror-jht1493/downloads/zips/func rect_trans.zip"
+echo func rect_trans vert
+curl -s https://editor.p5js.org/editor/projects/Wip_OpC2-/zip -o "../p5mirror-jht1493/downloads/zips/func rect_trans vert.zip"
+echo function draw _head
+curl -s https://editor.p5js.org/editor/projects/arU3RYuxP/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head.zip"
+echo function draw _head alpha
+curl -s https://editor.p5js.org/editor/projects/HzX937qCR/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head alpha.zip"
+echo function draw _head alpha slider copy
+curl -s https://editor.p5js.org/editor/projects/XDIBLZKi2/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head alpha slider copy.zip"
+echo function draw _head rects
+curl -s https://editor.p5js.org/editor/projects/oilmQWN_F/zip -o "../p5mirror-jht1493/downloads/zips/function draw _head rects.zip"
+echo function draw _mon alpha slider
+curl -s https://editor.p5js.org/editor/projects/mA3PRsEys/zip -o "../p5mirror-jht1493/downloads/zips/function draw _mon alpha slider.zip"
+echo geolocation
+curl -s https://editor.p5js.org/editor/projects/S99w4Whth/zip -o "../p5mirror-jht1493/downloads/zips/geolocation.zip"
+echo geolocation 1
+curl -s https://editor.p5js.org/editor/projects/MjtAJsadM/zip -o "../p5mirror-jht1493/downloads/zips/geolocation 1.zip"
+echo Get and Set copy
+curl -s https://editor.p5js.org/editor/projects/O3XHspgGO/zip -o "../p5mirror-jht1493/downloads/zips/Get and Set copy.zip"
+echo Glistening marsupial
+curl -s https://editor.p5js.org/editor/projects/mqI-yl3wL/zip -o "../p5mirror-jht1493/downloads/zips/Glistening marsupial.zip"
+echo golan-arc-demo slider
+curl -s https://editor.p5js.org/editor/projects/xTAKoMV-r/zip -o "../p5mirror-jht1493/downloads/zips/golan-arc-demo slider.zip"
+echo gravity ball two func  w
+curl -s https://editor.p5js.org/editor/projects/jM0IeGean/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two func  w.zip"
+echo gravity ball two func r
+curl -s https://editor.p5js.org/editor/projects/FkSOtQfB5/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two func r.zip"
+echo gravity ball two objects 0
+curl -s https://editor.p5js.org/editor/projects/D0d4-gIJE/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 0.zip"
+echo gravity ball two objects 1
+curl -s https://editor.p5js.org/editor/projects/ExoAGUZRm/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1.zip"
+echo gravity ball two objects 1
+curl -s https://editor.p5js.org/editor/projects/iwOyTQiya/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1.zip"
+echo gravity ball two objects 1 copy
+curl -s https://editor.p5js.org/editor/projects/d8Tghqq3X/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1 copy.zip"
+echo gravity ball two objects 1 POJO
+curl -s https://editor.p5js.org/editor/projects/vA7I6jRfY/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 1 POJO.zip"
+echo gravity ball two objects 2
+curl -s https://editor.p5js.org/editor/projects/FUeeb-1YvU/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 2.zip"
+echo gravity ball two objects 2
+curl -s https://editor.p5js.org/editor/projects/nY3nI0Lm7/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects 2.zip"
+echo gravity ball two objects copy
+curl -s https://editor.p5js.org/editor/projects/MZpwlyssX/zip -o "../p5mirror-jht1493/downloads/zips/gravity ball two objects copy.zip"
+echo grid loop 2
+curl -s https://editor.p5js.org/editor/projects/ptUxfyR2n/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 2.zip"
+echo grid loop 3
+curl -s https://editor.p5js.org/editor/projects/kBjlbdi5T/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 3.zip"
+echo grid loop 4
+curl -s https://editor.p5js.org/editor/projects/5sXqtvIQ7/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 4.zip"
+echo grid loop 5
+curl -s https://editor.p5js.org/editor/projects/5wbpgNva4/zip -o "../p5mirror-jht1493/downloads/zips/grid loop 5.zip"
+echo grid loop starter
+curl -s https://editor.p5js.org/editor/projects/9jQy06NyD/zip -o "../p5mirror-jht1493/downloads/zips/grid loop starter.zip"
+echo grid loop starter color
+curl -s https://editor.p5js.org/editor/projects/wDpL5DxX9/zip -o "../p5mirror-jht1493/downloads/zips/grid loop starter color.zip"
+echo grid random
+curl -s https://editor.p5js.org/editor/projects/4i19q9liB/zip -o "../p5mirror-jht1493/downloads/zips/grid random.zip"
+echo grid while
+curl -s https://editor.p5js.org/editor/projects/DXMYbo6TZ/zip -o "../p5mirror-jht1493/downloads/zips/grid while.zip"
+echo grid while x
+curl -s https://editor.p5js.org/editor/projects/E5RyS0dVw/zip -o "../p5mirror-jht1493/downloads/zips/grid while x.zip"
+echo Hallowed aura
+curl -s https://editor.p5js.org/editor/projects/21uSV9oI5/zip -o "../p5mirror-jht1493/downloads/zips/Hallowed aura.zip"
+echo Hammerhead idea copy
+curl -s https://editor.p5js.org/editor/projects/yBPE3ltQK/zip -o "../p5mirror-jht1493/downloads/zips/Hammerhead idea copy.zip"
+echo Hammerhead idea copy copy
+curl -s https://editor.p5js.org/editor/projects/z5kRIV5ZMl/zip -o "../p5mirror-jht1493/downloads/zips/Hammerhead idea copy copy.zip"
+echo hand drawn plan
+curl -s https://editor.p5js.org/editor/projects/0eRP4Lg2I/zip -o "../p5mirror-jht1493/downloads/zips/hand drawn plan.zip"
+echo handsfree.js-demo-2022 copy
+curl -s https://editor.p5js.org/editor/projects/E6C9HlaIJ/zip -o "../p5mirror-jht1493/downloads/zips/handsfree.js-demo-2022 copy.zip"
+echo head circle
+curl -s https://editor.p5js.org/editor/projects/HC9y3joDz/zip -o "../p5mirror-jht1493/downloads/zips/head circle.zip"
+echo head circle 100
+curl -s https://editor.p5js.org/editor/projects/sNH4P8QEp/zip -o "../p5mirror-jht1493/downloads/zips/head circle 100.zip"
+echo head circle 20*5
+curl -s https://editor.p5js.org/editor/projects/xX_6p3wI2/zip -o "../p5mirror-jht1493/downloads/zips/head circle 20*5.zip"
+echo head circle 4 per line
+curl -s https://editor.p5js.org/editor/projects/cpYLfXYNz/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line.zip"
+echo head circle 4 per line fill
+curl -s https://editor.p5js.org/editor/projects/WfJ_BSW3U/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line fill.zip"
+echo head circle 4 per line fill stroke
+curl -s https://editor.p5js.org/editor/projects/D0S0gQEHU/zip -o "../p5mirror-jht1493/downloads/zips/head circle 4 per line fill stroke.zip"
+echo head circle scale back
+curl -s https://editor.p5js.org/editor/projects/s4K2s3FRg/zip -o "../p5mirror-jht1493/downloads/zips/head circle scale back.zip"
+echo head circle trans
+curl -s https://editor.p5js.org/editor/projects/67wXuGA53/zip -o "../p5mirror-jht1493/downloads/zips/head circle trans.zip"
+echo head color growth
+curl -s https://editor.p5js.org/editor/projects/q8E4h7Piu/zip -o "../p5mirror-jht1493/downloads/zips/head color growth.zip"
+echo head color growth [rgb]
+curl -s https://editor.p5js.org/editor/projects/NiRBZ_zLN/zip -o "../p5mirror-jht1493/downloads/zips/head color growth [rgb].zip"
+echo head color growth [rgba] doub eyes
+curl -s https://editor.p5js.org/editor/projects/2fdgTKGef/zip -o "../p5mirror-jht1493/downloads/zips/head color growth [rgba] doub eyes.zip"
+echo head color growth frameCount
+curl -s https://editor.p5js.org/editor/projects/Fcm57wyxJ/zip -o "../p5mirror-jht1493/downloads/zips/head color growth frameCount.zip"
+echo head color growth plus
+curl -s https://editor.p5js.org/editor/projects/fwCY74_uF/zip -o "../p5mirror-jht1493/downloads/zips/head color growth plus.zip"
+echo head color growth rotate
+curl -s https://editor.p5js.org/editor/projects/Ezmd5TtY2/zip -o "../p5mirror-jht1493/downloads/zips/head color growth rotate.zip"
+echo head color growth start times 2
+curl -s https://editor.p5js.org/editor/projects/fyCGaLgow/zip -o "../p5mirror-jht1493/downloads/zips/head color growth start times 2.zip"
+echo head color growth trans
+curl -s https://editor.p5js.org/editor/projects/0AH9IgNje/zip -o "../p5mirror-jht1493/downloads/zips/head color growth trans.zip"
+echo head function rect
+curl -s https://editor.p5js.org/editor/projects/TcdfIxOyu/zip -o "../p5mirror-jht1493/downloads/zips/head function rect.zip"
+echo head param color
+curl -s https://editor.p5js.org/editor/projects/RUuB2e-19/zip -o "../p5mirror-jht1493/downloads/zips/head param color.zip"
+echo head param create_ui
+curl -s https://editor.p5js.org/editor/projects/jW-mgXSiU/zip -o "../p5mirror-jht1493/downloads/zips/head param create_ui.zip"
+echo head param create_ui get
+curl -s https://editor.p5js.org/editor/projects/BULtMLB5j/zip -o "../p5mirror-jht1493/downloads/zips/head param create_ui get.zip"
+echo head param scale
+curl -s https://editor.p5js.org/editor/projects/xfnCrqjkK/zip -o "../p5mirror-jht1493/downloads/zips/head param scale.zip"
+echo hearts hearts hearts copy
+curl -s https://editor.p5js.org/editor/projects/LbV9gPpVn/zip -o "../p5mirror-jht1493/downloads/zips/hearts hearts hearts copy.zip"
+echo homework2 copy
+curl -s https://editor.p5js.org/editor/projects/KCLZ_Jtc7/zip -o "../p5mirror-jht1493/downloads/zips/homework2 copy.zip"
+echo Horse Number 1: Scratched nylon 1
+curl -s https://editor.p5js.org/editor/projects/Z4SL-Yxt4/zip -o "../p5mirror-jht1493/downloads/zips/Horse Number 1: Scratched nylon 1.zip"
+echo Horse Number 1: Scratched nylon 2
+curl -s https://editor.p5js.org/editor/projects/Hud7Nq_KN/zip -o "../p5mirror-jht1493/downloads/zips/Horse Number 1: Scratched nylon 2.zip"
+echo HTML color codes and names copy
+curl -s https://editor.p5js.org/editor/projects/vhPVm8WCWX/zip -o "../p5mirror-jht1493/downloads/zips/HTML color codes and names copy.zip"
+echo Humble waste
+curl -s https://editor.p5js.org/editor/projects/lClzrJPSR/zip -o "../p5mirror-jht1493/downloads/zips/Humble waste.zip"
+echo Husky skunk copy
+curl -s https://editor.p5js.org/editor/projects/grLMRm7Yo/zip -o "../p5mirror-jht1493/downloads/zips/Husky skunk copy.zip"
+echo HW1 Bowei
+curl -s https://editor.p5js.org/editor/projects/wcCyAOSzK/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Bowei.zip"
+echo HW1 Justin
+curl -s https://editor.p5js.org/editor/projects/Fi_pw8dAT/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Justin.zip"
+echo HW1 Phil
+curl -s https://editor.p5js.org/editor/projects/hP1FXtmPj/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Phil.zip"
+echo HW1 Wushuang
+curl -s https://editor.p5js.org/editor/projects/Jnjq1Mx5M/zip -o "../p5mirror-jht1493/downloads/zips/HW1 Wushuang.zip"
+echo Hyperspace Sim 2.0
+curl -s https://editor.p5js.org/editor/projects/QQS5-FzAf/zip -o "../p5mirror-jht1493/downloads/zips/Hyperspace Sim 2.0.zip"
+echo ICM - WK5 - Refactor portrait with functions
+curl -s https://editor.p5js.org/editor/projects/Q_SrD4JOX/zip -o "../p5mirror-jht1493/downloads/zips/ICM - WK5 - Refactor portrait with functions.zip"
+echo ICM - WK6 - WS #2 copy
+curl -s https://editor.p5js.org/editor/projects/zwLJe42ju/zip -o "../p5mirror-jht1493/downloads/zips/ICM - WK6 - WS #2 copy.zip"
+echo ICM 21 Week 8 • Image File Basics
+curl -s https://editor.p5js.org/editor/projects/O1AJea465/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Week 8 • Image File Basics.zip"
+echo ICM 21 Wk 08 • many images -remix jht createImg
+curl -s https://editor.p5js.org/editor/projects/kXn2yqVWg/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Wk 08 • many images -remix jht createImg.zip"
+echo ICM 21 Wk 08 • many images -remix jht ndisplay
+curl -s https://editor.p5js.org/editor/projects/6JG_C7kkK/zip -o "../p5mirror-jht1493/downloads/zips/ICM 21 Wk 08 • many images -remix jht ndisplay.zip"
+echo ICM Week 2 Setting Sun - loc
+curl -s https://editor.p5js.org/editor/projects/_x8H_F8LH/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 2 Setting Sun - loc.zip"
+echo ICM Week 3 Creative Exercise copy
+curl -s https://editor.p5js.org/editor/projects/N6Pygq57R/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 3 Creative Exercise copy.zip"
+echo ICM Week 4 Creative Exercise copy
+curl -s https://editor.p5js.org/editor/projects/E4r0CForx/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Creative Exercise copy.zip"
+echo ICM Week 4 Creative Exercise copy
+curl -s https://editor.p5js.org/editor/projects/LfHPuv0r9/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Creative Exercise copy.zip"
+echo ICM Week 4 Exercise 1 Teresa
+curl -s https://editor.p5js.org/editor/projects/31s-QDUkx/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 1 Teresa.zip"
+echo ICM Week 4 Exercise 6 Teresa
+curl -s https://editor.p5js.org/editor/projects/SuiRHhAvJ/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 6 Teresa.zip"
+echo ICM Week 4 Exercise 7 copy
+curl -s https://editor.p5js.org/editor/projects/1_dj90kRg/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 7 copy.zip"
+echo ICM Week 4 Exercise 7 Teresa
+curl -s https://editor.p5js.org/editor/projects/iX-5AhHns/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4 Exercise 7 Teresa.zip"
+echo ICM Week 4: Nested For Loop 2 Refactored! 0
+curl -s https://editor.p5js.org/editor/projects/_pTQB2aXW/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 4: Nested For Loop 2 Refactored! 0.zip"
+echo ICM Week 5  | Cross pattern maker 0
+curl -s https://editor.p5js.org/editor/projects/eRDWkGGcC/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5  | Cross pattern maker 0.zip"
+echo ICM Week 5 Creative Exercise Teresa Wang
+curl -s https://editor.p5js.org/editor/projects/UlVOmPiV9/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang.zip"
+echo ICM Week 5 Creative Exercise Teresa Wang copy
+curl -s https://editor.p5js.org/editor/projects/G7NYOv1Av/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang copy.zip"
+echo ICM Week 5 Creative Exercise Teresa Wang copy2
+curl -s https://editor.p5js.org/editor/projects/8_xLggd8q/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang copy2.zip"
+echo ICM Week 5 Creative Exercise Teresa Wang jitter
+curl -s https://editor.p5js.org/editor/projects/EvoIssQ9Zg/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 Creative Exercise Teresa Wang jitter.zip"
+echo ICM Week 5 in-class exercise copy
+curl -s https://editor.p5js.org/editor/projects/o_oU0SNyB/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 5 in-class exercise copy.zip"
+echo ICM Week 6 Exercise 1 Teresa
+curl -s https://editor.p5js.org/editor/projects/KtggC_F16/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 1 Teresa.zip"
+echo ICM Week 6 Exercise 1 Teresa copy
+curl -s https://editor.p5js.org/editor/projects/aWZ3Rr7dW/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 1 Teresa copy.zip"
+echo ICM Week 6 Exercise 3 Teresa
+curl -s https://editor.p5js.org/editor/projects/ZybF8My3a/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 6 Exercise 3 Teresa.zip"
+echo ICM Week 8 Creative Exercise -optional slider
+curl -s https://editor.p5js.org/editor/projects/3unl-jWfp/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 8 Creative Exercise -optional slider.zip"
+echo ICM Week 9 Creative Exercise PoseNet by Teresa
+curl -s https://editor.p5js.org/editor/projects/7SnLfatsr/zip -o "../p5mirror-jht1493/downloads/zips/ICM Week 9 Creative Exercise PoseNet by Teresa.zip"
+echo ICM Wk 8: Underwater Filter copy
+curl -s https://editor.p5js.org/editor/projects/3t3Dpf5wH/zip -o "../p5mirror-jht1493/downloads/zips/ICM Wk 8: Underwater Filter copy.zip"
+echo ICM-06 - ICM 21 Week 8 • Working with many images
+curl -s https://editor.p5js.org/editor/projects/lhlkCZCBC/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 - ICM 21 Week 8 • Working with many images.zip"
+echo ICM-06 - ICM 21 Week 8 • Working with many images -remix jht
+curl -s https://editor.p5js.org/editor/projects/GtOvwRABh/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 - ICM 21 Week 8 • Working with many images -remix jht.zip"
+echo ICM-06 Example - ICM 21 Week 11 - Note ratio columns copy
+curl -s https://editor.p5js.org/editor/projects/LuFjTgW4K/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 11 - Note ratio columns copy.zip"
+echo ICM-06 Example - ICM 21 Week 12 - Scattered Characters by Ellen
+curl -s https://editor.p5js.org/editor/projects/60piQ23_B/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 12 - Scattered Characters by Ellen.zip"
+echo ICM-06 Example - ICM 21 Week 2 - Ellen self portrait animated
+curl -s https://editor.p5js.org/editor/projects/HYF86ea7R/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Ellen self portrait animated.zip"
+echo ICM-06 Example - ICM 21 Week 2 - Object Literal
+curl -s https://editor.p5js.org/editor/projects/4_VOFzrq8/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal.zip"
+echo ICM-06 Example - ICM 21 Week 2 - Object Literal wrap
+curl -s https://editor.p5js.org/editor/projects/e190hgdMU/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal wrap.zip"
+echo ICM-06 Example - ICM 21 Week 2 - Object Literal wrap UI
+curl -s https://editor.p5js.org/editor/projects/caDtJRji7/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Object Literal wrap UI.zip"
+echo ICM-06 Example - ICM 21 Week 2 - Responsive rect
+curl -s https://editor.p5js.org/editor/projects/laTHAOolo/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 2 - Responsive rect.zip"
+echo ICM-06 Example - ICM 21 Week 3 - Boolean variables
+curl -s https://editor.p5js.org/editor/projects/w1CB_J991/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Boolean variables.zip"
+echo ICM-06 Example - ICM 21 Week 3 - Bouncing ball object
+curl -s https://editor.p5js.org/editor/projects/tWDnSltVf/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Bouncing ball object.zip"
+echo ICM-06 Example - ICM 21 Week 3 - Hover over 3 columns
+curl -s https://editor.p5js.org/editor/projects/4Jkd44bOa/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Hover over 3 columns.zip"
+echo ICM-06 Example - ICM 21 Week 3 - Introducing conditionals
+curl -s https://editor.p5js.org/editor/projects/4MtOW9bSn/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Introducing conditionals.zip"
+echo ICM-06 Example - ICM 21 Week 3 - Introducing conditionals copy
+curl -s https://editor.p5js.org/editor/projects/RIa86rQiC/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 3 - Introducing conditionals copy.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop
+curl -s https://editor.p5js.org/editor/projects/3gJJh9xO4/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy
+curl -s https://editor.p5js.org/editor/projects/oxBpShhLB/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy
+curl -s https://editor.p5js.org/editor/projects/9MvUG6HAQ/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Anatomy for a for loop copy.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Intro %
+curl -s https://editor.p5js.org/editor/projects/l5K0FsH4b/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Intro %.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Timing with frameCount + %
+curl -s https://editor.p5js.org/editor/projects/TMCxRAqBN/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Timing with frameCount + %.zip"
+echo ICM-06 Example - ICM 21 Week 4 - Timing with seconds from computer clock
+curl -s https://editor.p5js.org/editor/projects/yDi03zkbH/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Example - ICM 21 Week 4 - Timing with seconds from computer clock.zip"
+echo ICM-06 Exercise - ICM 21 Week 3 - Switch
+curl -s https://editor.p5js.org/editor/projects/zaxJBulD_/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 3 - Switch.zip"
+echo ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop
+curl -s https://editor.p5js.org/editor/projects/y1mn0AgIm2/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop.zip"
+echo ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop copy
+curl -s https://editor.p5js.org/editor/projects/kJLu-ss-8/zip -o "../p5mirror-jht1493/downloads/zips/ICM-06 Exercise - ICM 21 Week 4 - Hover over columns with a loop copy.zip"
+echo image mirror trans scale copy
+curl -s https://editor.p5js.org/editor/projects/9ovi-hIiP/zip -o "../p5mirror-jht1493/downloads/zips/image mirror trans scale copy.zip"
+echo image-slideshow-carousel copy
+curl -s https://editor.p5js.org/editor/projects/aKfEKliRc/zip -o "../p5mirror-jht1493/downloads/zips/image-slideshow-carousel copy.zip"
+echo IMS - Truchet func 11
+curl -s https://editor.p5js.org/editor/projects/oP_wBebdW/zip -o "../p5mirror-jht1493/downloads/zips/IMS - Truchet func 11.zip"
+echo IMS - Truchet Vamoss
+curl -s https://editor.p5js.org/editor/projects/TtXLXAiJv/zip -o "../p5mirror-jht1493/downloads/zips/IMS - Truchet Vamoss.zip"
+echo Innovative flag copy
+curl -s https://editor.p5js.org/editor/projects/Ez3s7skF8/zip -o "../p5mirror-jht1493/downloads/zips/Innovative flag copy.zip"
+echo Insidious violet
+curl -s https://editor.p5js.org/editor/projects/73TkiEqVD/zip -o "../p5mirror-jht1493/downloads/zips/Insidious violet.zip"
+echo int vs. Math.trunc
+curl -s https://editor.p5js.org/editor/projects/bt1hw69uh/zip -o "../p5mirror-jht1493/downloads/zips/int vs. Math.trunc.zip"
+echo intro to class
+curl -s https://editor.p5js.org/editor/projects/v8N8pF3Yy/zip -o "../p5mirror-jht1493/downloads/zips/intro to class.zip"
+echo Iris suggestion
+curl -s https://editor.p5js.org/editor/projects/tYPCyiFZj/zip -o "../p5mirror-jht1493/downloads/zips/Iris suggestion.zip"
+echo Jolly degree 2
+curl -s https://editor.p5js.org/editor/projects/bEkXnq1mA/zip -o "../p5mirror-jht1493/downloads/zips/Jolly degree 2.zip"
+echo Kaleidoscope-Stella copy
+curl -s https://editor.p5js.org/editor/projects/QxnG0Kjs3/zip -o "../p5mirror-jht1493/downloads/zips/Kaleidoscope-Stella copy.zip"
+echo keyDown
+curl -s https://editor.p5js.org/editor/projects/XvtlRAbOd/zip -o "../p5mirror-jht1493/downloads/zips/keyDown.zip"
+echo keyDown bounds
+curl -s https://editor.p5js.org/editor/projects/_9e7S9L0a/zip -o "../p5mirror-jht1493/downloads/zips/keyDown bounds.zip"
+echo keyPressed 1QAZ FFT
+curl -s https://editor.p5js.org/editor/projects/S47diDJcd/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed 1QAZ FFT.zip"
+echo keyPressed 1QAZ FFT copy
+curl -s https://editor.p5js.org/editor/projects/bJt-NPhOo/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed 1QAZ FFT copy.zip"
+echo keyPressed keyReleased
+curl -s https://editor.p5js.org/editor/projects/EVwWL2fIR/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed keyReleased.zip"
+echo keyPressed notes
+curl -s https://editor.p5js.org/editor/projects/i7x3A6lC7/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes.zip"
+echo keyPressed notes 1QAZ
+curl -s https://editor.p5js.org/editor/projects/k4vWzBgN9/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ.zip"
+echo keyPressed notes 1QAZ a_fading
+curl -s https://editor.p5js.org/editor/projects/yJte0nh5w/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ a_fading.zip"
+echo keyPressed notes 1QAZ midi
+curl -s https://editor.p5js.org/editor/projects/gzgR2c2mz/zip -o "../p5mirror-jht1493/downloads/zips/keyPressed notes 1QAZ midi.zip"
+echo Kindhearted yak
+curl -s https://editor.p5js.org/editor/projects/MH2S6Ot3P/zip -o "../p5mirror-jht1493/downloads/zips/Kindhearted yak.zip"
+echo knob copy
+curl -s https://editor.p5js.org/editor/projects/nN7VJCdLZ/zip -o "../p5mirror-jht1493/downloads/zips/knob copy.zip"
+echo left to right sin
+curl -s https://editor.p5js.org/editor/projects/jMsiDbVI9/zip -o "../p5mirror-jht1493/downloads/zips/left to right sin.zip"
+echo loadImage 1
+curl -s https://editor.p5js.org/editor/projects/lngaszMGr/zip -o "../p5mirror-jht1493/downloads/zips/loadImage 1.zip"
+echo loadImage tile
+curl -s https://editor.p5js.org/editor/projects/C18P0IIfV/zip -o "../p5mirror-jht1493/downloads/zips/loadImage tile.zip"
+echo loadImage tile copy
+curl -s https://editor.p5js.org/editor/projects/0OfZ7dWv8/zip -o "../p5mirror-jht1493/downloads/zips/loadImage tile copy.zip"
+echo LOADING and PLAYING VIDEO v6 VVV BB
+curl -s https://editor.p5js.org/editor/projects/raR7KFAWH/zip -o "../p5mirror-jht1493/downloads/zips/LOADING and PLAYING VIDEO v6 VVV BB.zip"
+echo loadJSON
+curl -s https://editor.p5js.org/editor/projects/tNaIcnYYt/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON.zip"
+echo loadJSON c19 format + c_regions
+curl -s https://editor.p5js.org/editor/projects/fGU4wVifo/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 format + c_regions.zip"
+echo loadJSON c19 graph
+curl -s https://editor.p5js.org/editor/projects/1ZajWH3S8/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 graph.zip"
+echo loadJSON c19 raw nyc
+curl -s https://editor.p5js.org/editor/projects/XjH38EgqI/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 raw nyc.zip"
+echo loadJSON c19 raw.githubusercontent
+curl -s https://editor.p5js.org/editor/projects/7TQS9SrUT/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 raw.githubusercontent.zip"
+echo loadJSON c19 selection
+curl -s https://editor.p5js.org/editor/projects/YNQ6UgGUL/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 selection.zip"
+echo loadJSON c19 series
+curl -s https://editor.p5js.org/editor/projects/eIKzFZ1rv/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series.zip"
+echo loadJSON c19 series brooklyn
+curl -s https://editor.p5js.org/editor/projects/bxiT7lMbt/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series brooklyn.zip"
+echo loadJSON c19 series brooklyn shape
+curl -s https://editor.p5js.org/editor/projects/evFtS3PGD/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series brooklyn shape.zip"
+echo loadJSON c19 series manhattan
+curl -s https://editor.p5js.org/editor/projects/yyKhJWpyi/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 series manhattan.zip"
+echo loadJSON c19 sorted
+curl -s https://editor.p5js.org/editor/projects/FxbTpVyyL/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 sorted.zip"
+echo loadJSON c19 ui
+curl -s https://editor.p5js.org/editor/projects/Yi6VAAcN1/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON c19 ui.zip"
+echo loadJSON covid-19
+curl -s https://editor.p5js.org/editor/projects/JG-Wh7SQz/zip -o "../p5mirror-jht1493/downloads/zips/loadJSON covid-19.zip"
+echo local vs. global
+curl -s https://editor.p5js.org/editor/projects/dSbNTgyFe/zip -o "../p5mirror-jht1493/downloads/zips/local vs. global.zip"
+echo lower mask
+curl -s https://editor.p5js.org/editor/projects/n146VMQSo/zip -o "../p5mirror-jht1493/downloads/zips/lower mask.zip"
+echo LRCC22 - WK1 Exercise - Fix me 😃
+curl -s https://editor.p5js.org/editor/projects/6E9_gw8Tw/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK1 Exercise - Fix me 😃.zip"
+echo LRCC22 - WK6 Exercise 4.3 | Long L copy
+curl -s https://editor.p5js.org/editor/projects/R5ldDAxfN/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK6 Exercise 4.3 | Long L copy.zip"
+echo LRCC22 - WK6 Exercise 4.3 | Long L copy
+curl -s https://editor.p5js.org/editor/projects/dwkkY77hM/zip -o "../p5mirror-jht1493/downloads/zips/LRCC22 - WK6 Exercise 4.3 | Long L copy.zip"
+echo Lu Lyu
+curl -s https://editor.p5js.org/editor/projects/9QwsY-aFg/zip -o "../p5mirror-jht1493/downloads/zips/Lu Lyu.zip"
+echo Mahogany hare
+curl -s https://editor.p5js.org/editor/projects/Om24hbBYH/zip -o "../p5mirror-jht1493/downloads/zips/Mahogany hare.zip"
+echo many circles wrap
+curl -s https://editor.p5js.org/editor/projects/S7B_bxawC/zip -o "../p5mirror-jht1493/downloads/zips/many circles wrap.zip"
+echo many circles wrap func
+curl -s https://editor.p5js.org/editor/projects/IvCuHb0EW/zip -o "../p5mirror-jht1493/downloads/zips/many circles wrap func.zip"
+echo many spirals
+curl -s https://editor.p5js.org/editor/projects/7umDkn7zd/zip -o "../p5mirror-jht1493/downloads/zips/many spirals.zip"
+echo Mario Meets Pokemon 4 copy
+curl -s https://editor.p5js.org/editor/projects/9ZpuNvjju/zip -o "../p5mirror-jht1493/downloads/zips/Mario Meets Pokemon 4 copy.zip"
+echo martha_balloons copy
+curl -s https://editor.p5js.org/editor/projects/iJs8Ab2Wo/zip -o "../p5mirror-jht1493/downloads/zips/martha_balloons copy.zip"
+echo Metaballs gray
+curl -s https://editor.p5js.org/editor/projects/OsM89lKH3/zip -o "../p5mirror-jht1493/downloads/zips/Metaballs gray.zip"
+echo meteorites array
+curl -s https://editor.p5js.org/editor/projects/E8VTO0IaL/zip -o "../p5mirror-jht1493/downloads/zips/meteorites array.zip"
+echo meteorites copy
+curl -s https://editor.p5js.org/editor/projects/BTYdMC2yK/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy.zip"
+echo meteorites copy
+curl -s https://editor.p5js.org/editor/projects/RHp65QcZF/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy.zip"
+echo meteorites copy copy
+curl -s https://editor.p5js.org/editor/projects/8-Kxu6iCR/zip -o "../p5mirror-jht1493/downloads/zips/meteorites copy copy.zip"
+echo midterm copy
+curl -s https://editor.p5js.org/editor/projects/bNR7KEVaq/zip -o "../p5mirror-jht1493/downloads/zips/midterm copy.zip"
+echo midterm final updated w JH copy
+curl -s https://editor.p5js.org/editor/projects/_D-QJiDBx/zip -o "../p5mirror-jht1493/downloads/zips/midterm final updated w JH copy.zip"
+echo MOOO! by Filmon Abraham
+curl -s https://editor.p5js.org/editor/projects/Mgz-8JgW1/zip -o "../p5mirror-jht1493/downloads/zips/MOOO! by Filmon Abraham.zip"
+echo mouse painting
+curl -s https://editor.p5js.org/editor/projects/9HLmpFFGB/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting.zip"
+echo mouse painting alpha
+curl -s https://editor.p5js.org/editor/projects/l6crLRoFY/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha.zip"
+echo mouse painting alpha copy
+curl -s https://editor.p5js.org/editor/projects/a-odvLq_m/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha copy.zip"
+echo mouse painting alpha copy copy
+curl -s https://editor.p5js.org/editor/projects/gojKwkXFG/zip -o "../p5mirror-jht1493/downloads/zips/mouse painting alpha copy copy.zip"
+echo mouseX,mouseY
+curl -s https://editor.p5js.org/editor/projects/bw36dcaXU/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY.zip"
+echo mouseX,mouseY circle Button
+curl -s https://editor.p5js.org/editor/projects/iNGrQuX3H/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY circle Button.zip"
+echo mouseX,mouseY copy
+curl -s https://editor.p5js.org/editor/projects/P7gKLu2k6/zip -o "../p5mirror-jht1493/downloads/zips/mouseX,mouseY copy.zip"
+echo mouseXY print
+curl -s https://editor.p5js.org/editor/projects/9Ff0SOP6x/zip -o "../p5mirror-jht1493/downloads/zips/mouseXY print.zip"
+echo moving circle 0
+curl -s https://editor.p5js.org/editor/projects/-vbhzbmTK/zip -o "../p5mirror-jht1493/downloads/zips/moving circle 0.zip"
+echo moving circle copy
+curl -s https://editor.p5js.org/editor/projects/mZ9UpUz9X/zip -o "../p5mirror-jht1493/downloads/zips/moving circle copy.zip"
+echo multi scripts
+curl -s https://editor.p5js.org/editor/projects/3bEKL0h_S/zip -o "../p5mirror-jht1493/downloads/zips/multi scripts.zip"
+echo Multiple Users Overlayed-bug
+curl -s https://editor.p5js.org/editor/projects/oeTPGKyD_/zip -o "../p5mirror-jht1493/downloads/zips/Multiple Users Overlayed-bug.zip"
+echo Multiple Users Overlayed-bug copy
+curl -s https://editor.p5js.org/editor/projects/G6ImGnQnC/zip -o "../p5mirror-jht1493/downloads/zips/Multiple Users Overlayed-bug copy.zip"
+echo music copy
+curl -s https://editor.p5js.org/editor/projects/gU1tzzExN/zip -o "../p5mirror-jht1493/downloads/zips/music copy.zip"
+echo Opposite dibble
+curl -s https://editor.p5js.org/editor/projects/B-b2lLfbF/zip -o "../p5mirror-jht1493/downloads/zips/Opposite dibble.zip"
+echo Orchid ambert copy copy
+curl -s https://editor.p5js.org/editor/projects/tr7x_8g0Z/zip -o "../p5mirror-jht1493/downloads/zips/Orchid ambert copy copy.zip"
+echo Orchid ambert copy copy
+curl -s https://editor.p5js.org/editor/projects/wMJ5yWMfJ/zip -o "../p5mirror-jht1493/downloads/zips/Orchid ambert copy copy.zip"
+echo p5 checkbox
+curl -s https://editor.p5js.org/editor/projects/Tv4_-7Qiq/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox.zip"
+echo p5 checkbox inline
+curl -s https://editor.p5js.org/editor/projects/0_CfvAqRa/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox inline.zip"
+echo p5 checkbox inline two
+curl -s https://editor.p5js.org/editor/projects/vP21lJkf6/zip -o "../p5mirror-jht1493/downloads/zips/p5 checkbox inline two.zip"
+echo p5 midi detect
+curl -s https://editor.p5js.org/editor/projects/HgpOKD5Pr/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi detect.zip"
+echo p5 midi detect setup
+curl -s https://editor.p5js.org/editor/projects/faMgqqnz_/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi detect setup.zip"
+echo p5 midi with secodn step copy
+curl -s https://editor.p5js.org/editor/projects/P8hMPxupZ/zip -o "../p5mirror-jht1493/downloads/zips/p5 midi with secodn step copy.zip"
+echo p5 shapes
+curl -s https://editor.p5js.org/editor/projects/9fyznUdbz/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes.zip"
+echo p5 shapes color
+curl -s https://editor.p5js.org/editor/projects/NFdYgqpnb/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color.zip"
+echo p5 shapes color array
+curl -s https://editor.p5js.org/editor/projects/eqb-ChsZ-/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color array.zip"
+echo p5 shapes color fill
+curl -s https://editor.p5js.org/editor/projects/Hdeyj4tTu/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color fill.zip"
+echo p5 shapes color rgb
+curl -s https://editor.p5js.org/editor/projects/rP0w0LOCY/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color rgb.zip"
+echo p5 shapes color rgb shift
+curl -s https://editor.p5js.org/editor/projects/UPWKqptFX/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color rgb shift.zip"
+echo p5 shapes color setAlpha
+curl -s https://editor.p5js.org/editor/projects/95PNeBEQq/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes color setAlpha.zip"
+echo p5 shapes const
+curl -s https://editor.p5js.org/editor/projects/N8Of2Y_vJ/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const.zip"
+echo p5 shapes const
+curl -s https://editor.p5js.org/editor/projects/Z_BBqwy-Z/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const.zip"
+echo p5 shapes const copy
+curl -s https://editor.p5js.org/editor/projects/8hElajGl_/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const copy.zip"
+echo p5 shapes const copy
+curl -s https://editor.p5js.org/editor/projects/psybeGMhD/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const copy.zip"
+echo p5 shapes const obj
+curl -s https://editor.p5js.org/editor/projects/-Cx-jDRbT/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes const obj.zip"
+echo p5 shapes css color
+curl -s https://editor.p5js.org/editor/projects/caNWprD8y/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes css color.zip"
+echo p5 shapes func
+curl -s https://editor.p5js.org/editor/projects/0OFIOza1o/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func.zip"
+echo p5 shapes func
+curl -s https://editor.p5js.org/editor/projects/sC5o42pdk/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func.zip"
+echo p5 shapes func doc
+curl -s https://editor.p5js.org/editor/projects/pvDuA6pji/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func doc.zip"
+echo p5 shapes func narrow
+curl -s https://editor.p5js.org/editor/projects/-svyQySdn/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes func narrow.zip"
+echo p5 shapes let
+curl -s https://editor.p5js.org/editor/projects/xJ-9821NA/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let.zip"
+echo p5 shapes let color
+curl -s https://editor.p5js.org/editor/projects/V_jfRF6KX/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let color.zip"
+echo p5 shapes let color arg
+curl -s https://editor.p5js.org/editor/projects/je1X0URsB/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let color arg.zip"
+echo p5 shapes let scale
+curl -s https://editor.p5js.org/editor/projects/Zdpc0mTBD/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let scale.zip"
+echo p5 shapes let xstart
+curl -s https://editor.p5js.org/editor/projects/7QFGcIZhW/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes let xstart.zip"
+echo p5 shapes scale
+curl -s https://editor.p5js.org/editor/projects/8P4daikNK/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes scale.zip"
+echo p5 shapes translate
+curl -s https://editor.p5js.org/editor/projects/uKz00u1sE/zip -o "../p5mirror-jht1493/downloads/zips/p5 shapes translate.zip"
+echo p5.Image pixels video
+curl -s https://editor.p5js.org/editor/projects/IqKA6_3fm/zip -o "../p5mirror-jht1493/downloads/zips/p5.Image pixels video.zip"
+echo p5.Image pixels writeColor
+curl -s https://editor.p5js.org/editor/projects/gJFKLzI9w/zip -o "../p5mirror-jht1493/downloads/zips/p5.Image pixels writeColor.zip"
+echo p5js Code! - 2.2 - make your own variable copy
+curl -s https://editor.p5js.org/editor/projects/mD0oLyHAv/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - 2.2 - make your own variable copy.zip"
+echo p5js Code! - Array of Objects - for-of
+curl -s https://editor.p5js.org/editor/projects/utpzYq_O8/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects - for-of.zip"
+echo p5js Code! - Array of Objects copy
+curl -s https://editor.p5js.org/editor/projects/FyW8yCSdN/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
+echo p5js Code! - Array of Objects copy
+curl -s https://editor.p5js.org/editor/projects/Db9RLtnpU/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
+echo p5js Code! - Array of Objects copy
+curl -s https://editor.p5js.org/editor/projects/2gAJBioOK/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Array of Objects copy.zip"
+echo p5js Code! - Arrays and Loops copy
+curl -s https://editor.p5js.org/editor/projects/Ec5eN7Sn3/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Arrays and Loops copy.zip"
+echo p5js Code! - Function Basics copy
+curl -s https://editor.p5js.org/editor/projects/0Ndu35i2C/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy.zip"
+echo p5js Code! - Function Basics copy
+curl -s https://editor.p5js.org/editor/projects/Y-bMJyGd_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy.zip"
+echo p5js Code! - Function Basics copy copy
+curl -s https://editor.p5js.org/editor/projects/Py1dpGwjB/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Basics copy copy.zip"
+echo p5js Code! - Function Parameters and Arguments copy
+curl -s https://editor.p5js.org/editor/projects/5_RvxRlBN/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Function Parameters and Arguments copy.zip"
+echo p5js Code! - Mouse Interaction with Objects copy
+curl -s https://editor.p5js.org/editor/projects/g6LkZLCNH/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Mouse Interaction with Objects copy.zip"
+echo p5js Code! - Mouse Interaction with Objects copy
+curl -s https://editor.p5js.org/editor/projects/FfEuk4FvA/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Mouse Interaction with Objects copy.zip"
+echo p5js Code! - Nested Loops
+curl -s https://editor.p5js.org/editor/projects/9JZmSpMBf/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops.zip"
+echo p5js Code! - Nested Loops copy
+curl -s https://editor.p5js.org/editor/projects/bYVrbeTnD/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops copy.zip"
+echo p5js Code! - Nested Loops setup only
+curl -s https://editor.p5js.org/editor/projects/aETsr3i2y/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Nested Loops setup only.zip"
+echo p5js Code! - Object Communication 2 copy
+curl -s https://editor.p5js.org/editor/projects/jzkOYSyUq/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Object Communication 2 copy.zip"
+echo p5js Code! - Objects 0
+curl -s https://editor.p5js.org/editor/projects/fLBPDOAfS/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects 0.zip"
+echo p5js Code! - Objects 1
+curl -s https://editor.p5js.org/editor/projects/j2QFmwSPf/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects 1.zip"
+echo p5js Code! - Objects copy
+curl -s https://editor.p5js.org/editor/projects/TPptfRqA_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Objects copy.zip"
+echo p5js Code! - Removing Objects from Arrays - Trail copy
+curl -s https://editor.p5js.org/editor/projects/3ZF2M0Jiu/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Removing Objects from Arrays - Trail copy.zip"
+echo p5js Code! - Removing Objects from Arrays copy
+curl -s https://editor.p5js.org/editor/projects/55129CtVc/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - Removing Objects from Arrays copy.zip"
+echo p5js Code! - What is an Array? copy
+curl -s https://editor.p5js.org/editor/projects/dzMw-jQet/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
+echo p5js Code! - What is an Array? copy
+curl -s https://editor.p5js.org/editor/projects/1-pBQvK5N/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
+echo p5js Code! - What is an Array? copy
+curl -s https://editor.p5js.org/editor/projects/Vi31qd_Rl/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
+echo p5js Code! - What is an Array? copy
+curl -s https://editor.p5js.org/editor/projects/d7H12qXAD/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy.zip"
+echo p5js Code! - What is an Array? copy copy
+curl -s https://editor.p5js.org/editor/projects/9JR8Me2z_/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - What is an Array? copy copy.zip"
+echo p5js Code! - while and for Loops
+curl -s https://editor.p5js.org/editor/projects/dE24sc0tc/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - while and for Loops.zip"
+echo p5js Code! - while and for Loops copy
+curl -s https://editor.p5js.org/editor/projects/R5TWeAMyI/zip -o "../p5mirror-jht1493/downloads/zips/p5js Code! - while and for Loops copy.zip"
+echo p5LiveMedia  Mutliple
+curl -s https://editor.p5js.org/editor/projects/dMqGz_SOs/zip -o "../p5mirror-jht1493/downloads/zips/p5LiveMedia  Mutliple.zip"
+echo painting alpha
+curl -s https://editor.p5js.org/editor/projects/tW6WUgAlB/zip -o "../p5mirror-jht1493/downloads/zips/painting alpha.zip"
+echo painting alpha copy
+curl -s https://editor.p5js.org/editor/projects/qffkxKG5_/zip -o "../p5mirror-jht1493/downloads/zips/painting alpha copy.zip"
+echo part_hit color
+curl -s https://editor.p5js.org/editor/projects/Un9KFJDLT/zip -o "../p5mirror-jht1493/downloads/zips/part_hit color.zip"
+echo part_hit red white
+curl -s https://editor.p5js.org/editor/projects/WjbGyxFp5/zip -o "../p5mirror-jht1493/downloads/zips/part_hit red white.zip"
+echo part_hit stick
+curl -s https://editor.p5js.org/editor/projects/oiOOGZt3u/zip -o "../p5mirror-jht1493/downloads/zips/part_hit stick.zip"
+echo part_hit toggle
+curl -s https://editor.p5js.org/editor/projects/K9r3xCWq3/zip -o "../p5mirror-jht1493/downloads/zips/part_hit toggle.zip"
+echo Part1Week8 by  June
+curl -s https://editor.p5js.org/editor/projects/9wMU2F1q8/zip -o "../p5mirror-jht1493/downloads/zips/Part1Week8 by  June.zip"
+echo parts 3 hover
+curl -s https://editor.p5js.org/editor/projects/FQuUs0kYM/zip -o "../p5mirror-jht1493/downloads/zips/parts 3 hover.zip"
+echo parts 3 hover vert
+curl -s https://editor.p5js.org/editor/projects/ub9YdibCn/zip -o "../p5mirror-jht1493/downloads/zips/parts 3 hover vert.zip"
+echo parts 4 hover
+curl -s https://editor.p5js.org/editor/projects/Y5hKqpbmH/zip -o "../p5mirror-jht1493/downloads/zips/parts 4 hover.zip"
+echo parts n hover
+curl -s https://editor.p5js.org/editor/projects/aSxjTqxyy/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover.zip"
+echo parts n hover for
+curl -s https://editor.p5js.org/editor/projects/Bldmuocou/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover for.zip"
+echo parts n hover while
+curl -s https://editor.p5js.org/editor/projects/CNEfRXFTU/zip -o "../p5mirror-jht1493/downloads/zips/parts n hover while.zip"
+echo pattern-animation copy
+curl -s https://editor.p5js.org/editor/projects/vOZRgmbC4/zip -o "../p5mirror-jht1493/downloads/zips/pattern-animation copy.zip"
+echo pentagon 3
+curl -s https://editor.p5js.org/editor/projects/OPBB8d8Oq/zip -o "../p5mirror-jht1493/downloads/zips/pentagon 3.zip"
+echo pentagon 4
+curl -s https://editor.p5js.org/editor/projects/s2NkI6atG/zip -o "../p5mirror-jht1493/downloads/zips/pentagon 4.zip"
+echo pentagon copy
+curl -s https://editor.p5js.org/editor/projects/OX_aIEWb1/zip -o "../p5mirror-jht1493/downloads/zips/pentagon copy.zip"
+echo pentagon copy copy
+curl -s https://editor.p5js.org/editor/projects/-RM03VEib/zip -o "../p5mirror-jht1493/downloads/zips/pentagon copy copy.zip"
+echo Perlin Noise - Adding Y Axis copy
+curl -s https://editor.p5js.org/editor/projects/zgS0Ss11z/zip -o "../p5mirror-jht1493/downloads/zips/Perlin Noise - Adding Y Axis copy.zip"
+echo perlin noise copy
+curl -s https://editor.p5js.org/editor/projects/NkPP_NhSR/zip -o "../p5mirror-jht1493/downloads/zips/perlin noise copy.zip"
+echo Perlin Noise GIF Loops copy
+curl -s https://editor.p5js.org/editor/projects/s2GSSdex7/zip -o "../p5mirror-jht1493/downloads/zips/Perlin Noise GIF Loops copy.zip"
+echo Photoshoot? copy
+curl -s https://editor.p5js.org/editor/projects/ispvjO_hR/zip -o "../p5mirror-jht1493/downloads/zips/Photoshoot? copy.zip"
+echo Phyllotaxis copy
+curl -s https://editor.p5js.org/editor/projects/4K_gG13Rc/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis copy.zip"
+echo Phyllotaxis copy
+curl -s https://editor.p5js.org/editor/projects/Lf-Nu_e9Y/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis copy.zip"
+echo Phyllotaxis still
+curl -s https://editor.p5js.org/editor/projects/oN4feOu7h/zip -o "../p5mirror-jht1493/downloads/zips/Phyllotaxis still.zip"
+echo Pitch front copy
+curl -s https://editor.p5js.org/editor/projects/yH2BFoqbf/zip -o "../p5mirror-jht1493/downloads/zips/Pitch front copy.zip"
+echo Pixel array basics copy
+curl -s https://editor.p5js.org/editor/projects/_pwaycFAk/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array basics copy.zip"
+echo Pixel array graphics copy
+curl -s https://editor.p5js.org/editor/projects/KgYzn9JDM/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array graphics copy.zip"
+echo Pixel array graphics copy
+curl -s https://editor.p5js.org/editor/projects/iX-zysAyn/zip -o "../p5mirror-jht1493/downloads/zips/Pixel array graphics copy.zip"
+echo pixel array gray
+curl -s https://editor.p5js.org/editor/projects/H1O3DTPlU/zip -o "../p5mirror-jht1493/downloads/zips/pixel array gray.zip"
+echo pixel array mirror
+curl -s https://editor.p5js.org/editor/projects/hk2yZ1GrL/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror.zip"
+echo pixel array mirror copy
+curl -s https://editor.p5js.org/editor/projects/S5VolfiXD/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror copy.zip"
+echo pixel array mirror copy
+curl -s https://editor.p5js.org/editor/projects/3EyXABUnX/zip -o "../p5mirror-jht1493/downloads/zips/pixel array mirror copy.zip"
+echo pixel array select
+curl -s https://editor.p5js.org/editor/projects/0RkzmM63T/zip -o "../p5mirror-jht1493/downloads/zips/pixel array select.zip"
+echo pixel array select copy
+curl -s https://editor.p5js.org/editor/projects/W2mdNSeu6/zip -o "../p5mirror-jht1493/downloads/zips/pixel array select copy.zip"
+echo pixel bestill Float64Array
+curl -s https://editor.p5js.org/editor/projects/9XxXNiYsd/zip -o "../p5mirror-jht1493/downloads/zips/pixel bestill Float64Array.zip"
+echo pixel bestill Float64Array copy
+curl -s https://editor.p5js.org/editor/projects/toIt2Qmkj/zip -o "../p5mirror-jht1493/downloads/zips/pixel bestill Float64Array copy.zip"
+echo pixel maze bw
+curl -s https://editor.p5js.org/editor/projects/24Gzsybqg/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze bw.zip"
+echo pixel maze erase
+curl -s https://editor.p5js.org/editor/projects/At3k-UALX/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze erase.zip"
+echo pixel maze rect line
+curl -s https://editor.p5js.org/editor/projects/9pIKA6_T0/zip -o "../p5mirror-jht1493/downloads/zips/pixel maze rect line.zip"
+echo pixel scan full
+curl -s https://editor.p5js.org/editor/projects/FjiLnBs_u/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan full.zip"
+echo pixel scan lower
+curl -s https://editor.p5js.org/editor/projects/p_UiwQ5wK/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan lower.zip"
+echo pixel scan rain
+curl -s https://editor.p5js.org/editor/projects/pSdYQ_GF3/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain.zip"
+echo pixel scan rain 256
+curl -s https://editor.p5js.org/editor/projects/dw276NO7f/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain 256.zip"
+echo pixel scan rain 256 copy
+curl -s https://editor.p5js.org/editor/projects/NsutMSYAC/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain 256 copy.zip"
+echo pixel scan rain full
+curl -s https://editor.p5js.org/editor/projects/jtEcYfbbP/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan rain full.zip"
+echo pixel scan yend
+curl -s https://editor.p5js.org/editor/projects/fcL_aT0y8/zip -o "../p5mirror-jht1493/downloads/zips/pixel scan yend.zip"
+echo Pixelated mirror copy
+curl -s https://editor.p5js.org/editor/projects/0FpCjWV1T/zip -o "../p5mirror-jht1493/downloads/zips/Pixelated mirror copy.zip"
+echo Pixelated mirror with pixels[] copy
+curl -s https://editor.p5js.org/editor/projects/tIxWUpnVz/zip -o "../p5mirror-jht1493/downloads/zips/Pixelated mirror with pixels[] copy.zip"
+echo Pointillist Filter - Painting Technique copy
+curl -s https://editor.p5js.org/editor/projects/U-3Y17evL/zip -o "../p5mirror-jht1493/downloads/zips/Pointillist Filter - Painting Technique copy.zip"
+echo Polished octave copy
+curl -s https://editor.p5js.org/editor/projects/sa0q9VtMa/zip -o "../p5mirror-jht1493/downloads/zips/Polished octave copy.zip"
+echo portrait-Jchen_123 rotated
+curl -s https://editor.p5js.org/editor/projects/lsahl0gCh/zip -o "../p5mirror-jht1493/downloads/zips/portrait-Jchen_123 rotated.zip"
+echo PoseNet 1
+curl -s https://editor.p5js.org/editor/projects/TKHz6fbAa/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet 1.zip"
+echo PoseNet Example 1
+curl -s https://editor.p5js.org/editor/projects/xKSDq-w4H/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet Example 1.zip"
+echo PoseNet multi
+curl -s https://editor.p5js.org/editor/projects/xjAXcxLSW/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet multi.zip"
+echo PoseNet_image_single
+curl -s https://editor.p5js.org/editor/projects/i89ZaeyAS/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_image_single.zip"
+echo PoseNet_part_selection
+curl -s https://editor.p5js.org/editor/projects/p9K711ovr/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_part_selection.zip"
+echo PoseNet_webcam
+curl -s https://editor.p5js.org/editor/projects/gepkqrpS7/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam.zip"
+echo PoseNet_webcam colors
+curl -s https://editor.p5js.org/editor/projects/zidzjZKk1/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam colors.zip"
+echo PoseNet_webcam copy
+curl -s https://editor.p5js.org/editor/projects/DKrjqeZ9W/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam copy.zip"
+echo PoseNet_webcam eyes
+curl -s https://editor.p5js.org/editor/projects/u5jptPqVU/zip -o "../p5mirror-jht1493/downloads/zips/PoseNet_webcam eyes.zip"
+echo preload loadImage
+curl -s https://editor.p5js.org/editor/projects/zZXn0_0Ml/zip -o "../p5mirror-jht1493/downloads/zips/preload loadImage.zip"
+echo preload loadImage copy
+curl -s https://editor.p5js.org/editor/projects/27PKO6TAUc/zip -o "../p5mirror-jht1493/downloads/zips/preload loadImage copy.zip"
+echo print fail
+curl -s https://editor.p5js.org/editor/projects/frwcmLDTi/zip -o "../p5mirror-jht1493/downloads/zips/print fail.zip"
+echo project3 copy
+curl -s https://editor.p5js.org/editor/projects/KqWzw9oao/zip -o "../p5mirror-jht1493/downloads/zips/project3 copy.zip"
+echo quadrant rollover
+curl -s https://editor.p5js.org/editor/projects/YuGfZGvKr/zip -o "../p5mirror-jht1493/downloads/zips/quadrant rollover.zip"
+echo Radial bramble
+curl -s https://editor.p5js.org/editor/projects/U4oE_TsVi/zip -o "../p5mirror-jht1493/downloads/zips/Radial bramble.zip"
+echo Radial catcher
+curl -s https://editor.p5js.org/editor/projects/TXi-Ma7bH/zip -o "../p5mirror-jht1493/downloads/zips/Radial catcher.zip"
+echo Random Grid copy
+curl -s https://editor.p5js.org/editor/projects/4z1S6P6du/zip -o "../p5mirror-jht1493/downloads/zips/Random Grid copy.zip"
+echo rect ribbon
+curl -s https://editor.p5js.org/editor/projects/zagmQaq8J/zip -o "../p5mirror-jht1493/downloads/zips/rect ribbon.zip"
+echo rect trans inline
+curl -s https://editor.p5js.org/editor/projects/0Llz7CFZV/zip -o "../p5mirror-jht1493/downloads/zips/rect trans inline.zip"
+echo Reinvented rosehip
+curl -s https://editor.p5js.org/editor/projects/qyBPeI5eq/zip -o "../p5mirror-jht1493/downloads/zips/Reinvented rosehip.zip"
+echo Reinvented rosehip frameCount
+curl -s https://editor.p5js.org/editor/projects/Ob9CzLOtN/zip -o "../p5mirror-jht1493/downloads/zips/Reinvented rosehip frameCount.zip"
+echo report createP
+curl -s https://editor.p5js.org/editor/projects/tMpLyeubq/zip -o "../p5mirror-jht1493/downloads/zips/report createP.zip"
+echo report print
+curl -s https://editor.p5js.org/editor/projects/cCtTz_RBY/zip -o "../p5mirror-jht1493/downloads/zips/report print.zip"
+echo report_mousexy
+curl -s https://editor.p5js.org/editor/projects/LMvRZ3g3M/zip -o "../p5mirror-jht1493/downloads/zips/report_mousexy.zip"
+echo report_msg frameCount
+curl -s https://editor.p5js.org/editor/projects/_QZjP21LD6/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount.zip"
+echo report_msg frameCount round
+curl -s https://editor.p5js.org/editor/projects/OhV7PdXNk/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount round.zip"
+echo report_msg frameCount round
+curl -s https://editor.p5js.org/editor/projects/1RE_HSLZ9/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameCount round.zip"
+echo report_msg frameRate
+curl -s https://editor.p5js.org/editor/projects/l8huTfqq7/zip -o "../p5mirror-jht1493/downloads/zips/report_msg frameRate.zip"
+echo report_msg line_num
+curl -s https://editor.p5js.org/editor/projects/KMv3WaVCz/zip -o "../p5mirror-jht1493/downloads/zips/report_msg line_num.zip"
+echo report_xy
+curl -s https://editor.p5js.org/editor/projects/iT7CFCFf_/zip -o "../p5mirror-jht1493/downloads/zips/report_xy.zip"
+echo Rock-Paper-Scissor copy
+curl -s https://editor.p5js.org/editor/projects/P2CRwWPlj/zip -o "../p5mirror-jht1493/downloads/zips/Rock-Paper-Scissor copy.zip"
+echo Roomy puppy
+curl -s https://editor.p5js.org/editor/projects/rbtkrn0uQ/zip -o "../p5mirror-jht1493/downloads/zips/Roomy puppy.zip"
+echo sayo Curl Voronoi
+curl -s https://editor.p5js.org/editor/projects/NzSIzJX0f/zip -o "../p5mirror-jht1493/downloads/zips/sayo Curl Voronoi.zip"
+echo scale-amp copy
+curl -s https://editor.p5js.org/editor/projects/dqN3bFRx3/zip -o "../p5mirror-jht1493/downloads/zips/scale-amp copy.zip"
+echo scale-graph-3
+curl -s https://editor.p5js.org/editor/projects/QWKytZi9v/zip -o "../p5mirror-jht1493/downloads/zips/scale-graph-3.zip"
+echo scale-graph-3 copy
+curl -s https://editor.p5js.org/editor/projects/7uTmgYj2hB/zip -o "../p5mirror-jht1493/downloads/zips/scale-graph-3 copy.zip"
+echo scaly ripples copy
+curl -s https://editor.p5js.org/editor/projects/Tmgc65snE/zip -o "../p5mirror-jht1493/downloads/zips/scaly ripples copy.zip"
+echo scan
+curl -s https://editor.p5js.org/editor/projects/G8XhYhPK7/zip -o "../p5mirror-jht1493/downloads/zips/scan.zip"
+echo scan 1
+curl -s https://editor.p5js.org/editor/projects/gnmoqmzbH/zip -o "../p5mirror-jht1493/downloads/zips/scan 1.zip"
+echo Scrawny web
+curl -s https://editor.p5js.org/editor/projects/1pSIc4pv-/zip -o "../p5mirror-jht1493/downloads/zips/Scrawny web.zip"
+echo Self Portrait | Long L copy
+curl -s https://editor.p5js.org/editor/projects/P_VmXVkzG/zip -o "../p5mirror-jht1493/downloads/zips/Self Portrait | Long L copy.zip"
+echo self portrait copy
+curl -s https://editor.p5js.org/editor/projects/SxagGyCjD/zip -o "../p5mirror-jht1493/downloads/zips/self portrait copy.zip"
+echo Self-Portrait - Abby
+curl -s https://editor.p5js.org/editor/projects/TYxVgIZvj/zip -o "../p5mirror-jht1493/downloads/zips/Self-Portrait - Abby.zip"
+echo self-portrait Divya
+curl -s https://editor.p5js.org/editor/projects/izm7rSZe4/zip -o "../p5mirror-jht1493/downloads/zips/self-portrait Divya.zip"
+echo self-portrait Divya copy
+curl -s https://editor.p5js.org/editor/projects/MCzn9umhB/zip -o "../p5mirror-jht1493/downloads/zips/self-portrait Divya copy.zip"
+echo sequencer v3.2 alternative copy
+curl -s https://editor.p5js.org/editor/projects/DCYEO0YOk/zip -o "../p5mirror-jht1493/downloads/zips/sequencer v3.2 alternative copy.zip"
+echo Sequencer v3.2 copy
+curl -s https://editor.p5js.org/editor/projects/XQYLmn2RA/zip -o "../p5mirror-jht1493/downloads/zips/Sequencer v3.2 copy.zip"
+echo shadertoy
+curl -s https://editor.p5js.org/editor/projects/JMzjqwJQb/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy.zip"
+echo shadertoy
+curl -s https://editor.p5js.org/editor/projects/P_J51He7l/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy.zip"
+echo shadertoy inst
+curl -s https://editor.p5js.org/editor/projects/s_lXGkKBH/zip -o "../p5mirror-jht1493/downloads/zips/shadertoy inst.zip"
+echo Shared Space copy
+curl -s https://editor.p5js.org/editor/projects/9GKVK4dkw/zip -o "../p5mirror-jht1493/downloads/zips/Shared Space copy.zip"
+echo Shine asparagus
+curl -s https://editor.p5js.org/editor/projects/x8cU3hHrI/zip -o "../p5mirror-jht1493/downloads/zips/Shine asparagus.zip"
+echo show_msg frameCount
+curl -s https://editor.p5js.org/editor/projects/_SeVXH-Tl/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount.zip"
+echo show_msg frameCount remainder
+curl -s https://editor.p5js.org/editor/projects/3_u4pPt6H/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount remainder.zip"
+echo show_msg frameCount remainder xy
+curl -s https://editor.p5js.org/editor/projects/zvjJtdtYP/zip -o "../p5mirror-jht1493/downloads/zips/show_msg frameCount remainder xy.zip"
+echo show_span
+curl -s https://editor.p5js.org/editor/projects/qXn6zhdVr/zip -o "../p5mirror-jht1493/downloads/zips/show_span.zip"
+echo show_span br
+curl -s https://editor.p5js.org/editor/projects/cAxy7lScp/zip -o "../p5mirror-jht1493/downloads/zips/show_span br.zip"
+echo show_span opt
+curl -s https://editor.p5js.org/editor/projects/GKJ_DbXKN/zip -o "../p5mirror-jht1493/downloads/zips/show_span opt.zip"
+echo Showy hedge
+curl -s https://editor.p5js.org/editor/projects/lI_EUFKmR/zip -o "../p5mirror-jht1493/downloads/zips/Showy hedge.zip"
+echo Simple attraction
+curl -s https://editor.p5js.org/editor/projects/u1zPdS73I/zip -o "../p5mirror-jht1493/downloads/zips/Simple attraction.zip"
+echo Simple Draw
+curl -s https://editor.p5js.org/editor/projects/B-_Nh-YX0/zip -o "../p5mirror-jht1493/downloads/zips/Simple Draw.zip"
+echo single bubble
+curl -s https://editor.p5js.org/editor/projects/cB7UxUCfw/zip -o "../p5mirror-jht1493/downloads/zips/single bubble.zip"
+echo slider checkbox ui text
+curl -s https://editor.p5js.org/editor/projects/o6D3U4yPp/zip -o "../p5mirror-jht1493/downloads/zips/slider checkbox ui text.zip"
+echo Slider Fun copy
+curl -s https://editor.p5js.org/editor/projects/ktxWHwZjH/zip -o "../p5mirror-jht1493/downloads/zips/Slider Fun copy.zip"
+echo Slider_hue_circles_cursorLimited
+curl -s https://editor.p5js.org/editor/projects/FsL2OKHvp/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited.zip"
+echo Slider_hue_circles_cursorLimited_pop Martha
+curl -s https://editor.p5js.org/editor/projects/6Oneew7P0/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited_pop Martha.zip"
+echo Slider_hue_circles_cursorLimited_pop Martha closeTo
+curl -s https://editor.p5js.org/editor/projects/VUtYxjP7S/zip -o "../p5mirror-jht1493/downloads/zips/Slider_hue_circles_cursorLimited_pop Martha closeTo.zip"
+echo Sliders copy
+curl -s https://editor.p5js.org/editor/projects/m5ljp9e1K/zip -o "../p5mirror-jht1493/downloads/zips/Sliders copy.zip"
+echo slides re-mix
+curl -s https://editor.p5js.org/editor/projects/OIej0SLSh/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix.zip"
+echo slides re-mix mousePressed
+curl -s https://editor.p5js.org/editor/projects/OMXzbr-LY/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix mousePressed.zip"
+echo slides re-mix switch
+curl -s https://editor.p5js.org/editor/projects/PllMTbvmR/zip -o "../p5mirror-jht1493/downloads/zips/slides re-mix switch.zip"
+echo slit-scan yvonne
+curl -s https://editor.p5js.org/editor/projects/pDExbc0kd/zip -o "../p5mirror-jht1493/downloads/zips/slit-scan yvonne.zip"
+echo snake 0
+curl -s https://editor.p5js.org/editor/projects/wQ3qQ5wOw/zip -o "../p5mirror-jht1493/downloads/zips/snake 0.zip"
+echo snake max_loc
+curl -s https://editor.p5js.org/editor/projects/KUhNQWtDL/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
+echo snake max_loc
+curl -s https://editor.p5js.org/editor/projects/nIkOcRI6e/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
+echo snake max_loc
+curl -s https://editor.p5js.org/editor/projects/ZWeShtcM2/zip -o "../p5mirror-jht1493/downloads/zips/snake max_loc.zip"
+echo Sorting by colors
+curl -s https://editor.p5js.org/editor/projects/B1yNi1afN/zip -o "../p5mirror-jht1493/downloads/zips/Sorting by colors.zip"
+echo Sorting video
+curl -s https://editor.p5js.org/editor/projects/QpBNxr3n-/zip -o "../p5mirror-jht1493/downloads/zips/Sorting video.zip"
+echo sound currentTime
+curl -s https://editor.p5js.org/editor/projects/mUuBkCAnP/zip -o "../p5mirror-jht1493/downloads/zips/sound currentTime.zip"
+echo sound currentTime freeze
+curl -s https://editor.p5js.org/editor/projects/Qwkt_b843/zip -o "../p5mirror-jht1493/downloads/zips/sound currentTime freeze.zip"
+echo sound monoSynth
+curl -s https://editor.p5js.org/editor/projects/azyk5_nkI/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth.zip"
+echo sound monoSynth a-z
+curl -s https://editor.p5js.org/editor/projects/-Q8SmPfMk/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth a-z.zip"
+echo sound monoSynth asdf
+curl -s https://editor.p5js.org/editor/projects/hGlsq1Lh4/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth asdf.zip"
+echo sound monoSynth asdf copy
+curl -s https://editor.p5js.org/editor/projects/VOQlLw9GB/zip -o "../p5mirror-jht1493/downloads/zips/sound monoSynth asdf copy.zip"
+echo sound playMode
+curl -s https://editor.p5js.org/editor/projects/rOJquzbJ5/zip -o "../p5mirror-jht1493/downloads/zips/sound playMode.zip"
+echo Sound Sine Color Sketch copy
+curl -s https://editor.p5js.org/editor/projects/A0o3Otz_g/zip -o "../p5mirror-jht1493/downloads/zips/Sound Sine Color Sketch copy.zip"
+echo South airplane
+curl -s https://editor.p5js.org/editor/projects/_NHt9cUfi/zip -o "../p5mirror-jht1493/downloads/zips/South airplane.zip"
+echo Spectrum glitter
+curl -s https://editor.p5js.org/editor/projects/09Cwd7mnE/zip -o "../p5mirror-jht1493/downloads/zips/Spectrum glitter.zip"
+echo Spiral by hyershin
+curl -s https://editor.p5js.org/editor/projects/oVldEBAP5/zip -o "../p5mirror-jht1493/downloads/zips/Spiral by hyershin.zip"
+echo Spiritual surf copy
+curl -s https://editor.p5js.org/editor/projects/9SGxBTjX8/zip -o "../p5mirror-jht1493/downloads/zips/Spiritual surf copy.zip"
+echo Spotlight video
+curl -s https://editor.p5js.org/editor/projects/OvSrgG3JD/zip -o "../p5mirror-jht1493/downloads/zips/Spotlight video.zip"
+echo Spotlight with Capture xy-cross-hair
+curl -s https://editor.p5js.org/editor/projects/32gJswO2L/zip -o "../p5mirror-jht1493/downloads/zips/Spotlight with Capture xy-cross-hair.zip"
+echo square rollover
+curl -s https://editor.p5js.org/editor/projects/fHPelvesv/zip -o "../p5mirror-jht1493/downloads/zips/square rollover.zip"
+echo Student Picker
+curl -s https://editor.p5js.org/editor/projects/u9MuGLpsj/zip -o "../p5mirror-jht1493/downloads/zips/Student Picker.zip"
+echo sum
+curl -s https://editor.p5js.org/editor/projects/8bxTAM84n/zip -o "../p5mirror-jht1493/downloads/zips/sum.zip"
+echo swarm copy
+curl -s https://editor.p5js.org/editor/projects/l0ELAKVpW/zip -o "../p5mirror-jht1493/downloads/zips/swarm copy.zip"
+echo Tangy time copy
+curl -s https://editor.p5js.org/editor/projects/xDoheDFb-/zip -o "../p5mirror-jht1493/downloads/zips/Tangy time copy.zip"
+echo tennis game copy
+curl -s https://editor.p5js.org/editor/projects/ImhindjDv/zip -o "../p5mirror-jht1493/downloads/zips/tennis game copy.zip"
+echo text frameCount
+curl -s https://editor.p5js.org/editor/projects/Ll_ZgtY_0/zip -o "../p5mirror-jht1493/downloads/zips/text frameCount.zip"
+echo text points perlin noise
+curl -s https://editor.p5js.org/editor/projects/FoN8-xraX/zip -o "../p5mirror-jht1493/downloads/zips/text points perlin noise.zip"
+echo Text To Points Examples copy
+curl -s https://editor.p5js.org/editor/projects/kncfw6qTC/zip -o "../p5mirror-jht1493/downloads/zips/Text To Points Examples copy.zip"
+echo The Box Spiral
+curl -s https://editor.p5js.org/editor/projects/Rk5lKftYh/zip -o "../p5mirror-jht1493/downloads/zips/The Box Spiral.zip"
+echo thecity_nyc-fade
+curl -s https://editor.p5js.org/editor/projects/e1WTKXUaI/zip -o "../p5mirror-jht1493/downloads/zips/thecity_nyc-fade.zip"
+echo Tianjun Wang
+curl -s https://editor.p5js.org/editor/projects/xSdz6zTYf/zip -o "../p5mirror-jht1493/downloads/zips/Tianjun Wang.zip"
+echo timed motion text
+curl -s https://editor.p5js.org/editor/projects/ExTKDesTy/zip -o "../p5mirror-jht1493/downloads/zips/timed motion text.zip"
+echo tint-limit-byr
+curl -s https://editor.p5js.org/editor/projects/Byj9bTU-K/zip -o "../p5mirror-jht1493/downloads/zips/tint-limit-byr.zip"
+echo tint-red
+curl -s https://editor.p5js.org/editor/projects/sHh0hUhNt/zip -o "../p5mirror-jht1493/downloads/zips/tint-red.zip"
+echo tint-red copy
+curl -s https://editor.p5js.org/editor/projects/r3Zc11p9E/zip -o "../p5mirror-jht1493/downloads/zips/tint-red copy.zip"
+echo Truchet func
+curl -s https://editor.p5js.org/editor/projects/V2ifPvqiw/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func.zip"
+echo Truchet func 10
+curl -s https://editor.p5js.org/editor/projects/SQrWvF9zQ/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 10.zip"
+echo Truchet func 2
+curl -s https://editor.p5js.org/editor/projects/u13JQBCSD/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 2.zip"
+echo Truchet func 3
+curl -s https://editor.p5js.org/editor/projects/f5vzsNvfR/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 3.zip"
+echo Truchet func 4
+curl -s https://editor.p5js.org/editor/projects/zOy0N1rYt/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 4.zip"
+echo Truchet func 5
+curl -s https://editor.p5js.org/editor/projects/FwfyGjYos/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 5.zip"
+echo Truchet func 6
+curl -s https://editor.p5js.org/editor/projects/XoCFY-7Yi/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 6.zip"
+echo Truchet func 7
+curl -s https://editor.p5js.org/editor/projects/3T3NmXA9n/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 7.zip"
+echo Truchet func 8
+curl -s https://editor.p5js.org/editor/projects/eEkY6Puq2/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 8.zip"
+echo Truchet func 9
+curl -s https://editor.p5js.org/editor/projects/6wi3Qiz6o/zip -o "../p5mirror-jht1493/downloads/zips/Truchet func 9.zip"
+echo Truchet in p5js by Vamoss
+curl -s https://editor.p5js.org/editor/projects/lhI9E2O7P/zip -o "../p5mirror-jht1493/downloads/zips/Truchet in p5js by Vamoss.zip"
+echo Truchet Therapeutic - first rev
+curl -s https://editor.p5js.org/editor/projects/jK_d9a5uK/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Therapeutic - first rev.zip"
+echo Truchet Vamoss a_width
+curl -s https://editor.p5js.org/editor/projects/EkUoNfJ_x/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss a_width.zip"
+echo Truchet Vamoss a_width noseed
+curl -s https://editor.p5js.org/editor/projects/6fG6Dm_La/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss a_width noseed.zip"
+echo Truchet Vamoss checker
+curl -s https://editor.p5js.org/editor/projects/-DBNkfCTv/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss checker.zip"
+echo Truchet Vamoss rect circle
+curl -s https://editor.p5js.org/editor/projects/4G63C6hW7/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss rect circle.zip"
+echo Truchet Vamoss rect circle - width bug
+curl -s https://editor.p5js.org/editor/projects/ib0mxB9v_/zip -o "../p5mirror-jht1493/downloads/zips/Truchet Vamoss rect circle - width bug.zip"
+echo two circle
+curl -s https://editor.p5js.org/editor/projects/RVKfyKjQL/zip -o "../p5mirror-jht1493/downloads/zips/two circle.zip"
+echo two circle 2
+curl -s https://editor.p5js.org/editor/projects/lgzws5PmP/zip -o "../p5mirror-jht1493/downloads/zips/two circle 2.zip"
+echo Upbeat english
+curl -s https://editor.p5js.org/editor/projects/K1vPENYde/zip -o "../p5mirror-jht1493/downloads/zips/Upbeat english.zip"
+echo vconstraints  1080
+curl -s https://editor.p5js.org/editor/projects/QOfdBEg_C/zip -o "../p5mirror-jht1493/downloads/zips/vconstraints  1080.zip"
+echo vconstraints  360
+curl -s https://editor.p5js.org/editor/projects/Tkimyte0W/zip -o "../p5mirror-jht1493/downloads/zips/vconstraints  360.zip"
+echo Verbose money
+curl -s https://editor.p5js.org/editor/projects/5dI8K85U3/zip -o "../p5mirror-jht1493/downloads/zips/Verbose money.zip"
+echo video mirror trans scale
+curl -s https://editor.p5js.org/editor/projects/YcaRKxWR9/zip -o "../p5mirror-jht1493/downloads/zips/video mirror trans scale.zip"
+echo video radial perlin pix copy
+curl -s https://editor.p5js.org/editor/projects/juGqHulQl/zip -o "../p5mirror-jht1493/downloads/zips/video radial perlin pix copy.zip"
+echo video scan
+curl -s https://editor.p5js.org/editor/projects/gnx2IQn1N/zip -o "../p5mirror-jht1493/downloads/zips/video scan.zip"
+echo video scan
+curl -s https://editor.p5js.org/editor/projects/rZsqLSVhz/zip -o "../p5mirror-jht1493/downloads/zips/video scan.zip"
+echo video scan 2
+curl -s https://editor.p5js.org/editor/projects/O_Hnohi8c/zip -o "../p5mirror-jht1493/downloads/zips/video scan 2.zip"
+echo video scan bar
+curl -s https://editor.p5js.org/editor/projects/1E2TH--Jz/zip -o "../p5mirror-jht1493/downloads/zips/video scan bar.zip"
+echo video scan gap
+curl -s https://editor.p5js.org/editor/projects/oHVI5tU4BP/zip -o "../p5mirror-jht1493/downloads/zips/video scan gap.zip"
+echo video scan gap center
+curl -s https://editor.p5js.org/editor/projects/mEXETIijv/zip -o "../p5mirror-jht1493/downloads/zips/video scan gap center.zip"
+echo video scan h v
+curl -s https://editor.p5js.org/editor/projects/iK-Cj68vp/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v.zip"
+echo video scan h v
+curl -s https://editor.p5js.org/editor/projects/xMeu8V5F0/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v.zip"
+echo video scan h v grid
+curl -s https://editor.p5js.org/editor/projects/Od9wfIK4T/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v grid.zip"
+echo video scan h v random
+curl -s https://editor.p5js.org/editor/projects/pwph3Z2LY/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v random.zip"
+echo video scan h v splat
+curl -s https://editor.p5js.org/editor/projects/RA0p_u3Kj/zip -o "../p5mirror-jht1493/downloads/zips/video scan h v splat.zip"
+echo video scan mousePressed
+curl -s https://editor.p5js.org/editor/projects/mZeL7retS/zip -o "../p5mirror-jht1493/downloads/zips/video scan mousePressed.zip"
+echo video scan mouseY
+curl -s https://editor.p5js.org/editor/projects/Q9jdcICpW/zip -o "../p5mirror-jht1493/downloads/zips/video scan mouseY.zip"
+echo video scan r both
+curl -s https://editor.p5js.org/editor/projects/NHraBfCqi/zip -o "../p5mirror-jht1493/downloads/zips/video scan r both.zip"
+echo video scan rand
+curl -s https://editor.p5js.org/editor/projects/7Ps7oN4If/zip -o "../p5mirror-jht1493/downloads/zips/video scan rand.zip"
+echo video scan sin
+curl -s https://editor.p5js.org/editor/projects/wa-bYgC1p/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin.zip"
+echo video scan sin r both
+curl -s https://editor.p5js.org/editor/projects/rVpCxRbBt/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin r both.zip"
+echo video scan sin random
+curl -s https://editor.p5js.org/editor/projects/R0GpSYDZo/zip -o "../p5mirror-jht1493/downloads/zips/video scan sin random.zip"
+echo video scan z-index
+curl -s https://editor.p5js.org/editor/projects/5ArHb1TOR/zip -o "../p5mirror-jht1493/downloads/zips/video scan z-index.zip"
+echo video spot
+curl -s https://editor.p5js.org/editor/projects/khINZL5ob/zip -o "../p5mirror-jht1493/downloads/zips/video spot.zip"
+echo video spot
+curl -s https://editor.p5js.org/editor/projects/Auj6snOFP/zip -o "../p5mirror-jht1493/downloads/zips/video spot.zip"
+echo video tint 1
+curl -s https://editor.p5js.org/editor/projects/6bQIVzNuq/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1.zip"
+echo video tint 1 copy
+curl -s https://editor.p5js.org/editor/projects/pdRYz8j-Z/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy.zip"
+echo video tint 1 copy
+curl -s https://editor.p5js.org/editor/projects/8ZdK6eHLU/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy.zip"
+echo video tint 1 copy copy
+curl -s https://editor.p5js.org/editor/projects/I1_qBk0qr/zip -o "../p5mirror-jht1493/downloads/zips/video tint 1 copy copy.zip"
+echo video tint 2x2
+curl -s https://editor.p5js.org/editor/projects/Zx8JnxZfw/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2.zip"
+echo video tint 2x2 copy
+curl -s https://editor.p5js.org/editor/projects/4geC-l8p3/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2 copy.zip"
+echo video tint 2x2 mobile
+curl -s https://editor.p5js.org/editor/projects/QYlq2DxmM/zip -o "../p5mirror-jht1493/downloads/zips/video tint 2x2 mobile.zip"
+echo vote blue 2020
+curl -s https://editor.p5js.org/editor/projects/4Ne9jbVPW/zip -o "../p5mirror-jht1493/downloads/zips/vote blue 2020.zip"
+echo vvv paint3 jht
+curl -s https://editor.p5js.org/editor/projects/AIslzEjVd/zip -o "../p5mirror-jht1493/downloads/zips/vvv paint3 jht.zip"
+echo W1 pixel portrait
+curl -s https://editor.p5js.org/editor/projects/Cw3zmIgLj/zip -o "../p5mirror-jht1493/downloads/zips/W1 pixel portrait.zip"
+echo W1 pixel portrait copy
+curl -s https://editor.p5js.org/editor/projects/q7s6kv32f/zip -o "../p5mirror-jht1493/downloads/zips/W1 pixel portrait copy.zip"
+echo w4 assignment copy copy
+curl -s https://editor.p5js.org/editor/projects/sXjultT-v/zip -o "../p5mirror-jht1493/downloads/zips/w4 assignment copy copy.zip"
+echo W4 checkerboard challenge
+curl -s https://editor.p5js.org/editor/projects/NynpNNENn/zip -o "../p5mirror-jht1493/downloads/zips/W4 checkerboard challenge.zip"
+echo w4 hw copy
+curl -s https://editor.p5js.org/editor/projects/yZOEGYzzn/zip -o "../p5mirror-jht1493/downloads/zips/w4 hw copy.zip"
+echo W4 s2  justin 2
+curl -s https://editor.p5js.org/editor/projects/hY5DDSiCC/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2  justin 2.zip"
+echo W4 s2 1 justin
+curl -s https://editor.p5js.org/editor/projects/WH-rQFwwa/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2 1 justin.zip"
+echo W4 s2 copy
+curl -s https://editor.p5js.org/editor/projects/tWpsFy9Ln/zip -o "../p5mirror-jht1493/downloads/zips/W4 s2 copy.zip"
+echo W4_1.3 copy_1_modulo 0
+curl -s https://editor.p5js.org/editor/projects/dzyfD8lw_/zip -o "../p5mirror-jht1493/downloads/zips/W4_1.3 copy_1_modulo 0.zip"
+echo W4-4.1 checkerboard copy
+curl -s https://editor.p5js.org/editor/projects/_-M305erc/zip -o "../p5mirror-jht1493/downloads/zips/W4-4.1 checkerboard copy.zip"
+echo w4-6 copy
+curl -s https://editor.p5js.org/editor/projects/qO6FNJHnX/zip -o "../p5mirror-jht1493/downloads/zips/w4-6 copy.zip"
+echo W4-6.5 GRAY LAVA LAMP copy
+curl -s https://editor.p5js.org/editor/projects/iryrGNQ4q/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.5 GRAY LAVA LAMP copy.zip"
+echo W4-6.5 GRAY LAVA LAMP copy copy
+curl -s https://editor.p5js.org/editor/projects/syBVenxNb/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.5 GRAY LAVA LAMP copy copy.zip"
+echo W4-6.7 ABSTRACT KISS 1 copy
+curl -s https://editor.p5js.org/editor/projects/1jGoelLby/zip -o "../p5mirror-jht1493/downloads/zips/W4-6.7 ABSTRACT KISS 1 copy.zip"
+echo w5 hw copy
+curl -s https://editor.p5js.org/editor/projects/wyQE99-qx/zip -o "../p5mirror-jht1493/downloads/zips/w5 hw copy.zip"
+echo W5.3a Zoog talks like a bad cartoon copy
+curl -s https://editor.p5js.org/editor/projects/lNaN-D8fV/zip -o "../p5mirror-jht1493/downloads/zips/W5.3a Zoog talks like a bad cartoon copy.zip"
+echo W5.3b Zoog talks with motor mouth  slider v2 copy
+curl -s https://editor.p5js.org/editor/projects/RpAgmXmoB/zip -o "../p5mirror-jht1493/downloads/zips/W5.3b Zoog talks with motor mouth  slider v2 copy.zip"
+echo W6 001: Ball() - icm
+curl -s https://editor.p5js.org/editor/projects/H8ww5teIs/zip -o "../p5mirror-jht1493/downloads/zips/W6 001: Ball() - icm.zip"
+echo W6 001: Ball() - icm copy
+curl -s https://editor.p5js.org/editor/projects/eUv0-JIeC/zip -o "../p5mirror-jht1493/downloads/zips/W6 001: Ball() - icm copy.zip"
+echo w6 assignment copy
+curl -s https://editor.p5js.org/editor/projects/x541RHmdf/zip -o "../p5mirror-jht1493/downloads/zips/w6 assignment copy.zip"
+echo w6- practiceQ4 part2 copy
+curl -s https://editor.p5js.org/editor/projects/lADRkvP-t/zip -o "../p5mirror-jht1493/downloads/zips/w6- practiceQ4 part2 copy.zip"
+echo W6.1 filling in sketch done copy
+curl -s https://editor.p5js.org/editor/projects/CCd2Eq8zb/zip -o "../p5mirror-jht1493/downloads/zips/W6.1 filling in sketch done copy.zip"
+echo W6.2-1 Bouncing ball class done copy
+curl -s https://editor.p5js.org/editor/projects/jk30DKUWS/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-1 Bouncing ball class done copy.zip"
+echo W6.2-1v6 Bouncing ball class with width error QUESTION1 copy
+curl -s https://editor.p5js.org/editor/projects/lvXbYzn3I/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-1v6 Bouncing ball class with width error QUESTION1 copy.zip"
+echo W6.2-3 Bouncing squares with color vs gray QUESTION2 copy
+curl -s https://editor.p5js.org/editor/projects/K3rXuUT6_/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-3 Bouncing squares with color vs gray QUESTION2 copy.zip"
+echo W6.2-3 Bouncing squares with color vs gray QUESTION2 copy
+curl -s https://editor.p5js.org/editor/projects/4daMsRtE1/zip -o "../p5mirror-jht1493/downloads/zips/W6.2-3 Bouncing squares with color vs gray QUESTION2 copy.zip"
+echo W6.3v3 ZAPPING ball with SPLICE copy
+curl -s https://editor.p5js.org/editor/projects/M1bZ0niZQ/zip -o "../p5mirror-jht1493/downloads/zips/W6.3v3 ZAPPING ball with SPLICE copy.zip"
+echo W8 by Lorena
+curl -s https://editor.p5js.org/editor/projects/TWR2lI6yE/zip -o "../p5mirror-jht1493/downloads/zips/W8 by Lorena.zip"
+echo W8.1 resize images almost copy
+curl -s https://editor.p5js.org/editor/projects/CkgOMJuSs/zip -o "../p5mirror-jht1493/downloads/zips/W8.1 resize images almost copy.zip"
+echo W8Htry2 copy
+curl -s https://editor.p5js.org/editor/projects/wFQMm8TFJ/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
+echo W8Htry2 copy
+curl -s https://editor.p5js.org/editor/projects/bL3Qnjtwx/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
+echo W8Htry2 copy
+curl -s https://editor.p5js.org/editor/projects/VOiODVFVu/zip -o "../p5mirror-jht1493/downloads/zips/W8Htry2 copy.zip"
+echo Waiting neon
+curl -s https://editor.p5js.org/editor/projects/CwLg2A19p/zip -o "../p5mirror-jht1493/downloads/zips/Waiting neon.zip"
+echo Waiting neon copy
+curl -s https://editor.p5js.org/editor/projects/zFsxV4RFs/zip -o "../p5mirror-jht1493/downloads/zips/Waiting neon copy.zip"
+echo Waiting yarrow
+curl -s https://editor.p5js.org/editor/projects/WtpIE74Ph/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow.zip"
+echo Waiting yarrow 1
+curl -s https://editor.p5js.org/editor/projects/jhTJtIGix/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 1.zip"
+echo Waiting yarrow 2
+curl -s https://editor.p5js.org/editor/projects/MM822BcFe/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 2.zip"
+echo Waiting yarrow 3
+curl -s https://editor.p5js.org/editor/projects/ATnBKpj1f/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 3.zip"
+echo Waiting yarrow 4
+curl -s https://editor.p5js.org/editor/projects/r6GGAXtz2/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 4.zip"
+echo Waiting yarrow 4
+curl -s https://editor.p5js.org/editor/projects/Cp28CtK6h/zip -o "../p5mirror-jht1493/downloads/zips/Waiting yarrow 4.zip"
+echo Warm berry
+curl -s https://editor.p5js.org/editor/projects/_FTDhwNBb/zip -o "../p5mirror-jht1493/downloads/zips/Warm berry.zip"
+echo Water chef 0
+curl -s https://editor.p5js.org/editor/projects/zUe71INx3/zip -o "../p5mirror-jht1493/downloads/zips/Water chef 0.zip"
+echo Webcam background removal copy
+curl -s https://editor.p5js.org/editor/projects/v2B5u4UmQ/zip -o "../p5mirror-jht1493/downloads/zips/Webcam background removal copy.zip"
+echo Webcam: Pixelated Mirror copy
+curl -s https://editor.p5js.org/editor/projects/3twOKVv-j/zip -o "../p5mirror-jht1493/downloads/zips/Webcam: Pixelated Mirror copy.zip"
+echo Webcam: Pixelated Mirror copy
+curl -s https://editor.p5js.org/editor/projects/5whqWxXVh/zip -o "../p5mirror-jht1493/downloads/zips/Webcam: Pixelated Mirror copy.zip"
+echo Week #2 Creative Exercise - Many cats
+curl -s https://editor.p5js.org/editor/projects/2XLYFOlCS/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise - Many cats.zip"
+echo Week #2 Creative Exercise by La'Kay Hodge
+curl -s https://editor.p5js.org/editor/projects/kymR4CtYK/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise by La'Kay Hodge.zip"
+echo Week #2 Creative Exercise La-Kay -remix
+curl -s https://editor.p5js.org/editor/projects/8FUO0en9R/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise La-Kay -remix.zip"
+echo Week #2 Creative Exercise La-Kay -remix copy
+curl -s https://editor.p5js.org/editor/projects/5C_Y1rcqR/zip -o "../p5mirror-jht1493/downloads/zips/Week #2 Creative Exercise La-Kay -remix copy.zip"
+echo Week #3 Creative Exercise ver 2 by La'Kay
+curl -s https://editor.p5js.org/editor/projects/OYPmndjq5/zip -o "../p5mirror-jht1493/downloads/zips/Week #3 Creative Exercise ver 2 by La'Kay.zip"
+echo Week #4 Exercise #2 La’Kay
+curl -s https://editor.p5js.org/editor/projects/dWabxukzd/zip -o "../p5mirror-jht1493/downloads/zips/Week #4 Exercise #2 La’Kay.zip"
+echo Week #5 Exercise #1 La’Kay
+curl -s https://editor.p5js.org/editor/projects/CxrbYKjwA/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #1 La’Kay.zip"
+echo Week #5 Exercise #3 P2 copy
+curl -s https://editor.p5js.org/editor/projects/kqD3pRItz/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #3 P2 copy.zip"
+echo Week #5 Exercise #3 P3 La'Kay Hodge
+curl -s https://editor.p5js.org/editor/projects/cU0vP5qWq/zip -o "../p5mirror-jht1493/downloads/zips/Week #5 Exercise #3 P3 La'Kay Hodge.zip"
+echo Week #8 Creative Exercise copy
+curl -s https://editor.p5js.org/editor/projects/vYmDfOD4J/zip -o "../p5mirror-jht1493/downloads/zips/Week #8 Creative Exercise copy.zip"
+echo Week 03 Assignment v3 | Long L copy
+curl -s https://editor.p5js.org/editor/projects/V7uUIUG_r/zip -o "../p5mirror-jht1493/downloads/zips/Week 03 Assignment v3 | Long L copy.zip"
+echo Week 03 Assignment v3 | Long L copy
+curl -s https://editor.p5js.org/editor/projects/KWXB93mga/zip -o "../p5mirror-jht1493/downloads/zips/Week 03 Assignment v3 | Long L copy.zip"
+echo Week 1 Portrait copy
+curl -s https://editor.p5js.org/editor/projects/xmZE17sQ9/zip -o "../p5mirror-jht1493/downloads/zips/Week 1 Portrait copy.zip"
+echo Week 3 _ Animation_ Yizhi Liu copy
+curl -s https://editor.p5js.org/editor/projects/IHUNM4THk/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 _ Animation_ Yizhi Liu copy.zip"
+echo Week 3 Homework Sketch - Slider copy
+curl -s https://editor.p5js.org/editor/projects/NXjH6g_MM/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 Homework Sketch - Slider copy.zip"
+echo Week 3 HW project copy
+curl -s https://editor.p5js.org/editor/projects/T6eYkB1I0/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 HW project copy.zip"
+echo week 3 p 1 copy
+curl -s https://editor.p5js.org/editor/projects/zWCstlqh6/zip -o "../p5mirror-jht1493/downloads/zips/week 3 p 1 copy.zip"
+echo Week 3 Worksheet Q3 copy
+curl -s https://editor.p5js.org/editor/projects/eE_S9wlNA/zip -o "../p5mirror-jht1493/downloads/zips/Week 3 Worksheet Q3 copy.zip"
+echo Week 4 Worksheet - Q3 copy
+curl -s https://editor.p5js.org/editor/projects/hWfxfq4BR/zip -o "../p5mirror-jht1493/downloads/zips/Week 4 Worksheet - Q3 copy.zip"
+echo Week 4 Worksheet - Q3 copy
+curl -s https://editor.p5js.org/editor/projects/IeTcF4V1W/zip -o "../p5mirror-jht1493/downloads/zips/Week 4 Worksheet - Q3 copy.zip"
+echo Week 5  Worksheets #1 copy
+curl -s https://editor.p5js.org/editor/projects/ykjcNZX3a/zip -o "../p5mirror-jht1493/downloads/zips/Week 5  Worksheets #1 copy.zip"
+echo WEEK 5_ Q3_Yizhi copy
+curl -s https://editor.p5js.org/editor/projects/4Cs157MLM/zip -o "../p5mirror-jht1493/downloads/zips/WEEK 5_ Q3_Yizhi copy.zip"
+echo Week 6 canvas lita copy
+curl -s https://editor.p5js.org/editor/projects/CagQoSSHB/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 canvas lita copy.zip"
+echo Week 6 p1 copy
+curl -s https://editor.p5js.org/editor/projects/Bl-UtaMPE/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p1 copy.zip"
+echo Week 6 p2p3 bounce is not work copy
+curl -s https://editor.p5js.org/editor/projects/43ogmRnJ6/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p2p3 bounce is not work copy.zip"
+echo Week 6 p2p3 bounce is not work copy
+curl -s https://editor.p5js.org/editor/projects/ojR6cSj_T/zip -o "../p5mirror-jht1493/downloads/zips/Week 6 p2p3 bounce is not work copy.zip"
+echo week_9_hw by Kelin
+curl -s https://editor.p5js.org/editor/projects/BsiIm2Iz3/zip -o "../p5mirror-jht1493/downloads/zips/week_9_hw by Kelin.zip"
+echo Week11-Synthetic music copy
+curl -s https://editor.p5js.org/editor/projects/cUEF7D90I/zip -o "../p5mirror-jht1493/downloads/zips/Week11-Synthetic music copy.zip"
+echo Week2 Annan corrected
+curl -s https://editor.p5js.org/editor/projects/0UUhVfoi2/zip -o "../p5mirror-jht1493/downloads/zips/Week2 Annan corrected.zip"
+echo week22 yvonne - mousePressed
+curl -s https://editor.p5js.org/editor/projects/CvO3B5mxJ/zip -o "../p5mirror-jht1493/downloads/zips/week22 yvonne - mousePressed.zip"
+echo Week3 Make a rule-based animation copy
+curl -s https://editor.p5js.org/editor/projects/9_Xe1n9TC/zip -o "../p5mirror-jht1493/downloads/zips/Week3 Make a rule-based animation copy.zip"
+echo Week3 Worksheet-3 copy
+curl -s https://editor.p5js.org/editor/projects/WFYj8t8NU/zip -o "../p5mirror-jht1493/downloads/zips/Week3 Worksheet-3 copy.zip"
+echo week4_3 copy
+curl -s https://editor.p5js.org/editor/projects/h5HM1EAbP/zip -o "../p5mirror-jht1493/downloads/zips/week4_3 copy.zip"
+echo week4-3 Lorena
+curl -s https://editor.p5js.org/editor/projects/eqSDTSv3C/zip -o "../p5mirror-jht1493/downloads/zips/week4-3 Lorena.zip"
+echo Week5 Worksheet-3 copy
+curl -s https://editor.p5js.org/editor/projects/aQXrqyc_o/zip -o "../p5mirror-jht1493/downloads/zips/Week5 Worksheet-3 copy.zip"
+echo Week5_ Q4 copy
+curl -s https://editor.p5js.org/editor/projects/7qt974G-y/zip -o "../p5mirror-jht1493/downloads/zips/Week5_ Q4 copy.zip"
+echo week5-creative excercise Lorena
+curl -s https://editor.p5js.org/editor/projects/PL8GiL-Vt/zip -o "../p5mirror-jht1493/downloads/zips/week5-creative excercise Lorena.zip"
+echo week5-creative excercise Lorena copy
+curl -s https://editor.p5js.org/editor/projects/UUX72yLxf/zip -o "../p5mirror-jht1493/downloads/zips/week5-creative excercise Lorena copy.zip"
+echo week5-ex4-part1 Lorena
+curl -s https://editor.p5js.org/editor/projects/lSPbMTHA4/zip -o "../p5mirror-jht1493/downloads/zips/week5-ex4-part1 Lorena.zip"
+echo Week6 HW sun /moon copy
+curl -s https://editor.p5js.org/editor/projects/nkJ3a6n00/zip -o "../p5mirror-jht1493/downloads/zips/Week6 HW sun /moon copy.zip"
+echo Week6_Q2_Yizhi copy
+curl -s https://editor.p5js.org/editor/projects/27q4Q7hp6/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q2_Yizhi copy.zip"
+echo Week6_Q3_Yizhi copy
+curl -s https://editor.p5js.org/editor/projects/cvIeYSZ1f/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q3_Yizhi copy.zip"
+echo Week6_Q4_Yizhi_Part2 copy
+curl -s https://editor.p5js.org/editor/projects/aRIuTnBre/zip -o "../p5mirror-jht1493/downloads/zips/Week6_Q4_Yizhi_Part2 copy.zip"
+echo Week6-Arrays and Objects copy
+curl -s https://editor.p5js.org/editor/projects/osHd-1XKA/zip -o "../p5mirror-jht1493/downloads/zips/Week6-Arrays and Objects copy.zip"
+echo Week8 copy
+curl -s https://editor.p5js.org/editor/projects/S67xZi8qW/zip -o "../p5mirror-jht1493/downloads/zips/Week8 copy.zip"
+echo Week8_assgm3_icm copy
+curl -s https://editor.p5js.org/editor/projects/tl9q_BNmq/zip -o "../p5mirror-jht1493/downloads/zips/Week8_assgm3_icm copy.zip"
+echo week8_customfilter copy
+curl -s https://editor.p5js.org/editor/projects/ZAlMxuCUv/zip -o "../p5mirror-jht1493/downloads/zips/week8_customfilter copy.zip"
+echo week8_customfilter copy
+curl -s https://editor.p5js.org/editor/projects/meuC-yuLM/zip -o "../p5mirror-jht1493/downloads/zips/week8_customfilter copy.zip"
+echo Winter structure copy
+curl -s https://editor.p5js.org/editor/projects/VPDJhCkq9/zip -o "../p5mirror-jht1493/downloads/zips/Winter structure copy.zip"
+echo Wk 4 Repetition with Loops copy
+curl -s https://editor.p5js.org/editor/projects/BOalJurB8/zip -o "../p5mirror-jht1493/downloads/zips/Wk 4 Repetition with Loops copy.zip"
+echo Wk 4_Create_Test_2 copy
+curl -s https://editor.p5js.org/editor/projects/BW4-3_jVf/zip -o "../p5mirror-jht1493/downloads/zips/Wk 4_Create_Test_2 copy.zip"
+echo WK11 Reverb by Cassie Tarakajian copy
+curl -s https://editor.p5js.org/editor/projects/cJhHllx0c/zip -o "../p5mirror-jht1493/downloads/zips/WK11 Reverb by Cassie Tarakajian copy.zip"
+echo WK2 move a circle with random size
+curl -s https://editor.p5js.org/editor/projects/5P70SGsPZ/zip -o "../p5mirror-jht1493/downloads/zips/WK2 move a circle with random size.zip"
+echo Wk2_creativeProject -- layers
+curl -s https://editor.p5js.org/editor/projects/gFwXNhpF2/zip -o "../p5mirror-jht1493/downloads/zips/Wk2_creativeProject -- layers.zip"
+echo Wk2_creativeProject by marthajanicki
+curl -s https://editor.p5js.org/editor/projects/IJ6oPqxUL/zip -o "../p5mirror-jht1493/downloads/zips/Wk2_creativeProject by marthajanicki.zip"
+echo wk3_creative checkbox
+curl -s https://editor.p5js.org/editor/projects/-fOimHNMc/zip -o "../p5mirror-jht1493/downloads/zips/wk3_creative checkbox.zip"
+echo wk3_ex5_red Martha - remix
+curl -s https://editor.p5js.org/editor/projects/5bl_flKUx/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix.zip"
+echo wk3_ex5_red Martha - remix copy
+curl -s https://editor.p5js.org/editor/projects/BXTxkWJCX/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix copy.zip"
+echo wk3_ex5_red Martha - remix slide
+curl -s https://editor.p5js.org/editor/projects/bugsK2pgi/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slide.zip"
+echo wk3_ex5_red Martha - remix slide2
+curl -s https://editor.p5js.org/editor/projects/N4J3DGxUO/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slide2.zip"
+echo wk3_ex5_red Martha - remix slider on canvas
+curl -s https://editor.p5js.org/editor/projects/r768lvXGo/zip -o "../p5mirror-jht1493/downloads/zips/wk3_ex5_red Martha - remix slider on canvas.zip"
+echo wk4_creativeFinal copy
+curl -s https://editor.p5js.org/editor/projects/ectQOZZ8t/zip -o "../p5mirror-jht1493/downloads/zips/wk4_creativeFinal copy.zip"
+echo wk4_creativeFinal copy copy copy
+curl -s https://editor.p5js.org/editor/projects/oTlmmneUb/zip -o "../p5mirror-jht1493/downloads/zips/wk4_creativeFinal copy copy copy.zip"
+echo wk4_ex6 copy
+curl -s https://editor.p5js.org/editor/projects/Evk-Oeecb/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 copy.zip"
+echo wk4_ex6 copy
+curl -s https://editor.p5js.org/editor/projects/dh0jRVEcw/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 copy.zip"
+echo wk4_ex6 Martha
+curl -s https://editor.p5js.org/editor/projects/eMLBzvHaB/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 Martha.zip"
+echo wk4_ex6 Martha copy
+curl -s https://editor.p5js.org/editor/projects/I4ELnN9Lv/zip -o "../p5mirror-jht1493/downloads/zips/wk4_ex6 Martha copy.zip"
+echo Wk5 #2 copy
+curl -s https://editor.p5js.org/editor/projects/nFcHqntS0/zip -o "../p5mirror-jht1493/downloads/zips/Wk5 #2 copy.zip"
+echo wk5_ex2 copy
+curl -s https://editor.p5js.org/editor/projects/hKgvTGCsI/zip -o "../p5mirror-jht1493/downloads/zips/wk5_ex2 copy.zip"
+echo wk5_ex2 copy copy
+curl -s https://editor.p5js.org/editor/projects/qvVnmZ-w6/zip -o "../p5mirror-jht1493/downloads/zips/wk5_ex2 copy copy.zip"
+echo Wk6Final.1 copy copy
+curl -s https://editor.p5js.org/editor/projects/lxRH7zGy0/zip -o "../p5mirror-jht1493/downloads/zips/Wk6Final.1 copy copy.zip"
+echo wk8_ex4 copy
+curl -s https://editor.p5js.org/editor/projects/OOSsl1Sn_/zip -o "../p5mirror-jht1493/downloads/zips/wk8_ex4 copy.zip"
+echo WK8Ex by June
+curl -s https://editor.p5js.org/editor/projects/4cFcflomH/zip -o "../p5mirror-jht1493/downloads/zips/WK8Ex by June.zip"
+echo WK9 PosetNet Keypoints Demo
+curl -s https://editor.p5js.org/editor/projects/C8-6BjUJ-/zip -o "../p5mirror-jht1493/downloads/zips/WK9 PosetNet Keypoints Demo.zip"
+echo WK9 PosetNet Keypoints Demo copy
+curl -s https://editor.p5js.org/editor/projects/2KVsmKo67/zip -o "../p5mirror-jht1493/downloads/zips/WK9 PosetNet Keypoints Demo copy.zip"
+echo Woolly hummingbird
+curl -s https://editor.p5js.org/editor/projects/H-IXB_Xf0/zip -o "../p5mirror-jht1493/downloads/zips/Woolly hummingbird.zip"
+echo x-y feedback loadImage
+curl -s https://editor.p5js.org/editor/projects/vGPw7SEGq/zip -o "../p5mirror-jht1493/downloads/zips/x-y feedback loadImage.zip"
+echo Yin and Yang array
+curl -s https://editor.p5js.org/editor/projects/oBhfUAf_c/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang array.zip"
+echo Yin and Yang duo
+curl -s https://editor.p5js.org/editor/projects/Qm20nAEJD/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang duo.zip"
+echo Yin and Yang func
+curl -s https://editor.p5js.org/editor/projects/D9oMUvxe1/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang func.zip"
+echo Yin and Yang parameters
+curl -s https://editor.p5js.org/editor/projects/Dlu-w9dla/zip -o "../p5mirror-jht1493/downloads/zips/Yin and Yang parameters.zip"
+echo Ying Yang Project copy
+curl -s https://editor.p5js.org/editor/projects/CdbxsluTD/zip -o "../p5mirror-jht1493/downloads/zips/Ying Yang Project copy.zip"
+echo Zoog
+curl -s https://editor.p5js.org/editor/projects/C8D-8RJNM/zip -o "../p5mirror-jht1493/downloads/zips/Zoog.zip"
+echo Zoog copy
+curl -s https://editor.p5js.org/editor/projects/iYZ8gULFZ/zip -o "../p5mirror-jht1493/downloads/zips/Zoog copy.zip"
+echo Zoog family
+curl -s https://editor.p5js.org/editor/projects/35xU7zmFI/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family.zip"
+echo Zoog family alpha
+curl -s https://editor.p5js.org/editor/projects/rlhXAvJWB/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family alpha.zip"
+echo Zoog family step
+curl -s https://editor.p5js.org/editor/projects/l63ieOmpK/zip -o "../p5mirror-jht1493/downloads/zips/Zoog family step.zip"
+echo Zoog fun
+curl -s https://editor.p5js.org/editor/projects/tgZpbhMxB/zip -o "../p5mirror-jht1493/downloads/zips/Zoog fun.zip"
+echo zoog func
+curl -s https://editor.p5js.org/editor/projects/HQJI8pfOD/zip -o "../p5mirror-jht1493/downloads/zips/zoog func.zip"
+echo zoog func draw
+curl -s https://editor.p5js.org/editor/projects/jAIFJomBw/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw.zip"
+echo zoog func draw mouseY
+curl -s https://editor.p5js.org/editor/projects/0bbB7pf8R/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw mouseY.zip"
+echo zoog func draw mouseY mouseX
+curl -s https://editor.p5js.org/editor/projects/uVizUWDYu/zip -o "../p5mirror-jht1493/downloads/zips/zoog func draw mouseY mouseX.zip"
+echo Zoog mimiyin
+curl -s https://editor.p5js.org/editor/projects/3Floz4vjU/zip -o "../p5mirror-jht1493/downloads/zips/Zoog mimiyin.zip"
