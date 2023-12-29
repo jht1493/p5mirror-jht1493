@@ -16,3 +16,6 @@ sh downloads/gen/download.sh
 # run unzip shell script
 sh downloads/gen/unzip.sh
 
+# --
+
+Week6 HW sun /moon copy
