@@ -20,12 +20,11 @@ sh downloads/gen/unzip.sh
 
 1385 sketches  
 
+downloads/zips
+5,684,153,854 bytes (5.69 GB on disk) for 1,386 items
+
 git repo zip
 p5mirror-jht1493-main.zip
-362,132,437 bytes (369.6 MB on disk)
+430,829,516 bytes (436.8 MB on disk)
 p5mirror-jht1493-main
-431,747,545 bytes (448.2 MB on disk) for 6,535 items
-
-downloads/zips
-5,376,617,524 bytes (5.39 GB on disk) for 1,319 items
-
+504,925,490 bytes (522.3 MB on disk) for 6,880 items
