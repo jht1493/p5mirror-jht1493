@@ -18,4 +18,14 @@ sh downloads/gen/unzip.sh
 
 # --
 
-Week6 HW sun /moon copy
+1385 sketches  
+
+git repo zip
+p5mirror-jht1493-main.zip
+362,132,437 bytes (369.6 MB on disk)
+p5mirror-jht1493-main
+431,747,545 bytes (448.2 MB on disk) for 6,535 items
+
+downloads/zips
+5,376,617,524 bytes (5.39 GB on disk) for 1,319 items
+
