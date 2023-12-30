@@ -16,6 +16,9 @@ sh downloads/gen/download.sh
 # run unzip shell script
 sh downloads/gen/unzip.sh
 
+../p5mirror/bin/build-p5projects-index.sh --user jht1493 --downloads ../p5mirror-jht1493/downloads
+
+
 # --
 
 1385 sketches  
