@@ -9,6 +9,7 @@ downloads/zips
 # p5mirror is located in outter directory
 
 ../p5mirror/bin/build.sh --user jht1493 --downloads ../p5mirror-jht1493/downloads
+../p5mirror/bin/build.sh --user jht1493
 
 # run downloads shell script
 sh downloads/gen/download.sh
@@ -17,7 +18,7 @@ sh downloads/gen/download.sh
 sh downloads/gen/unzip.sh
 
 ../p5mirror/bin/build-p5projects-index.sh --user jht1493 --downloads ../p5mirror-jht1493/downloads
-
+../p5mirror/bin/build-p5projects-index.sh --user jht1493
 
 # --
 

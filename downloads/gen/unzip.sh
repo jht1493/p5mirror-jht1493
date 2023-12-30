@@ -1,4 +1,5 @@
-cd p5projects
+cd "../p5mirror-jht1493/downloads/../p5projects"
+pwd
 #
 echo unzip 1 "loadJSON c19 graph-1ZajWH3S8"
 rm -rf "loadJSON c19 graph-1ZajWH3S8"

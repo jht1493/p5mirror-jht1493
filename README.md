@@ -1,4 +1,4 @@
-# p5mirror-jht1493
+# [p5mirror-jht1493](https://github.com/jht1493/p5mirror-jht1493)
 
 mirror of my jht1493 p5js sketches
 
@@ -21,3 +21,7 @@ mirror of my jht1493 p5js sketches
 
 - [downloads/json/collections.json](./downloads/json/collections.json)
 - [downloads/json/sketches.json](./downloads/json/sketches.json)
+
+# github pages
+
+[https://jht1493.github.io/p5mirror-jht1493/](https://jht1493.github.io/p5mirror-jht1493/)
