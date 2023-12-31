@@ -1,6 +1,6 @@
 # [p5mirror-jht1493](https://github.com/jht1493/p5mirror-jht1493)
 
-mirror of my jht1493 p5js sketches
+mirror of jht1493 p5js sketches
 
 ## Generated files
 
