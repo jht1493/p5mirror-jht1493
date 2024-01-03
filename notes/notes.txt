@@ -10,6 +10,7 @@ downloads/zips
 
 ../p5mirror/bin/build.sh --user jht1493 --downloads ../p5mirror-jht1493/downloads
 ../p5mirror/bin/build.sh --user jht1493
+../p5mirror/bin/build.sh --user jht1493 --limit 1
 
 # run downloads shell script
 sh downloads/gen/download.sh

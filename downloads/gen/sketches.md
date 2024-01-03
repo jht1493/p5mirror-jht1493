@@ -1,5 +1,5 @@
 # Sketches for jht1493
-1385 sketches  
+1386 sketches  
 [\[P.COMP\] Positional LED Sampler Manual Change copy](https://editor.p5js.org/jht1493/sketches/OOqwT3Smj)<!-- 2022-12-14T20:42:28.368Z -->  
 [1.1 draw\_rect](https://editor.p5js.org/jht1493/sketches/WJFtFBmnK)<!-- 2021-03-21T20:48:04.012Z -->  
 [1.1 draw\_rect\_alpha](https://editor.p5js.org/jht1493/sketches/6mrwOv4RD)<!-- 2021-04-10T03:22:07.691Z -->  
@@ -1189,6 +1189,7 @@
 [thecity\_nyc-fade](https://editor.p5js.org/jht1493/sketches/e1WTKXUaI)<!-- 2021-11-17T18:45:38.224Z -->  
 [Tianjun Wang](https://editor.p5js.org/jht1493/sketches/xSdz6zTYf)<!-- 2020-08-26T20:49:57.922Z -->  
 [timed motion text](https://editor.p5js.org/jht1493/sketches/ExTKDesTy)<!-- 2022-09-21T15:53:08.741Z -->  
+[timed-drawing copy](https://editor.p5js.org/jht1493/sketches/eV5XXhkWG)<!-- 2024-01-02T20:47:57.317Z -->  
 [tint-limit-byr](https://editor.p5js.org/jht1493/sketches/Byj9bTU-K)<!-- 2020-08-11T19:56:54.282Z -->  
 [tint-red](https://editor.p5js.org/jht1493/sketches/sHh0hUhNt)<!-- 2021-04-01T09:46:43.512Z -->  
 [tint-red copy](https://editor.p5js.org/jht1493/sketches/r3Zc11p9E)<!-- 2021-04-01T09:49:50.124Z -->  
